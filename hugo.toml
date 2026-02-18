@@ -13,9 +13,30 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
 
-[params.homeInfoParams]
-  Title = "Welcome to AI Tools Lab"
-  Content = "Your guide to the best AI tools, automation tips, and productivity hacks."
+  [params.homeInfoParams]
+    Title = "Welcome to AI Tools Lab"
+    Content = "Your guide to the best AI tools, automation tips, and productivity hacks."
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/aitoolslab"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ai-tools-lab"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  # Search (FuseJS)
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -32,15 +53,41 @@ theme = "PaperMod"
     url = "/"
     weight = 10
   [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 15
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 20
+  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 20
+    weight = 25
+  [[menu.main]]
+    identifier = "newsletter"
+    name = "Newsletter"
+    url = "/newsletter/"
+    weight = 30
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
+    weight = 35
+
+  [[menu.footer]]
+    identifier = "privacy"
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = 10
+  [[menu.footer]]
+    identifier = "disclaimer"
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 20
 
 [markup.goldmark.renderer]
   unsafe = true

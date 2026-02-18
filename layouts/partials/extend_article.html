@@ -1,0 +1,16 @@
+{{ if .IsPage }}
+{{ if ne .Layout "search" }}
+<div class="newsletter-cta" style="margin-top: 3rem; padding: 2rem; border: 1px solid var(--border); border-radius: 12px; background: var(--code-bg); text-align: center;">
+  <h3 style="margin-top: 0; font-size: 1.3rem;">📬 Stay ahead of the AI curve</h3>
+  <p style="color: var(--secondary); margin-bottom: 1.2rem;">Get weekly reviews, tips & tool recommendations — no spam, unsubscribe anytime.</p>
+  <form action="#" method="POST" style="display: flex; gap: 0.5rem; max-width: 420px; margin: 0 auto; flex-wrap: wrap; justify-content: center;">
+    <input type="email" name="email" placeholder="you@example.com" required
+      style="flex: 1; min-width: 200px; padding: 0.6rem 1rem; border: 1px solid var(--border); border-radius: 8px; background: var(--theme); color: var(--primary); font-size: 0.95rem;">
+    <button type="submit"
+      style="padding: 0.6rem 1.4rem; background: var(--primary); color: var(--theme); border: none; border-radius: 8px; font-size: 0.95rem; cursor: pointer; font-weight: 600;">
+      Subscribe
+    </button>
+  </form>
+</div>
+{{ end }}
+{{ end }}
