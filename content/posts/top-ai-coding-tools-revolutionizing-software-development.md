@@ -91,7 +91,7 @@ Let’s explore some of the most popular AI coding tools currently available.
 - Offers educational resources for learners.
 
 **Cons**:
-- Limited to the Replit platform.
+- Limited to the [Replit](https://replit.com/?ref=AFFILIATE_ID) platform.
 - May not be suitable for larger, more complex projects.
 
 **Use Case**: If you’re teaching coding to beginners, Replit Ghostwriter can provide instant feedback and suggestions, helping students learn best practices as they write code.
@@ -129,13 +129,13 @@ Here’s a quick comparison of the tools discussed:
     <td>Requires internet, not always optimal suggestions</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Code completion</td>
     <td>Wide IDE support, local model for offline use</td>
     <td>Limited free version, context accuracy issues</td>
   </tr>
   <tr>
-    <td>Codeium</td>
+    <td>[Codeium](https://codeium.com/?ref=AFFILIATE_ID)</td>
     <td>Documentation generation</td>
     <td>Intuitive interface, real-time collaboration</td>
     <td>Limited features, language support</td>

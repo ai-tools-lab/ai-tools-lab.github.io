@@ -46,7 +46,7 @@ Imagine a developer working on a web application. As they start typing a functio
 
 ### 2. Kite
 
-Kite is another powerful AI coding assistant that supports over 16 languages and offers a robust code completion feature. It also includes a unique feature called "Kite Copilot," which provides documentation and examples inline.
+Kite is another powerful AI coding assistant that supports over 16 languages and offers a robust code completion feature. It also includes a unique feature called "Kite [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)," which provides documentation and examples inline.
 
 #### Pros:
 - Fast and efficient code completions
@@ -86,7 +86,7 @@ A full-stack developer can utilize TabNine to generate boilerplate code quickly,
     <th>Unique Feature</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Python, JavaScript, TypeScript, Ruby, etc.</td>
     <td>Visual Studio Code, JetBrains IDEs</td>
     <td>Context-aware suggestions</td>
@@ -119,7 +119,7 @@ A full-stack developer can utilize TabNine to generate boilerplate code quickly,
 - Limited community support compared to more established tools
 
 #### Use Case:
-A development team working on a collaborative project can benefit from Codeium’s features by sharing code snippets and reviewing each other’s suggestions in real-time, enhancing teamwork and productivity.
+A development team working on a collaborative project can benefit from [Codeium](https://codeium.com/?ref=AFFILIATE_ID)’s features by sharing code snippets and reviewing each other’s suggestions in real-time, enhancing teamwork and productivity.
 
 ### 5. Sourcery
 

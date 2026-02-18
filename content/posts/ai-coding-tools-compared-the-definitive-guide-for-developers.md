@@ -93,7 +93,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 
 **Strengths:**
 - **Cmd+K inline editing** — highlight code, describe what you want, and [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) rewrites it in place. This is the killer feature.
-- **Codebase-aware chat** — Ask questions about your entire project. Cursor indexes your codebase and provides answers grounded in your actual code.
+- **Codebase-aware chat** — Ask questions about your entire project. [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) indexes your codebase and provides answers grounded in your actual code.
 - **Multi-file editing** — Describe a refactoring across multiple files and Cursor generates a diff you can review and apply.
 - **Composer** — An agent mode that can plan and execute multi-step changes autonomously.
 - **Model flexibility** — Switch between GPT-4o, [Claude](https://claude.ai/?ref=AFFILIATE_ID) Sonnet, and other models depending on the task.
@@ -312,13 +312,13 @@ CodeRabbit reviews your pull requests automatically, providing line-by-line feed
 For developers who want the most capable AI coding experience, Cursor is the clear winner. Its combination of inline editing, codebase-aware chat, multi-file refactoring, and agent mode makes it the most complete AI coding tool available.
 
 ### Best for Teams: GitHub Copilot Enterprise
-If you need compliance features, admin controls, and a tool that works within existing GitHub workflows, Copilot Enterprise is the safe choice.
+If you need compliance features, admin controls, and a tool that works within existing GitHub workflows, [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise is the safe choice.
 
 ### Best Value: Windsurf
 At $15/month, Windsurf offers remarkably competitive features. Cascade is genuinely useful, and the free tier is generous.
 
 ### Best for Prototyping: Replit AI
-When you need to go from idea to deployed app as fast as possible, nothing beats Replit.
+When you need to go from idea to deployed app as fast as possible, nothing beats [Replit](https://replit.com/?ref=AFFILIATE_ID).
 
 ### Best for Privacy: Void + Ollama
 If code privacy is non-negotiable, Void with local models is the only option that keeps everything on your machine.

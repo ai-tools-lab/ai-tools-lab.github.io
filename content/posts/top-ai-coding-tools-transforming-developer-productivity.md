@@ -137,7 +137,7 @@ Here's a comparative overview of the tools discussed:
   <tr>
     <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Web Languages</td>
-    <td>Replit IDE</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) IDE</td>
     <td>Subscription</td>
     <td>Learning & Collaboration</td>
   </tr>

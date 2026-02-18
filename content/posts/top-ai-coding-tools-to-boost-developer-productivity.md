@@ -159,7 +159,7 @@ flowchart TD
 
 AI coding tools are revolutionizing the way developers work by providing intelligent solutions that enhance productivity and code quality. Whether you need real-time code suggestions, documentation support, or comprehensive code analysis, there's a tool tailored to your needs. 
 
-So, why wait? Start exploring these AI coding tools today to unlock your full coding potential and streamline your development process. If you’re ready to take your coding skills to the next level, try out [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, Kite, or DeepCode and experience the difference AI can make in your workflow!
+So, why wait? Start exploring these AI coding tools today to unlock your full coding potential and streamline your development process. If you’re ready to take your coding skills to the next level, try out [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), Kite, or DeepCode and experience the difference AI can make in your workflow!
 
 **Call to Action**: Have you tried any AI coding tools yet? Share your experiences in the comments below, or let us know which tools you’re excited to use!
 

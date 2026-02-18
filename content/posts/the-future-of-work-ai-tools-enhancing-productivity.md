@@ -106,7 +106,7 @@ Here’s a quick comparison of the aforementioned AI tools:
     <td>Limited free version</td>
   </tr>
   <tr>
-    <td>Grammarly</td>
+    <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
     <td>Writing assistance</td>
     <td>Real-time suggestions, works on various platforms</td>
     <td>Limited free version</td>

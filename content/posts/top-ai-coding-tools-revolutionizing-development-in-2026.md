@@ -165,7 +165,7 @@ graph LR
 A[Start Coding] --> B{Choose AI Tool}
 B --> |[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Contextual Suggestions]
 B --> |[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Personalized Code Completion]
-B --> |Replit Ghostwriter| E[Collaborative Coding]
+B --> |[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter| E[Collaborative Coding]
 B --> |[Codeium](https://codeium.com/?ref=AFFILIATE_ID)| F[Documentation Assistance]
 B --> |Sourcery| G[Code Quality Enhancements]
 C --> H[Deploy Code]

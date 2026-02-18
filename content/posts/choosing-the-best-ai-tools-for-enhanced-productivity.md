@@ -135,13 +135,13 @@ Here’s a quick comparison of the tools discussed above to help you make a choi
     <td>Free, with premium features</td>
   </tr>
   <tr>
-    <td>Otter.ai</td>
+    <td>[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)</td>
     <td>Real-time transcription</td>
     <td>Meetings and interviews</td>
     <td>Free, with premium features</td>
   </tr>
   <tr>
-    <td>Grammarly</td>
+    <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
     <td>Writing assistance</td>
     <td>Content quality</td>
     <td>Free, with premium features</td>

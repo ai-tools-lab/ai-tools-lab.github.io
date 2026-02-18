@@ -149,7 +149,7 @@ Here are three recommended stacks for different use cases:
 - **Automation:** Zapier Professional + Make
 
 ### The Enterprise Stack ($2,000+/month)
-- **Writing:** Claude Enterprise + [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) Business
+- **Writing:** [Claude](https://claude.ai/?ref=AFFILIATE_ID) Enterprise + [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) Business
 - **Code:** [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise + [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) Business
 - **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Runway ML + Canva Enterprise
 - **Organization:** Asana Advanced + Glean + Slack AI
