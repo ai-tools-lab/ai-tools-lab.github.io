@@ -141,7 +141,7 @@ graph TD;
     B --> |30+ languages| D[Consider [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)]
     B --> |Specific| E[Consider Kite]
     A --> F{What features do you need?}
-    F --> |Suggestions| G[Consider [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Tabnine]
+    F --> |Suggestions| G[Consider [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)]
     F --> |Documentation| H[Consider Kite]
     F --> |Natural Language| I[Consider Codex]
 ```

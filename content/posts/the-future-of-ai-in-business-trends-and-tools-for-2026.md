@@ -103,7 +103,7 @@ To help you choose the best AI business tools for your needs, here’s a compari
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>ChatGPT</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
     <td>Customer Support</td>
     <td>24/7 chat capabilities, learns from conversations</td>
     <td>Subscription-based</td>

@@ -64,7 +64,7 @@ Let’s explore some of the most popular AI coding tools currently available.
 - The free version has limited features.
 - Predictions may not always be contextually accurate.
 
-**Use Case**: If you're working on a large project with multiple contributors, Tabnine can help maintain consistency in coding style while speeding up the development process.
+**Use Case**: If you're working on a large project with multiple contributors, [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) can help maintain consistency in coding style while speeding up the development process.
 
 ### 3. Codeium
 
@@ -79,11 +79,11 @@ Let’s explore some of the most popular AI coding tools currently available.
 - Still in development, meaning features may be limited compared to competitors.
 - May not support all programming languages yet.
 
-**Use Case**: In a team setting, Codeium can facilitate discussion and collaboration by providing documentation and code suggestions in real time, making it easier to onboard new developers.
+**Use Case**: In a team setting, [Codeium](https://codeium.com/?ref=AFFILIATE_ID) can facilitate discussion and collaboration by providing documentation and code suggestions in real time, making it easier to onboard new developers.
 
 ### 4. Replit Ghostwriter
 
-**Overview**: [Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI tool integrated into the Replit platform, which is popular for online coding environments. It offers code suggestions, completion, and debugging assistance.
+**Overview**: [Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI tool integrated into the [Replit](https://replit.com/?ref=AFFILIATE_ID) platform, which is popular for online coding environments. It offers code suggestions, completion, and debugging assistance.
 
 **Pros**:
 - Great for beginners who want an interactive coding experience.
@@ -123,7 +123,7 @@ Here’s a quick comparison of the tools discussed:
     <th>Cons</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>General coding assistance</td>
     <td>Seamless IDE integration, multi-language support</td>
     <td>Requires internet, not always optimal suggestions</td>
@@ -161,7 +161,7 @@ Understanding how to integrate AI coding tools into your workflow can maximize t
 ```mermaid
 flowchart TD
     A[Start Coding] --> B{Choose Tool}
-    B --> |GitHub Copilot| C[Generate Code Suggestions]
+    B --> |GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Generate Code Suggestions]
     B --> |Tabnine| D[Receive Autocomplete]
     B --> |Codeium| E[Collaborate in Real-Time]
     B --> |Replit Ghostwriter| F[Interactive Learning]

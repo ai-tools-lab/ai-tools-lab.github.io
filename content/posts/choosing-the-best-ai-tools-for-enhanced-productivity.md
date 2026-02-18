@@ -79,7 +79,7 @@ Notion is an all-in-one workspace that combines note-taking, task management, an
 - Accuracy can vary based on audio quality.
 - Certain features require a paid plan.
 
-**Use Case:** A project manager can use Otter.ai to transcribe meetings, ensuring that all action items are accurately captured.
+**Use Case:** A project manager can use [Otter.ai](https://otter.ai/?ref=AFFILIATE_ID) to transcribe meetings, ensuring that all action items are accurately captured.
 
 ### 4. Grammarly
 
@@ -94,7 +94,7 @@ Notion is an all-in-one workspace that combines note-taking, task management, an
 - Advanced features locked behind a paywall.
 - May not always understand context.
 
-**Use Case:** A team of writers can use Grammarly to ensure consistent quality across all written materials, from emails to reports.
+**Use Case:** A team of writers can use [Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID) to ensure consistent quality across all written materials, from emails to reports.
 
 ### 5. Microsoft Power Automate
 

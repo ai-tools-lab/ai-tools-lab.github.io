@@ -146,7 +146,7 @@ When selecting the right AI coding tool for your needs, consider the following f
 flowchart TD
     A[Choose Programming Language] --> B{Select AI Coding Tool}
     B -->|GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Focus on Code Completion]
-    B -->|Tabnine| D[Customizable Solutions]
+    B -->|[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Customizable Solutions]
     B -->|Kite| E[In-line Documentation]
     B -->|DeepCode| F[Code Quality Analysis]
     C --> G[Improved Productivity]

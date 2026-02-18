@@ -155,7 +155,7 @@ flowchart LR
 
 AI coding tools are transforming the way developers approach coding by automating tasks and providing valuable insights. By incorporating these tools into your development process, you can significantly reduce development time while enhancing the quality of your code.
 
-Now that you understand the benefits and functionalities of AI coding tools, it’s time to explore which tool best fits your needs. Whether you choose GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, or Kite, each has unique advantages that can help streamline your coding process.
+Now that you understand the benefits and functionalities of AI coding tools, it’s time to explore which tool best fits your needs. Whether you choose GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), or Kite, each has unique advantages that can help streamline your coding process.
 
 ### Call to Action
 

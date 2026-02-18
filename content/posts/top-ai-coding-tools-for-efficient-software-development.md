@@ -114,14 +114,14 @@ OpenAI's Codex is a powerful AI system that can understand and generate code. It
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>Multiple</td>
     <td>No</td>
     <td>Subscription-based</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>30+</td>
     <td>Yes</td>
@@ -135,7 +135,7 @@ OpenAI's Codex is a powerful AI system that can understand and generate code. It
     <td>API-based pricing</td>
   </tr>
   <tr>
-    <td>Replit</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>Multiple</td>
     <td>Not fully</td>
@@ -151,7 +151,7 @@ To visualize how these AI coding tools fit into the software development workflo
 graph TD;
     A[Start Coding] --> B[Write Code];
     B --> C{AI Tool};
-    C -->|GitHub Copilot| D[Code Suggestions];
+    C -->|GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| D[Code Suggestions];
     C -->|Tabnine| E[Code Completion];
     C -->|Codex| F[Generate Functions];
     C -->|Replit| G[Collaborate];

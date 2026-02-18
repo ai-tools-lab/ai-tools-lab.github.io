@@ -167,11 +167,11 @@ To illustrate how these AI agents can fit into your productivity workflow, consi
 graph TD;
     A[Identify Task] --> B[Choose AI Agent];
     B --> C{Task Type};
-    C -->|Content Creation| D[Use ChatGPT];
+    C -->|Content Creation| D[Use [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)];
     C -->|Project Management| E[Use ClickUp AI];
-    C -->|Note-taking| F[Use Notion AI];
+    C -->|Note-taking| F[Use [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)];
     C -->|Task Automation| G[Use Trello Butler];
-    C -->|Office Tasks| H[Use Microsoft Copilot];
+    C -->|Office Tasks| H[Use Microsoft [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)];
     D --> I[Review and Edit Output];
     E --> I;
     F --> I;

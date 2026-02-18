@@ -136,7 +136,7 @@ Here's a quick comparison to help you decide which AI coding tool fits your need
   <tr>
     <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Web languages</td>
-    <td>Replit IDE</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) IDE</td>
     <td>Subscription</td>
     <td>Real-time collaboration</td>
   </tr>

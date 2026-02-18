@@ -73,7 +73,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 
 **Weaknesses:**
 - Smaller ecosystem and fewer integrations
-- Chat features are basic compared to Copilot or [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)
+- Chat features are basic compared to [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)
 - Less effective for niche languages
 - Newer product, smaller community
 
@@ -92,7 +92,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) has redefined what an AI code editor can be. Built as a fork of VS Code, it retains full compatibility with VS Code extensions while adding deeply integrated AI features that feel native, not bolted on.
 
 **Strengths:**
-- **Cmd+K inline editing** — highlight code, describe what you want, and Cursor rewrites it in place. This is the killer feature.
+- **Cmd+K inline editing** — highlight code, describe what you want, and [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) rewrites it in place. This is the killer feature.
 - **Codebase-aware chat** — Ask questions about your entire project. Cursor indexes your codebase and provides answers grounded in your actual code.
 - **Multi-file editing** — Describe a refactoring across multiple files and Cursor generates a diff you can review and apply.
 - **Composer** — An agent mode that can plan and execute multi-step changes autonomously.
@@ -293,7 +293,7 @@ CodeRabbit reviews your pull requests automatically, providing line-by-line feed
 
 ## Head-to-Head Comparison Table
 
-| Feature | [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) | Cursor | Windsurf | Devin | Replit AI |
+| Feature | [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) | Cursor | Windsurf | Devin | [Replit](https://replit.com/?ref=AFFILIATE_ID) AI |
 |---|---|---|---|---|---|
 | **Price** | $10-39/mo | $0-40/mo | $0-15/mo | $500/mo | $0-25/mo |
 | **Autocomplete** | ★★★★★ | ★★★★☆ | ★★★★☆ | N/A | ★★★☆☆ |
@@ -363,7 +363,7 @@ AI tools that generate comprehensive test suites, identify edge cases, and maint
 Multiple specialized AI agents working together — one writes code, another reviews it, another writes tests, another handles deployment. CrewAI and similar frameworks are making this possible.
 
 ### Trend 5: Personalized Models
-Fine-tuned models that learn your coding style, your codebase's conventions, and your preferences. GitHub Copilot Enterprise is already heading this direction with organization-level customization.
+Fine-tuned models that learn your coding style, your codebase's conventions, and your preferences. [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise is already heading this direction with organization-level customization.
 
 ---
 

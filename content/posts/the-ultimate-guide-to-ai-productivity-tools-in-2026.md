@@ -137,19 +137,19 @@ Here are three recommended stacks for different use cases:
 
 ### The Freelancer Stack ($0–50/month)
 - **Writing:** [Claude](https://claude.ai/?ref=AFFILIATE_ID) Free + [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) Free
-- **Design:** Canva Free + [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) (via ChatGPT)
+- **Design:** Canva Free + [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) (via [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID))
 - **Organization:** Notion Free
 - **Automation:** Zapier Free (limited) or n8n (self-hosted)
 
 ### The Startup Stack ($200–500/month)
-- **Writing:** Claude Pro + [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) Starter
+- **Writing:** [Claude](https://claude.ai/?ref=AFFILIATE_ID) Pro + [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) Starter
 - **Code:** [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) Pro + GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
 - **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Canva Pro
 - **Organization:** Linear + Notion Team + [Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)
 - **Automation:** Zapier Professional + Make
 
 ### The Enterprise Stack ($2,000+/month)
-- **Writing:** Claude Enterprise + Jasper Business
+- **Writing:** Claude Enterprise + [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) Business
 - **Code:** [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise + [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) Business
 - **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Runway ML + Canva Enterprise
 - **Organization:** Asana Advanced + Glean + Slack AI

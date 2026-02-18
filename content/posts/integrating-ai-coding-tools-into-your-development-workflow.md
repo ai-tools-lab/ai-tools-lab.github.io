@@ -114,13 +114,13 @@ graph TD;
 ## Real-World Use Cases
 
 ### 1. Debugging with AI
-A team of developers at a mid-sized tech firm integrated GitHub Copilot into their workflow. They found that it greatly reduced the time spent debugging, as the tool suggested fixes for common errors based on context.
+A team of developers at a mid-sized tech firm integrated [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) into their workflow. They found that it greatly reduced the time spent debugging, as the tool suggested fixes for common errors based on context.
 
 ### 2. Learning and Mentorship
 A junior developer used Kite to assist in learning Python. The tool provided real-time code suggestions and explanations, making the learning process faster and more intuitive.
 
 ### 3. Enhancing Team Collaboration
-A remote team utilized Tabnine to ensure consistency in code quality across projects. The AI tool helped maintain coding standards, which resulted in fewer code reviews and faster project completion.
+A remote team utilized [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) to ensure consistency in code quality across projects. The AI tool helped maintain coding standards, which resulted in fewer code reviews and faster project completion.
 
 ## Conclusion
 

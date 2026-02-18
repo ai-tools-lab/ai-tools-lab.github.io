@@ -94,7 +94,7 @@ Here’s a selection of AI tools that can significantly impact your small busine
 
 **Example Tool**: Trello
 
-**Description**: Trello utilizes AI to help teams organize tasks and projects visually, making collaboration easier and more efficient.
+**[Descript](https://www.descript.com/?ref=AFFILIATE_ID)ion**: Trello utilizes AI to help teams organize tasks and projects visually, making collaboration easier and more efficient.
 
 **Pros**:
 - User-friendly interface with drag-and-drop functionality.

@@ -153,7 +153,7 @@ To help you choose the right AI productivity tools for your needs, here’s a co
 <td>From $70/month</td>
 </tr>
 <tr>
-<td>Jasper</td>
+<td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)</td>
 <td>Content Generation</td>
 <td>AI writing assistant, templates</td>
 <td>From $29/month</td>

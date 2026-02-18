@@ -152,7 +152,7 @@ To make it easier for you to choose the right tool, here’s a comparison table 
         <th>Cons</th>
     </tr>
     <tr>
-        <td>Notion AI</td>
+        <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
         <td>Content generation, task automation, collaboration</td>
         <td>Customizable, excellent collaboration</td>
         <td>Overwhelming for beginners</td>
@@ -164,7 +164,7 @@ To make it easier for you to choose the right tool, here’s a comparison table 
         <td>Learning curve for AI features</td>
     </tr>
     <tr>
-        <td>Otter.ai</td>
+        <td>[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)</td>
         <td>Real-time transcription, highlight key points</td>
         <td>Accurate, essential for meetings</td>
         <td>Requires internet, struggles with accents</td>
@@ -176,7 +176,7 @@ To make it easier for you to choose the right tool, here’s a comparison table 
         <td>Limited free features</td>
     </tr>
     <tr>
-        <td>Grammarly</td>
+        <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
         <td>Grammar checking, tone adjustment</td>
         <td>Enhances writing quality, versatile</td>
         <td>Subscription needed for full features</td>

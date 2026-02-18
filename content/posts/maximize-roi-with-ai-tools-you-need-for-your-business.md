@@ -145,7 +145,7 @@ To help you choose the right AI tools for maximizing ROI, here’s a comparison 
     <td>Free</td>
   </tr>
   <tr>
-    <td>ChatGPT</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
     <td>Content Creation</td>
     <td>Chatbots, automated content generation</td>
     <td>Subscription-based</td>
