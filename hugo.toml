@@ -1,0 +1,24 @@
+baseURL = "https://ai-tools-lab.github.io/"
+languageCode = "en-us"
+title = "AI Tools Lab — Reviews, Tutorials & Productivity Hacks"
+theme = "PaperMod"
+
+[params]
+  description = "Discover the best AI tools, productivity hacks, and automation tips. Honest reviews, tutorials, and comparisons updated weekly."
+  author = "AI Tools Lab"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "Welcome to AI Tools Lab"
+  Content = "Your guide to the best AI tools, automation tips, and productivity hacks."
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
