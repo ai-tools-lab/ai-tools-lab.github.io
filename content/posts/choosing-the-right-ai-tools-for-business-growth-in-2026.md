@@ -112,7 +112,7 @@ A digital marketing agency used Trello along with its automation tool, Butler, t
 
 #### Case 3: ChatGPT for Customer Support
 
-A tech startup integrated ChatGPT into their customer support system, providing 24/7 assistance to users. The AI chatbot handled common inquiries, allowing human agents to focus on complex issues. This approach improved response times and customer satisfaction scores by 40%.
+A tech startup integrated [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) into their customer support system, providing 24/7 assistance to users. The AI chatbot handled common inquiries, allowing human agents to focus on complex issues. This approach improved response times and customer satisfaction scores by 40%.
 
 ### The Future of AI Tools in Business
 

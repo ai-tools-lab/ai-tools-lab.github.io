@@ -108,7 +108,7 @@ To help you make an informed decision, here’s a side-by-side comparison of the
         <td>Subscription-based</td>
     </tr>
     <tr>
-        <td>Tabnine</td>
+        <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
         <td>Yes</td>
         <td>Multiple</td>
         <td>Yes</td>
@@ -136,7 +136,7 @@ To truly appreciate the value of AI tools in software development, let’s consi
 
 ### 1. Code Completion
 
-Imagine a developer working on a large-scale application. With GitHub Copilot, they can receive code suggestions as they type, significantly speeding up the coding process. For example, if they start writing a function, Copilot can predict the rest of the function based on context, allowing the developer to complete tasks faster.
+Imagine a developer working on a large-scale application. With [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), they can receive code suggestions as they type, significantly speeding up the coding process. For example, if they start writing a function, [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) can predict the rest of the function based on context, allowing the developer to complete tasks faster.
 
 ### 2. Bug Detection
 

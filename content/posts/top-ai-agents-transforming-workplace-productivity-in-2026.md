@@ -109,8 +109,8 @@ Trello is a project management tool that has introduced automation features to e
 <table>
   <tr>
     <th>Feature</th>
-    <th>Notion AI</th>
-    <th>Microsoft Copilot</th>
+    <th>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</th>
+    <th>Microsoft [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
     <th>Slack GPT</th>
     <th>Trello with Automation</th>
   </tr>

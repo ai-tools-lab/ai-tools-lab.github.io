@@ -96,7 +96,7 @@ Choosing the right tool for your team can be daunting, so here’s a quick compa
   <tr>
     <th>Feature</th>
     <th>Slack + AI</th>
-    <th>Microsoft Teams with Copilot</th>
+    <th>Microsoft Teams with [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
     <th>Trello + AI</th>
     <th>Zoom with AI Insights</th>
   </tr>

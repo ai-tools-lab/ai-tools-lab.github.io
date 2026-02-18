@@ -113,14 +113,14 @@ When selecting the right AI coding tool for your needs, it’s helpful to compar
     <th>Cons</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>General coding assistance</td>
     <td>Code suggestions, multi-language support</td>
     <td>Context-aware, IDE integration</td>
     <td>Occasional inaccuracies</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Customizable coding</td>
     <td>Deep learning code completions</td>
     <td>Offline capability, customizable</td>

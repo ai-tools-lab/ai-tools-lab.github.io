@@ -111,7 +111,7 @@ Here’s a quick comparison of the key features of the mentioned AI tools for bu
   </thead>
   <tbody>
     <tr>
-      <td>ChatGPT</td>
+      <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
       <td>Customer Service</td>
       <td>24/7 availability, scalable</td>
       <td>Complex inquiries may be challenging</td>

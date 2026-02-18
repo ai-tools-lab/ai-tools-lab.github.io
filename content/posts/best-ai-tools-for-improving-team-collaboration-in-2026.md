@@ -125,7 +125,7 @@ To provide you with a clearer picture of how these tools stack up against one an
         <td>Can be cluttered</td>
     </tr>
     <tr>
-        <td>Microsoft Teams with Copilot</td>
+        <td>Microsoft Teams with [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
         <td>Meeting organization, task suggestions</td>
         <td>Strong security features</td>
         <td>Requires subscription</td>

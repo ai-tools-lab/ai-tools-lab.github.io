@@ -40,7 +40,7 @@ Imagine you're building a web application and need to write a function to fetch 
 [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) is an AI-powered code completion tool that integrates with multiple IDEs to enhance your coding experience.
 
 ### Use Case
-When working with large codebases, Tabnine can predict the next line of code you might need based on your previous coding patterns.
+When working with large codebases, [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) can predict the next line of code you might need based on your previous coding patterns.
 
 ### Pros and Cons
 | Pros                                | Cons                               |
@@ -68,7 +68,7 @@ While coding in Python, Kite can suggest not only code completions but also rele
 [Codeium](https://codeium.com/?ref=AFFILIATE_ID) is a free AI coding assistant designed to provide context-aware code suggestions and auto-completions.
 
 ### Use Case
-If you're working on a team project, Codeium can understand the context of your work and suggest relevant code snippets.
+If you're working on a team project, [Codeium](https://codeium.com/?ref=AFFILIATE_ID) can understand the context of your work and suggest relevant code snippets.
 
 ### Pros and Cons
 | Pros                                | Cons                               |
@@ -96,7 +96,7 @@ When reviewing your code, Sourcery can highlight areas for improvement, ensuring
 [Replit](https://replit.com/?ref=AFFILIATE_ID) is an all-in-one coding platform that uses AI to help you code, host, and collaborate in real-time.
 
 ### Use Case
-When learning a new programming language, Replit's AI can help you navigate syntax and common pitfalls.
+When learning a new programming language, [Replit](https://replit.com/?ref=AFFILIATE_ID)'s AI can help you navigate syntax and common pitfalls.
 
 ### Pros and Cons
 | Pros                                | Cons                               |
@@ -172,7 +172,7 @@ Here’s a quick comparison of the tools discussed above:
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Real-time suggestions</td>
     <td>Multiple</td>
     <td>Paid</td>
@@ -238,7 +238,7 @@ graph TD;
     A[AI Coding Tools] --> B[Code Assistance]
     A --> C[Code Quality]
     A --> D[Testing]
-    B --> E[GitHub Copilot]
+    B --> E[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     B --> F[Tabnine]
     B --> G[Kite]
     C --> H[Sourcery]

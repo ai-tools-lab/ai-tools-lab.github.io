@@ -133,7 +133,7 @@ Here’s a quick comparison table summarizing the features, pros, and cons of th
     <th>Cons</th>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Content generation, task management</td>
     <td>Streamlined content creation</td>
     <td>Can lack deep contextual understanding</td>
@@ -145,7 +145,7 @@ Here’s a quick comparison table summarizing the features, pros, and cons of th
     <td>May require some initial setup</td>
   </tr>
   <tr>
-    <td>Jasper AI</td>
+    <td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) AI</td>
     <td>SEO optimization, versatile content types</td>
     <td>High-quality content generation</td>
     <td>Subscription-based pricing</td>

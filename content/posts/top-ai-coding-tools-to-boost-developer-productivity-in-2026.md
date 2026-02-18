@@ -30,7 +30,7 @@ AI coding tools utilize machine learning and natural language processing to assi
 
 **Overview**: Developed by GitHub in collaboration with OpenAI, [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) is an AI-powered code completion tool that suggests entire lines or blocks of code based on the context of what you’re writing.
 
-**Use Case**: Imagine you’re building a web application and need to implement a complex function. Copilot can analyze your existing code and suggest relevant code snippets, saving you time and effort.
+**Use Case**: Imagine you’re building a web application and need to implement a complex function. [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) can analyze your existing code and suggest relevant code snippets, saving you time and effort.
 
 **Pros**:
 - Increases coding speed with intelligent suggestions.
@@ -45,7 +45,7 @@ AI coding tools utilize machine learning and natural language processing to assi
 
 **Overview**: [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) is an AI-driven code completion tool that uses deep learning to suggest code snippets based on your existing code and the context in which you're working.
 
-**Use Case**: If you frequently switch between different programming languages, Tabnine’s multi-language support can help maintain your flow without interrupting your thought process.
+**Use Case**: If you frequently switch between different programming languages, [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)’s multi-language support can help maintain your flow without interrupting your thought process.
 
 **Pros**:
 - Supports a wide range of programming languages.
@@ -58,7 +58,7 @@ AI coding tools utilize machine learning and natural language processing to assi
 
 ### 3. Replit Ghostwriter
 
-**Overview**: [Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI assistant integrated into the Replit online coding platform, designed to help users write and debug code while collaborating with others.
+**Overview**: [Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI assistant integrated into the [Replit](https://replit.com/?ref=AFFILIATE_ID) online coding platform, designed to help users write and debug code while collaborating with others.
 
 **Use Case**: If you’re mentoring a junior developer, Ghostwriter can provide contextual hints and suggestions, making it easier for them to learn and progress.
 
@@ -75,7 +75,7 @@ AI coding tools utilize machine learning and natural language processing to assi
 
 **Overview**: [Codeium](https://codeium.com/?ref=AFFILIATE_ID) is a rapidly growing AI coding assistant that focuses on providing real-time code suggestions and explanations directly within your IDE.
 
-**Use Case**: While working on a large-scale application, Codeium can help you refactor code efficiently, ensuring you maintain best practices throughout your development process.
+**Use Case**: While working on a large-scale application, [Codeium](https://codeium.com/?ref=AFFILIATE_ID) can help you refactor code efficiently, ensuring you maintain best practices throughout your development process.
 
 **Pros**:
 - Integrates seamlessly with popular IDEs.
@@ -130,7 +130,7 @@ To maximize the benefits of AI coding tools, developers can follow a structured 
 ```mermaid
 graph LR
 A[Start Coding] --> B{Choose AI Tool}
-B -->|GitHub Copilot| C[Code Suggestions]
+B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Code Suggestions]
 B -->|Tabnine| D[Code Completion]
 B -->|Replit Ghostwriter| E[Collaborative Suggestions]
 B -->|Codeium| F[Real-Time Debugging]

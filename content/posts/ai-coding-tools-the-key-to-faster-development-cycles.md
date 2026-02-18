@@ -75,7 +75,7 @@ Let’s dive into some of the top AI coding tools that can help you achieve fast
 
 **Cons**:
 - The installation process can be complicated for some users.
-- Limited functionality compared to competitors like Copilot.
+- Limited functionality compared to competitors like [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID).
 
 ### Comparison of AI Coding Tools
 
@@ -90,7 +90,7 @@ Here’s a quick comparison of the AI coding tools mentioned above:
         <th>Cost</th>
     </tr>
     <tr>
-        <td>GitHub Copilot</td>
+        <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
         <td>Multiple</td>
         <td>Visual Studio Code, JetBrains</td>
         <td>No</td>

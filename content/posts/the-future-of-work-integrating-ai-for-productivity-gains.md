@@ -81,7 +81,7 @@ To give you a clearer idea of what’s available, let’s take a look at some po
         <td>Starts at $19.99/month</td>
     </tr>
     <tr>
-        <td>Grammarly</td>
+        <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
         <td>Writing assistance</td>
         <td>Improving written communication</td>
         <td>Free, Premium starts at $12/month</td>

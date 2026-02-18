@@ -125,12 +125,12 @@ To help you decide which AI tools are best for your workflow, here’s a quick c
     <th>Best For</th>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Content generation, project management</td>
     <td>Writers, project managers</td>
   </tr>
   <tr>
-    <td>Grammarly</td>
+    <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
     <td>Grammar check, tone adjustment</td>
     <td>Content creators, professionals</td>
   </tr>
@@ -145,7 +145,7 @@ To help you decide which AI tools are best for your workflow, here’s a quick c
     <td>Businesses, marketers</td>
   </tr>
   <tr>
-    <td>Otter.ai</td>
+    <td>[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)</td>
     <td>Transcription, meeting summaries</td>
     <td>Students, professionals</td>
   </tr>

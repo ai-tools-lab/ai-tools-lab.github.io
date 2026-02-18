@@ -59,7 +59,7 @@ An e-commerce company integrates Drift to handle customer queries during peak sh
 Platforms like **[Copy.ai](https://www.copy.ai/?ref=AFFILIATE_ID)** and **[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)** can assist in drafting articles, social media posts, and marketing copy based on minimal input, allowing content creators to focus on strategy and creativity.
 
 #### Use Case:
-A social media manager uses Jasper to generate engaging posts for multiple platforms, maintaining a consistent brand voice while saving hours of writing time.
+A social media manager uses [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) to generate engaging posts for multiple platforms, maintaining a consistent brand voice while saving hours of writing time.
 
 ## Choosing the Right AI Agents for Your Workflow
 

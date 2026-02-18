@@ -103,7 +103,7 @@ With the plethora of AI tools available, how do you choose the right one for you
     <td>Free; paid plans available</td>
   </tr>
   <tr>
-    <td>Jasper</td>
+    <td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)</td>
     <td>Content Creation</td>
     <td>AI writing assistant, SEO optimization</td>
     <td>Starts at $29/month</td>

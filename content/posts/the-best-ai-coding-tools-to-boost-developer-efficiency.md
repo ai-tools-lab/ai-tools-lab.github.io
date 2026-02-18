@@ -70,7 +70,7 @@ Let’s dive into some of the best AI coding tools that are making waves in the 
 - The free version has limited features.
 - May require fine-tuning to fit specific coding styles.
 
-**Use Case**: A team of developers working on a large project can use Tabnine to ensure consistency in code style and improve collaboration.
+**Use Case**: A team of developers working on a large project can use [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) to ensure consistency in code style and improve collaboration.
 
 ### 3. DeepCode
 
@@ -128,7 +128,7 @@ Let’s dive into some of the best AI coding tools that are making waves in the 
     <th>Cons</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Code suggestions, learning</td>
     <td>Intuitive, learns style</td>
@@ -171,7 +171,7 @@ To better understand how to integrate AI coding tools into your workflow, here�
 ```mermaid
 graph TD;
     A[Start] --> B{What is your primary need?}
-    B -->|Code completion| C[GitHub Copilot]
+    B -->|Code completion| C[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     B -->|Code quality| D[DeepCode]
     B -->|Refactoring| E[Sourcery]
     B -->|Documentation| F[Kite]
