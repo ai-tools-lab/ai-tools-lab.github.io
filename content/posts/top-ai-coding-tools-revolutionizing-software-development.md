@@ -62,7 +62,7 @@ Let’s dive into some of the most popular AI coding tools currently available, 
 - Premium features require a subscription.
 - May struggle with very complex codebases.
 
-**Use Case**: A data scientist can use Tabnine to quickly generate Python code for data processing tasks, enhancing their efficiency during exploratory data analysis.
+**Use Case**: A data scientist can use [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) to quickly generate Python code for data processing tasks, enhancing their efficiency during exploratory data analysis.
 
 #### 3. Codeium
 
@@ -77,7 +77,7 @@ Let’s dive into some of the most popular AI coding tools currently available, 
 - Still evolving, with occasional bugs.
 - Limited community support compared to more established tools.
 
-**Use Case**: A junior developer can leverage Codeium to learn best practices and receive guidance as they write their first application, building confidence along the way.
+**Use Case**: A junior developer can leverage [Codeium](https://codeium.com/?ref=AFFILIATE_ID) to learn best practices and receive guidance as they write their first application, building confidence along the way.
 
 ### Comparison of Top AI Coding Tools
 
@@ -86,7 +86,7 @@ Here’s a quick comparison of the highlighted AI coding tools based on key feat
 <table>
     <tr>
         <th>Feature</th>
-        <th>GitHub Copilot</th>
+        <th>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
         <th>Tabnine</th>
         <th>Codeium</th>
     </tr>
@@ -123,7 +123,7 @@ With so many options available, choosing the right AI coding tool can be challen
 ```mermaid
 graph TD;
     A[Start] --> B{What do you need?}
-    B -->|Code Completion| C[GitHub Copilot]
+    B -->|Code Completion| C[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     B -->|Personalized Suggestions| D[Tabnine]
     B -->|Free Option| E[Codeium]
     C --> F{Do you need IDE integration?}

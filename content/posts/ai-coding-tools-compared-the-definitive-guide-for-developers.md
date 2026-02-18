@@ -120,7 +120,7 @@ We tested [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) across our four test pro
 
 **Price:** Free (limited), $15/month (Pro)
 
-Windsurf is [Codeium](https://codeium.com/?ref=AFFILIATE_ID)'s answer to Cursor, and it's a strong one. Its standout feature is **Cascade** — an agentic coding flow that maintains context across multiple steps and can browse documentation, run terminal commands, and edit files autonomously.
+Windsurf is [Codeium](https://codeium.com/?ref=AFFILIATE_ID)'s answer to [Cursor](https://cursor.sh/?ref=AFFILIATE_ID), and it's a strong one. Its standout feature is **Cascade** — an agentic coding flow that maintains context across multiple steps and can browse documentation, run terminal commands, and edit files autonomously.
 
 **Strengths:**
 - **Cascade** is genuinely impressive for autonomous multi-step tasks
