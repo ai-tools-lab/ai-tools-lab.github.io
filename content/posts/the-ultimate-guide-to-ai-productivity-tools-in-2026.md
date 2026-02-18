@@ -42,22 +42,22 @@ The best productivity stacks cover all three pillars. Let's explore each.
 
 ### Writing & Content
 
-**[Claude](https://claude.ai/?ref=AFFILIATE_ID) (Anthropic)** — Claude has become the gold standard for long-form writing, research synthesis, and nuanced content creation. Its 200K context window means you can feed it entire documents, codebases, or research papers and get coherent, well-structured output. Best for: content strategy, blog writing, technical documentation.
+**[Claude](https://claude.ai/?ref=AFFILIATE_ID) (Anthropic)** — [Claude](https://claude.ai/?ref=AFFILIATE_ID) has become the gold standard for long-form writing, research synthesis, and nuanced content creation. Its 200K context window means you can feed it entire documents, codebases, or research papers and get coherent, well-structured output. Best for: content strategy, blog writing, technical documentation.
 
 **[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) (OpenAI)** — Still the most versatile general-purpose AI. GPT-5's multimodal capabilities make it excellent for brainstorming, quick drafts, and creative ideation. The custom GPTs ecosystem means you can build specialized writing assistants for any niche. Best for: rapid ideation, diverse content types, plugin ecosystem.
 
-**[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)** — Purpose-built for marketing teams. Jasper's brand voice feature ensures consistency across all your content, and its campaign workflow tools let you go from strategy to execution in a single platform. Best for: marketing teams, brand-consistent content at scale.
+**[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)** — Purpose-built for marketing teams. [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)'s brand voice feature ensures consistency across all your content, and its campaign workflow tools let you go from strategy to execution in a single platform. Best for: marketing teams, brand-consistent content at scale.
 
 **[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** — If you already live in Notion, its AI features are a no-brainer. Summarize pages, generate action items from meeting notes, draft content within your existing workspace. Best for: teams already using Notion for knowledge management.
 
 #### Pro Tip: The Hybrid Approach
-Don't lock yourself into one writing tool. Use Claude for deep research and long-form pieces, ChatGPT for quick ideation and diverse formats, and Jasper for polished marketing copy. The best writers in 2026 are tool-agnostic — they pick the right model for each task.
+Don't lock yourself into one writing tool. Use Claude for deep research and long-form pieces, [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) for quick ideation and diverse formats, and Jasper for polished marketing copy. The best writers in 2026 are tool-agnostic — they pick the right model for each task.
 
 ### Design & Visual Content
 
 **[Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) v7** — The reigning champion of AI image generation. V7's coherence improvements mean fewer weird hands and more photorealistic output. The new style references feature lets you maintain visual consistency across an entire brand campaign. Best for: hero images, social media visuals, concept art.
 
-**[DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4** — Tightly integrated with ChatGPT, DALL-E 4 excels at precise prompt following and text rendering within images. If you need specific layouts or text-heavy visuals, DALL-E is your best bet. Best for: infographics, images with text, product mockups.
+**[DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4** — Tightly integrated with ChatGPT, [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4 excels at precise prompt following and text rendering within images. If you need specific layouts or text-heavy visuals, DALL-E is your best bet. Best for: infographics, images with text, product mockups.
 
 **Canva AI** — Canva has transformed from a simple design tool into an AI-powered creative suite. Magic Design generates complete presentations, social posts, and documents from a simple text prompt. Best for: non-designers who need professional-quality output fast.
 
@@ -67,7 +67,7 @@ Don't lock yourself into one writing tool. Use Claude for deep research and long
 
 **[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)** — Still the most widely adopted AI coding assistant. Deep GitHub integration, excellent autocomplete, and a growing ability to understand project-wide context. Best for: developers already in the GitHub ecosystem.
 
-**[Cursor](https://cursor.sh/?ref=AFFILIATE_ID)** — The AI-native code editor that's taken the developer world by storm. Cursor treats AI as a first-class citizen, with inline editing, codebase-aware chat, and multi-file editing capabilities. Best for: developers who want AI deeply integrated into their editing experience.
+**[Cursor](https://cursor.sh/?ref=AFFILIATE_ID)** — The AI-native code editor that's taken the developer world by storm. [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) treats AI as a first-class citizen, with inline editing, codebase-aware chat, and multi-file editing capabilities. Best for: developers who want AI deeply integrated into their editing experience.
 
 **Windsurf ([Codeium](https://codeium.com/?ref=AFFILIATE_ID))** — The new challenger. Windsurf's "Cascade" feature provides autonomous multi-step coding that can handle complex refactoring tasks. Best for: large codebase navigation and refactoring.
 
@@ -95,7 +95,7 @@ Don't lock yourself into one writing tool. Use Claude for deep research and long
 
 ### Knowledge Management
 
-**Notion AI** — Beyond writing, Notion AI excels at organizing and surfacing information. Ask questions about your workspace and get answers drawn from your docs, databases, and pages. Best for: teams using Notion as their knowledge base.
+**[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** — Beyond writing, Notion AI excels at organizing and surfacing information. Ask questions about your workspace and get answers drawn from your docs, databases, and pages. Best for: teams using Notion as their knowledge base.
 
 **Mem** — An AI-native note-taking app that automatically organizes and connects your notes. No folders, no tags — just write, and Mem figures out the relationships. Best for: individuals who hate organizing but need to find things fast.
 
@@ -144,13 +144,13 @@ Here are three recommended stacks for different use cases:
 ### The Startup Stack ($200–500/month)
 - **Writing:** Claude Pro + Jasper Starter
 - **Code:** Cursor Pro + GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
-- **Design:** Midjourney + Canva Pro
-- **Organization:** Linear + Notion Team + Otter.ai
+- **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Canva Pro
+- **Organization:** Linear + Notion Team + [Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)
 - **Automation:** Zapier Professional + Make
 
 ### The Enterprise Stack ($2,000+/month)
 - **Writing:** Claude Enterprise + Jasper Business
-- **Code:** GitHub Copilot Enterprise + Cursor Business
+- **Code:** [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise + Cursor Business
 - **Design:** Midjourney + Runway ML + Canva Enterprise
 - **Organization:** Asana Advanced + Glean + Slack AI
 - **Automation:** Make Enterprise + custom agents via LangChain

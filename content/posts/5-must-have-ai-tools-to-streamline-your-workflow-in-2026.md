@@ -155,11 +155,11 @@ To help you decide which AI tools are best for your workflow, here’s a quick c
 
 To give you a clearer picture of how these tools can work together, consider this workflow:
 
-1. **Notion AI** helps you draft project outlines.
-2. Use **Grammarly** to refine your written content.
+1. **[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** helps you draft project outlines.
+2. Use **[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)** to refine your written content.
 3. Organize tasks in **Trello**, using **Butler** to automate updates.
 4. Use **Zapier** to push tasks and deadlines to your favorite calendar app.
-5. Record and summarize meetings using **Otter.ai**.
+5. Record and summarize meetings using **[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)**.
 
 This integrated approach can save you hours every week and improve your overall productivity.
 

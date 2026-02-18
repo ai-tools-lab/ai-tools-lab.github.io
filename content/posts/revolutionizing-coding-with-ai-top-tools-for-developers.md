@@ -75,12 +75,12 @@ Kite is an AI-powered programming assistant that offers code completions, docume
 
 ### Comparison of AI Coding Tools
 
-To help you choose the right AI coding tool for your needs, here’s a quick comparison table summarizing the key features of GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, and Kite.
+To help you choose the right AI coding tool for your needs, here’s a quick comparison table summarizing the key features of GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), and Kite.
 
 <table>
   <tr>
     <th>Feature</th>
-    <th>GitHub Copilot</th>
+    <th>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
     <th>Tabnine</th>
     <th>Kite</th>
   </tr>
@@ -129,7 +129,7 @@ Here’s a simple decision tree to help you choose the right AI coding tool for 
 ```mermaid
 graph TD;
     A[Start] --> B{What do you need?}
-    B -->|Code Suggestions| C[GitHub Copilot]
+    B -->|Code Suggestions| C[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     B -->|Customizable Features| D[Tabnine]
     B -->|Inline Documentation| E[Kite]
 ```

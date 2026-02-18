@@ -136,7 +136,7 @@ These tools handle the "smart" parts — understanding text, making decisions, g
 | **Anthropic API** ([Claude](https://claude.ai/?ref=AFFILIATE_ID)) | Long documents, nuanced tasks | Pay-per-use |
 | **Google Vertex AI** | Google ecosystem, enterprise | Pay-per-use |
 
-**Our recommendation:** Start with **OpenAI API** for its versatility. Add **Claude** when you need longer context or more nuanced analysis.
+**Our recommendation:** Start with **OpenAI API** for its versatility. Add **[Claude](https://claude.ai/?ref=AFFILIATE_ID)** when you need longer context or more nuanced analysis.
 
 #### Layer 3: Specialized AI Tools
 

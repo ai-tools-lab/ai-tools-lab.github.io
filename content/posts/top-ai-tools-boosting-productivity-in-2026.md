@@ -148,7 +148,7 @@ To help you choose the right tool for your needs, here’s a comparison table th
     <td>Limited free version</td>
   </tr>
   <tr>
-    <td>Microsoft 365 Copilot</td>
+    <td>Microsoft 365 [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Content suggestions, data analysis</td>
     <td>Familiar interface, productivity boost</td>
     <td>Microsoft ecosystem dependent</td>
@@ -174,7 +174,7 @@ To better illustrate how you can integrate these AI productivity tools into your
 ```mermaid
 graph TD;
     A[Start] --> B[Task Generation with ClickUp AI]
-    B --> C[Collaboration in Notion AI]
+    B --> C[Collaboration in [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)]
     C --> D[Meeting Scheduling in Zoom AI]
     D --> E[Task Management in Trello]
     E --> F[Data Analysis with Microsoft 365 Copilot]

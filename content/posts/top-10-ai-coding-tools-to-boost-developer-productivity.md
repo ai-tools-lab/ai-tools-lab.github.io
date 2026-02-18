@@ -178,7 +178,7 @@ Here’s a quick comparison of the tools discussed above:
     <td>Paid</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Code completion</td>
     <td>Multiple</td>
     <td>Free & Paid</td>
@@ -190,7 +190,7 @@ Here’s a quick comparison of the tools discussed above:
     <td>Free & Paid</td>
   </tr>
   <tr>
-    <td>Codeium</td>
+    <td>[Codeium](https://codeium.com/?ref=AFFILIATE_ID)</td>
     <td>Context-aware suggestions</td>
     <td>Multiple</td>
     <td>Free</td>
@@ -202,7 +202,7 @@ Here’s a quick comparison of the tools discussed above:
     <td>Free & Paid</td>
   </tr>
   <tr>
-    <td>Replit</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID)</td>
     <td>Collaborative coding</td>
     <td>Multiple</td>
     <td>Free & Paid</td>

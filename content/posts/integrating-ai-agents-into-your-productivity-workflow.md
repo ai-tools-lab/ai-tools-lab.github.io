@@ -117,7 +117,7 @@ To make your selection process easier, here’s a comparison of some popular AI 
     <td>$40/month</td>
   </tr>
   <tr>
-    <td>Jasper</td>
+    <td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)</td>
     <td>Content Creation</td>
     <td>AI-generated text, SEO recommendations, tone customization</td>
     <td>$29/month</td>

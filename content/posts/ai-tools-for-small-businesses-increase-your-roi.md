@@ -52,7 +52,7 @@ Here’s a selection of AI tools that can significantly impact your small busine
 
 **Example Tool**: Mailchimp
 
-**Description**: Mailchimp employs AI to personalize email campaigns, analyze customer data, and optimize send times for better engagement.
+**[Descript](https://www.descript.com/?ref=AFFILIATE_ID)ion**: Mailchimp employs AI to personalize email campaigns, analyze customer data, and optimize send times for better engagement.
 
 **Pros**:
 - Highly customizable templates and automation features.

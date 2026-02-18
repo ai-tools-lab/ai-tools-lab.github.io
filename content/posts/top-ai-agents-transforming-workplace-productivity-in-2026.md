@@ -148,8 +148,8 @@ Trello is a project management tool that has introduced automation features to e
 flowchart LR
     A[Start] --> B[Choose AI Agent]
     B --> C{Type of Task}
-    C -->|Content Generation| D[Use Notion AI]
-    C -->|Data Analysis| E[Use Microsoft Copilot]
+    C -->|Content Generation| D[Use [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)]
+    C -->|Data Analysis| E[Use Microsoft [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     C -->|Communication| F[Use Slack GPT]
     C -->|Task Automation| G[Use Trello with Automation]
     D --> H[Generate Content]

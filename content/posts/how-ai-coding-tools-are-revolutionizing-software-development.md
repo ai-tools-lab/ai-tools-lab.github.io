@@ -124,7 +124,7 @@ The future of AI coding tools looks promising. As machine learning algorithms co
 
 AI coding tools are undoubtedly revolutionizing software development by enhancing productivity, reducing errors, and improving collaboration. Whether you’re a seasoned developer or just starting, these tools can provide invaluable support in your coding journey. 
 
-If you haven’t yet explored the potential of AI coding tools, now is the perfect time to dive in. Consider integrating tools like GitHub Copilot, [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), or Kite into your workflow and experience the difference they can make.
+If you haven’t yet explored the potential of AI coding tools, now is the perfect time to dive in. Consider integrating tools like [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), or Kite into your workflow and experience the difference they can make.
 
 **Ready to boost your coding efficiency? Try out one of these AI coding tools today and watch your productivity soar!**
 

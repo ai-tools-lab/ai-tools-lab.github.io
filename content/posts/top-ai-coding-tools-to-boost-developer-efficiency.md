@@ -119,7 +119,7 @@ Here’s a quick comparison of the top AI coding tools we discussed:
     <td>Requires subscription, potential dependency</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Personalized completions, local privacy</td>
     <td>Tailored suggestions, wide language support</td>
     <td>Limited free version, learning curve</td>
@@ -150,7 +150,7 @@ Selecting the right AI coding tool for your needs can be daunting given the arra
 
 ```mermaid
 graph TD;
-    A[Do you need real-time suggestions?] -->|Yes| B[Choose GitHub Copilot or Tabnine];
+    A[Do you need real-time suggestions?] -->|Yes| B[Choose [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Tabnine];
     A -->|No| C[Do you want code analysis?];
     C -->|Yes| D[Choose CodeGuru or DeepCode];
     C -->|No| E[Choose Kite];

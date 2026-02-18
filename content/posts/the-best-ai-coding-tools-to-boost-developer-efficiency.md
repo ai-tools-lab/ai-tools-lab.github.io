@@ -135,7 +135,7 @@ Let’s dive into some of the best AI coding tools that are making waves in the 
     <td>Internet required</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Deep learning suggestions</td>
     <td>Works offline, broad support</td>

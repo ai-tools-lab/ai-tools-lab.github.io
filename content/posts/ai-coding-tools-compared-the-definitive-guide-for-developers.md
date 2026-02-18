@@ -44,7 +44,7 @@ GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) remains t
 
 **Strengths:**
 - Best-in-class VS Code integration
-- Copilot Chat for in-editor Q&A
+- [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Chat for in-editor Q&A
 - Copilot Workspace for planning and executing changes from GitHub Issues
 - Enterprise features: code referencing filters, admin controls, audit logs
 - Vast training data from GitHub's repository ecosystem
@@ -52,7 +52,7 @@ GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) remains t
 **Weaknesses:**
 - Autocomplete can be repetitive or overly verbose
 - Chat quality trails behind [Claude](https://claude.ai/?ref=AFFILIATE_ID) and GPT-5 for complex reasoning
-- Multi-file awareness is improving but still limited compared to Cursor
+- Multi-file awareness is improving but still limited compared to [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)
 - Can suggest copyrighted or licensed code patterns
 
 **Best For:** Developers who want reliable autocomplete without changing their editor. Teams on GitHub Enterprise who need compliance features.
@@ -96,7 +96,7 @@ Cursor has redefined what an AI code editor can be. Built as a fork of VS Code, 
 - **Codebase-aware chat** — Ask questions about your entire project. Cursor indexes your codebase and provides answers grounded in your actual code.
 - **Multi-file editing** — Describe a refactoring across multiple files and Cursor generates a diff you can review and apply.
 - **Composer** — An agent mode that can plan and execute multi-step changes autonomously.
-- **Model flexibility** — Switch between GPT-4o, Claude Sonnet, and other models depending on the task.
+- **Model flexibility** — Switch between GPT-4o, [Claude](https://claude.ai/?ref=AFFILIATE_ID) Sonnet, and other models depending on the task.
 - All VS Code extensions work out of the box.
 
 **Weaknesses:**
@@ -120,7 +120,7 @@ We tested Cursor across our four test projects:
 
 **Price:** Free (limited), $15/month (Pro)
 
-Windsurf is Codeium's answer to Cursor, and it's a strong one. Its standout feature is **Cascade** — an agentic coding flow that maintains context across multiple steps and can browse documentation, run terminal commands, and edit files autonomously.
+Windsurf is [Codeium](https://codeium.com/?ref=AFFILIATE_ID)'s answer to Cursor, and it's a strong one. Its standout feature is **Cascade** — an agentic coding flow that maintains context across multiple steps and can browse documentation, run terminal commands, and edit files autonomously.
 
 **Strengths:**
 - **Cascade** is genuinely impressive for autonomous multi-step tasks
@@ -224,7 +224,7 @@ The open-source Devin alternative. OpenHands has a growing community and increas
 
 **Price:** Free (limited), $25/month (Core)
 
-Replit has evolved from a cloud IDE into a full AI-powered development platform. Describe what you want, and Replit generates a working application — complete with database, authentication, and deployment.
+[Replit](https://replit.com/?ref=AFFILIATE_ID) has evolved from a cloud IDE into a full AI-powered development platform. Describe what you want, and Replit generates a working application — complete with database, authentication, and deployment.
 
 **Strengths:**
 - Fastest path from idea to deployed app
@@ -293,7 +293,7 @@ CodeRabbit reviews your pull requests automatically, providing line-by-line feed
 
 ## Head-to-Head Comparison Table
 
-| Feature | GitHub Copilot | Cursor | Windsurf | Devin | Replit AI |
+| Feature | [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) | Cursor | Windsurf | Devin | Replit AI |
 |---|---|---|---|---|---|
 | **Price** | $10-39/mo | $0-40/mo | $0-15/mo | $500/mo | $0-25/mo |
 | **Autocomplete** | ★★★★★ | ★★★★☆ | ★★★★☆ | N/A | ★★★☆☆ |
