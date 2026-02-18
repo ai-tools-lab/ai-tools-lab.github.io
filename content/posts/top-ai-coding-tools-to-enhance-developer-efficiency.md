@@ -2,12 +2,13 @@
 title: "AI Code Review Tools: Catching Bugs Before They Ship"
 date: 2026-02-17
 draft: false
+categories: ["AI Coding Tools", "Business Productivity"]
 tags: ["AI Coding Tools", "code-review", "quality"]
 keywords: ["AI code review tools", "automated bug detection AI"]
 description: "Explore AI-powered code review tools that catch bugs, enforce standards, and improve code quality before deployment."
 
 [params.cover]
-  image = "/images/posts/top-ai-coding-tools-to-enhance-developer-efficiency.png"
+  image = "/images/posts/top-ai-coding-tools-to-enhance-developer-efficiency.webp"
   alt = "Top AI Coding Tools to Enhance Developer Efficiency"
   caption = ""
   relative = false

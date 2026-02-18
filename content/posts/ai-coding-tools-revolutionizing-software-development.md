@@ -2,12 +2,13 @@
 title: "AI Pair Programming: How Coding Assistants Are Replacing Rubber Ducks"
 date: 2026-02-17
 draft: false
+categories: ["AI Coding Tools"]
 tags: ["AI Coding Tools", "pair-programming", "developer-experience"]
 keywords: ["AI pair programming", "AI coding assistant experience"]
 description: "How AI pair programming assistants have evolved from autocomplete to true coding partners—and what that means for developers."
 
 [params.cover]
-  image = "/images/posts/ai-coding-tools-revolutionizing-software-development.png"
+  image = "/images/posts/ai-coding-tools-revolutionizing-software-development.webp"
   alt = "AI Coding Tools: Revolutionizing Software Development"
   caption = ""
   relative = false

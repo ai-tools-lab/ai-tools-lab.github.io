@@ -2,12 +2,13 @@
 title: "How AI Coding Tools Accelerate Full-Stack Development"
 date: 2026-02-17
 draft: false
+categories: ["AI Coding Tools", "Business Productivity"]
 tags: ["AI Coding Tools", "full-stack", "productivity"]
 keywords: ["AI full-stack development", "AI coding acceleration"]
 description: "How AI coding tools speed up full-stack development—from frontend scaffolding to backend optimization."
 
 [params.cover]
-  image = "/images/posts/top-ai-coding-tools-to-boost-developer-productivity-in-2026.png"
+  image = "/images/posts/top-ai-coding-tools-to-boost-developer-productivity-in-2026.webp"
   alt = "Top AI Coding Tools to Boost Developer Productivity in 2026"
   caption = ""
   relative = false

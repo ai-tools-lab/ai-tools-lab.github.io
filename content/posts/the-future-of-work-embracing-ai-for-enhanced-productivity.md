@@ -2,12 +2,13 @@
 title: "The Future of Work: Why AI Adoption Is No Longer Optional"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "future-of-work", "AI-adoption"]
 keywords: ["future of work AI adoption", "AI mandatory business"]
 description: "Why AI adoption has shifted from competitive advantage to business necessity—and what companies risk by waiting."
 
 [params.cover]
-  image = "/images/posts/the-future-of-work-embracing-ai-for-enhanced-productivity.png"
+  image = "/images/posts/the-future-of-work-embracing-ai-for-enhanced-productivity.webp"
   alt = "The Future of Work: Embracing AI for Enhanced Productivity"
   caption = ""
   relative = false

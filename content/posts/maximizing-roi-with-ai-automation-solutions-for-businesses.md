@@ -2,12 +2,13 @@
 title: "Measuring AI Automation ROI: Metrics and Frameworks That Matter"
 date: 2026-02-17
 draft: false
+categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "ROI", "Business Productivity"]
 keywords: ["AI automation ROI metrics", "measuring AI automation value"]
 description: "How to measure the ROI of AI automation investments—key metrics, frameworks, and common pitfalls to avoid."
 
 [params.cover]
-  image = "/images/posts/maximizing-roi-with-ai-automation-solutions-for-businesses.png"
+  image = "/images/posts/maximizing-roi-with-ai-automation-solutions-for-businesses.webp"
   alt = "Maximizing ROI with AI Automation Solutions for Businesses"
   caption = ""
   relative = false

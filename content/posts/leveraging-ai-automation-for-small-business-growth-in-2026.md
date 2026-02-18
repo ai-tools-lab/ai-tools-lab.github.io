@@ -2,12 +2,13 @@
 title: "Small Business Growth Playbook: AI Automation Edition"
 date: 2026-02-17
 draft: false
+categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "small-business", "growth"]
 keywords: ["small business AI growth", "AI automation growth playbook"]
 description: "A growth-focused playbook for small businesses looking to leverage AI automation for customer acquisition, retention, and scaling."
 
 [params.cover]
-  image = "/images/posts/leveraging-ai-automation-for-small-business-growth-in-2026.png"
+  image = "/images/posts/leveraging-ai-automation-for-small-business-growth-in-2026.webp"
   alt = "Leveraging AI Automation for Small Business Growth in 2026"
   caption = ""
   relative = false

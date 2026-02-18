@@ -1,9 +1,25 @@
 {{ if .IsPage }}
 {{ if ne .Layout "search" }}
+
+{{/* AdSense Ad Unit */}}
+{{ with .Site.Params.adsense.client }}
+<div class="adsense-unit" style="margin: 2rem 0; text-align: center;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ . }}"
+       {{ with $.Site.Params.adsense.slot }}data-ad-slot="{{ . }}"{{ end }}
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}
+
+{{/* Newsletter CTA - Buttondown */}}
+{{ with .Site.Params.newsletter.buttondownUsername }}
 <div class="newsletter-cta" style="margin-top: 3rem; padding: 2rem; border: 1px solid var(--border); border-radius: 12px; background: var(--code-bg); text-align: center;">
   <h3 style="margin-top: 0; font-size: 1.3rem;">📬 Stay ahead of the AI curve</h3>
   <p style="color: var(--secondary); margin-bottom: 1.2rem;">Get weekly reviews, tips & tool recommendations — no spam, unsubscribe anytime.</p>
-  <form action="#" method="POST" style="display: flex; gap: 0.5rem; max-width: 420px; margin: 0 auto; flex-wrap: wrap; justify-content: center;">
+  <form action="https://buttondown.com/api/emails/embed-subscribe/{{ . }}" method="post" target="popupwindow" class="embeddable-buttondown-form" style="display: flex; gap: 0.5rem; max-width: 420px; margin: 0 auto; flex-wrap: wrap; justify-content: center;">
     <input type="email" name="email" placeholder="you@example.com" required
       style="flex: 1; min-width: 200px; padding: 0.6rem 1rem; border: 1px solid var(--border); border-radius: 8px; background: var(--theme); color: var(--primary); font-size: 0.95rem;">
     <button type="submit"
@@ -12,5 +28,14 @@
     </button>
   </form>
 </div>
+{{ else }}
+{{/* Fallback: generic CTA if Buttondown not configured */}}
+<div class="newsletter-cta" style="margin-top: 3rem; padding: 2rem; border: 1px solid var(--border); border-radius: 12px; background: var(--code-bg); text-align: center;">
+  <h3 style="margin-top: 0; font-size: 1.3rem;">📬 Stay ahead of the AI curve</h3>
+  <p style="color: var(--secondary); margin-bottom: 1.2rem;">Get weekly reviews, tips & tool recommendations — no spam, unsubscribe anytime.</p>
+  <p style="color: var(--secondary); font-size: 0.85rem;">Newsletter coming soon!</p>
+</div>
+{{ end }}
+
 {{ end }}
 {{ end }}

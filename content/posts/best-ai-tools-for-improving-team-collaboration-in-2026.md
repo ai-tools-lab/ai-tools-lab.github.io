@@ -2,12 +2,13 @@
 title: "Best AI Collaboration Tools for Remote Teams in 2026"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "collaboration", "remote-work"]
 keywords: ["AI collaboration tools remote teams", "best team AI tools 2026"]
 description: "The best AI-powered collaboration tools for remote teams in 2026—covering communication, project management, and async work."
 
 [params.cover]
-  image = "/images/posts/best-ai-tools-for-improving-team-collaboration-in-2026.png"
+  image = "/images/posts/best-ai-tools-for-improving-team-collaboration-in-2026.webp"
   alt = "Best AI Tools for Improving Team Collaboration in 2026"
   caption = ""
   relative = false

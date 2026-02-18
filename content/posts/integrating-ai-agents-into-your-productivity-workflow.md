@@ -7,7 +7,7 @@ keywords: ["AI productivity stack", "AI agent stack setup"]
 description: "How to build a complete AI-powered productivity stack using agents, from task management to content creation."
 
 [params.cover]
-  image = "/images/posts/integrating-ai-agents-into-your-productivity-workflow.png"
+  image = "/images/posts/integrating-ai-agents-into-your-productivity-workflow.webp"
   alt = "Integrating AI Agents into Your Productivity Workflow"
   caption = ""
   relative = false

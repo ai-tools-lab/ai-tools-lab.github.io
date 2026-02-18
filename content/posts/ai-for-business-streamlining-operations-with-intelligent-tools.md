@@ -2,12 +2,13 @@
 title: "AI for Business Operations: A Decision-Maker's Guide"
 date: 2026-02-17
 draft: false
+categories: ["AI Automation", "Business Productivity"]
 tags: ["Business Productivity", "operations", "leadership"]
 keywords: ["AI business operations guide", "AI for decision makers"]
 description: "A practical guide for business leaders evaluating AI tools for operations—what to prioritize, what to skip, and how to get buy-in."
 
 [params.cover]
-  image = "/images/posts/ai-for-business-streamlining-operations-with-intelligent-tools.png"
+  image = "/images/posts/ai-for-business-streamlining-operations-with-intelligent-tools.webp"
   alt = "AI for Business: Streamlining Operations with Intelligent Tools"
   caption = ""
   relative = false

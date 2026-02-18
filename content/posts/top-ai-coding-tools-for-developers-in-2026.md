@@ -2,12 +2,13 @@
 title: "AI Coding Tools Compared: GitHub Copilot vs. Cursor vs. Cody"
 date: 2026-02-17
 draft: false
+categories: ["AI Coding Tools"]
 tags: ["AI Coding Tools", "comparison", "developer-tools"]
 keywords: ["GitHub Copilot vs Cursor vs Cody", "AI coding tool comparison"]
 description: "A head-to-head comparison of the leading AI coding assistants—GitHub Copilot, Cursor, and Cody—with benchmarks and recommendations."
 
 [params.cover]
-  image = "/images/posts/top-ai-coding-tools-for-developers-in-2026.png"
+  image = "/images/posts/top-ai-coding-tools-for-developers-in-2026.webp"
   alt = "Top AI Coding Tools for Developers in 2026"
   caption = ""
   relative = false

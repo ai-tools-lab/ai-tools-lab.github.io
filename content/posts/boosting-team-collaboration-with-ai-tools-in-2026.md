@@ -2,12 +2,13 @@
 title: "Async Collaboration with AI: Bridging Time Zones Effortlessly"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "async-work", "collaboration"]
 keywords: ["async collaboration AI", "AI time zone collaboration"]
 description: "How AI tools enable seamless async collaboration across time zones—automatic summaries, smart handoffs, and context preservation."
 
 [params.cover]
-  image = "/images/posts/boosting-team-collaboration-with-ai-tools-in-2026.png"
+  image = "/images/posts/boosting-team-collaboration-with-ai-tools-in-2026.webp"
   alt = "Boosting Team Collaboration with AI Tools in 2026"
   caption = ""
   relative = false

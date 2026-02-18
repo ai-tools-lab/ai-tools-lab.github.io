@@ -2,12 +2,13 @@
 title: "AI Agents for Personal Productivity: Tips and Tool Picks"
 date: 2026-02-17
 draft: false
+categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "personal-productivity", "tips"]
 keywords: ["AI agents personal productivity", "individual AI tools"]
 description: "Discover how individuals can leverage AI agents for personal productivity—top tool picks and daily workflow tips."
 
 [params.cover]
-  image = "/images/posts/boosting-productivity-with-ai-agents-in-2026.png"
+  image = "/images/posts/boosting-productivity-with-ai-agents-in-2026.webp"
   alt = "Boosting Productivity with AI Agents in 2026"
   caption = ""
   relative = false

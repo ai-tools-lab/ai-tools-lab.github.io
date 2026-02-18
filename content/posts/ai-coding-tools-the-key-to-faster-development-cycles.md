@@ -2,12 +2,13 @@
 title: "Shipping Faster: AI Tools That Cut Development Time in Half"
 date: 2026-02-17
 draft: false
+categories: ["AI Coding Tools"]
 tags: ["AI Coding Tools", "speed", "CI-CD"]
 keywords: ["AI faster development cycles", "reduce development time AI"]
 description: "Real-world case studies showing how AI coding tools cut development cycles by 50% or more through automation and smart suggestions."
 
 [params.cover]
-  image = "/images/posts/ai-coding-tools-the-key-to-faster-development-cycles.png"
+  image = "/images/posts/ai-coding-tools-the-key-to-faster-development-cycles.webp"
   alt = "AI Coding Tools: The Key to Faster Development Cycles"
   caption = ""
   relative = false

@@ -3,9 +3,22 @@ languageCode = "en-us"
 title = "AI Tools Lab — Reviews, Tutorials & Productivity Hacks"
 theme = "PaperMod"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   description = "Discover the best AI tools, productivity hacks, and automation tips. Honest reviews, tutorials, and comparisons updated weekly."
   author = "AI Tools Lab"
+  images = ["/images/logo.png"]
+
+  [params.opengraph]
+    title = "AI Tools Lab — Reviews, Tutorials & Productivity Hacks"
+    description = "Discover the best AI tools, productivity hacks, and automation tips."
+
+  [params.twitter]
+    card = "summary_large_image"
+    site = "@aitoolslab"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -62,6 +75,11 @@ theme = "PaperMod"
     name = "Resources"
     url = "/resources/"
     weight = 20
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 23
   [[menu.main]]
     identifier = "tags"
     name = "Tags"

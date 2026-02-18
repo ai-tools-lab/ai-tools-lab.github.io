@@ -2,12 +2,13 @@
 title: "Industry-Specific AI Solutions: Healthcare, Finance, and Retail"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "industry-solutions", "vertical-AI"]
 keywords: ["AI solutions healthcare finance retail", "industry-specific AI"]
 description: "How industry-specific AI solutions are transforming healthcare, finance, and retail with tailored automation and insights."
 
 [params.cover]
-  image = "/images/posts/exploring-the-rise-of-ai-powered-business-solutions-in-2026.png"
+  image = "/images/posts/exploring-the-rise-of-ai-powered-business-solutions-in-2026.webp"
   alt = "Exploring the Rise of AI-Powered Business Solutions in 2026"
   caption = ""
   relative = false

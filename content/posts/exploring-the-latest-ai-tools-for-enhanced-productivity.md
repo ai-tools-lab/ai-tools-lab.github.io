@@ -2,12 +2,13 @@
 title: "New AI Tools Launching in 2026: First Impressions and Reviews"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "new-releases", "reviews"]
 keywords: ["new AI tools 2026 reviews", "latest AI tool launches"]
 description: "First impressions and early reviews of the newest AI productivity tools launching in 2026."
 
 [params.cover]
-  image = "/images/posts/exploring-the-latest-ai-tools-for-enhanced-productivity.png"
+  image = "/images/posts/exploring-the-latest-ai-tools-for-enhanced-productivity.webp"
   alt = "Exploring the Latest AI Tools for Enhanced Productivity"
   caption = ""
   relative = false

@@ -19,7 +19,9 @@ The AI landscape moves fast. We cut through the noise so you don't have to.
 
 ---
 
-<form action="#" method="POST" style="display: flex; gap: 0.5rem; max-width: 400px; margin: 1.5rem auto; flex-wrap: wrap; justify-content: center;">
+{{< rawhtml >}}
+{{ with .Site.Params.newsletter.buttondownUsername }}
+<form action="https://buttondown.com/api/emails/embed-subscribe/{{ . }}" method="post" target="popupwindow" class="embeddable-buttondown-form" style="display: flex; gap: 0.5rem; max-width: 400px; margin: 1.5rem auto; flex-wrap: wrap; justify-content: center;">
   <input type="email" name="email" placeholder="you@example.com" required
     style="flex: 1; min-width: 200px; padding: 0.75rem 1rem; border: 1px solid var(--border); border-radius: 8px; background: var(--theme); color: var(--primary); font-size: 1rem;">
   <button type="submit"
@@ -27,7 +29,9 @@ The AI landscape moves fast. We cut through the noise so you don't have to.
     Subscribe Free
   </button>
 </form>
+{{ end }}
+{{< /rawhtml >}}
 
-<p style="color: var(--secondary); font-size: 0.85rem;">Join 0+ readers. No spam, unsubscribe anytime.</p>
+<p style="color: var(--secondary); font-size: 0.85rem;">Join 0+ readers · Powered by Buttondown · No spam, unsubscribe anytime.</p>
 
 </div>

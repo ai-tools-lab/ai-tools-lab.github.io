@@ -2,12 +2,13 @@
 title: "AI-Powered Meetings: Tools That Make Every Meeting Count"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "meetings", "collaboration"]
 keywords: ["AI meeting tools", "AI-powered meetings productivity"]
 description: "How AI-powered meeting tools eliminate wasted time—automatic notes, action items, and smart scheduling."
 
 [params.cover]
-  image = "/images/posts/boosting-team-collaboration-using-ai-powered-tools.png"
+  image = "/images/posts/boosting-team-collaboration-using-ai-powered-tools.webp"
   alt = "Boosting Team Collaboration Using AI-Powered Tools"
   caption = ""
   relative = false

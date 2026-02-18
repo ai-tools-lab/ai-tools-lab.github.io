@@ -2,12 +2,13 @@
 title: "AI for Project Management: Automating Planning, Tracking, and Reporting"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "project-management", "AI Automation"]
 keywords: ["AI project management automation", "AI planning tracking reporting"]
 description: "How AI is automating the core pillars of project management—planning, tracking, reporting—and which tools lead the way."
 
 [params.cover]
-  image = "/images/posts/how-ai-is-revolutionizing-project-management-tasks.png"
+  image = "/images/posts/how-ai-is-revolutionizing-project-management-tasks.webp"
   alt = "How AI is Revolutionizing Project Management Tasks"
   caption = ""
   relative = false

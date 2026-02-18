@@ -2,12 +2,13 @@
 title: "5 Must-Have AI Tools to Streamline Your Workflow in 2026"
 date: 2026-02-17
 draft: false
+categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Agents", "productivity", "tool-reviews"]
 keywords: ["must-have AI tools 2026", "AI workflow tools"]
 description: "Five essential AI tools that streamline your daily workflow in 2026—from task management to content generation."
 
 [params.cover]
-  image = "/images/posts/5-must-have-ai-tools-to-streamline-your-workflow-in-2026.png"
+  image = "/images/posts/5-must-have-ai-tools-to-streamline-your-workflow-in-2026.webp"
   alt = "5 Must-Have AI Tools to Streamline Your Workflow in 2026"
   caption = ""
   relative = false

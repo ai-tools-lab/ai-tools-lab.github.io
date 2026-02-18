@@ -2,12 +2,13 @@
 title: "AI Automation on a Budget: Smart Strategies for Small Businesses"
 date: 2026-02-17
 draft: false
+categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "small-business", "budget"]
 keywords: ["AI automation small business budget", "affordable AI automation"]
 description: "Budget-friendly AI automation strategies designed specifically for small businesses—maximize impact without breaking the bank."
 
 [params.cover]
-  image = "/images/posts/top-ai-automation-strategies-for-small-businesses.png"
+  image = "/images/posts/top-ai-automation-strategies-for-small-businesses.webp"
   alt = "Top AI Automation Strategies for Small Businesses"
   caption = ""
   relative = false

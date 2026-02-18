@@ -2,12 +2,13 @@
 title: "AI Productivity Tips: Work Smarter in 2026 and Beyond"
 date: 2026-02-17
 draft: false
+categories: ["Business Productivity"]
 tags: ["Business Productivity", "tips", "productivity"]
 keywords: ["AI productivity tips 2026", "work smarter AI"]
 description: "Actionable AI productivity tips for 2026 and beyond—habits, workflows, and tool combinations that actually work."
 
 [params.cover]
-  image = "/images/posts/the-future-of-ai-tools-productivity-tips-for-2026-and-beyond.png"
+  image = "/images/posts/the-future-of-ai-tools-productivity-tips-for-2026-and-beyond.webp"
   alt = "The Future of AI Tools: Productivity Tips for 2026 and Beyond"
   caption = ""
   relative = false
