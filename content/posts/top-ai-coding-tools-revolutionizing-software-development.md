@@ -94,7 +94,7 @@ Let’s explore some of the most popular AI coding tools currently available.
 - Limited to the [Replit](https://replit.com/?ref=AFFILIATE_ID) platform.
 - May not be suitable for larger, more complex projects.
 
-**Use Case**: If you’re teaching coding to beginners, Replit Ghostwriter can provide instant feedback and suggestions, helping students learn best practices as they write code.
+**Use Case**: If you’re teaching coding to beginners, [Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter can provide instant feedback and suggestions, helping students learn best practices as they write code.
 
 ### 5. Sourcery
 
@@ -162,8 +162,8 @@ Understanding how to integrate AI coding tools into your workflow can maximize t
 flowchart TD
     A[Start Coding] --> B{Choose Tool}
     B --> |GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Generate Code Suggestions]
-    B --> |Tabnine| D[Receive Autocomplete]
-    B --> |Codeium| E[Collaborate in Real-Time]
+    B --> |[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Receive Autocomplete]
+    B --> |[Codeium](https://codeium.com/?ref=AFFILIATE_ID)| E[Collaborate in Real-Time]
     B --> |Replit Ghostwriter| F[Interactive Learning]
     B --> |Sourcery| G[Refactor Python Code]
     C --> H[Review & Implement Suggestions]

@@ -92,7 +92,7 @@ With a plethora of AI tools available, it can be challenging to determine which 
     <th>Cons</th>
   </tr>
   <tr>
-    <td>ChatGPT</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
     <td>Customer Support & Content Creation</td>
     <td>Natural language interaction, versatile</td>
     <td>Potential inaccuracies, needs training</td>

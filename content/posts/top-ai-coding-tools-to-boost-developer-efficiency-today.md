@@ -144,7 +144,7 @@ To illustrate how AI coding tools can fit into a developer's workflow, here's a 
 ```mermaid
 graph TD;
     A[Start Coding] --> B{Select AI Tool};
-    B -->|GitHub Copilot| C[Write Code with Suggestions];
+    B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Write Code with Suggestions];
     B -->|Kite| D[Get Inline Documentation];
     B -->|TabNine| E[Generate Boilerplate Code];
     C --> F[Review Code];
@@ -156,7 +156,7 @@ graph TD;
 
 ## Conclusion
 
-AI coding tools are revolutionizing the way developers write code, making the process faster and more efficient. Whether you choose GitHub Copilot for its context-aware suggestions, Kite for its inline documentation, or TabNine for its speed and customization, incorporating these tools into your workflow can lead to significant productivity gains.
+AI coding tools are revolutionizing the way developers write code, making the process faster and more efficient. Whether you choose GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) for its context-aware suggestions, Kite for its inline documentation, or TabNine for its speed and customization, incorporating these tools into your workflow can lead to significant productivity gains.
 
 Are you ready to enhance your coding experience? Explore these AI coding tools today and start unlocking your full potential as a developer! 
 

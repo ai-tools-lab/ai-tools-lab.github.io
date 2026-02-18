@@ -94,7 +94,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 **Strengths:**
 - **Cmd+K inline editing** — highlight code, describe what you want, and [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) rewrites it in place. This is the killer feature.
 - **Codebase-aware chat** — Ask questions about your entire project. [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) indexes your codebase and provides answers grounded in your actual code.
-- **Multi-file editing** — Describe a refactoring across multiple files and Cursor generates a diff you can review and apply.
+- **Multi-file editing** — Describe a refactoring across multiple files and [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) generates a diff you can review and apply.
 - **Composer** — An agent mode that can plan and execute multi-step changes autonomously.
 - **Model flexibility** — Switch between GPT-4o, [Claude](https://claude.ai/?ref=AFFILIATE_ID) Sonnet, and other models depending on the task.
 - All VS Code extensions work out of the box.
@@ -335,7 +335,7 @@ Ask yourself these questions:
 1. **Do you want to stay in VS Code?** → [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
 2. **Do you want the most powerful AI editing experience?** → Cursor
 3. **Do you want autonomous coding?** → Devin (or OpenHands for budget)
-4. **Do you want to build apps from descriptions?** → Replit
+4. **Do you want to build apps from descriptions?** → [Replit](https://replit.com/?ref=AFFILIATE_ID)
 5. **Do you need on-premise/private AI?** → Void + Ollama
 6. **Are you price-sensitive?** → Windsurf
 
@@ -354,7 +354,7 @@ Many top developers in 2026 use a combination:
 Context windows are expanding to millions of tokens. The next generation of tools will truly understand your entire codebase, its architecture, its patterns, and its history.
 
 ### Trend 2: Spec-to-Code
-Instead of writing prompts, developers will write specifications and let AI generate entire features. We're seeing early versions of this with Copilot Workspace and Devin.
+Instead of writing prompts, developers will write specifications and let AI generate entire features. We're seeing early versions of this with [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Workspace and Devin.
 
 ### Trend 3: AI-Native Testing
 AI tools that generate comprehensive test suites, identify edge cases, and maintain tests as code changes. This is the next big unlock for developer productivity.

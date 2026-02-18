@@ -96,7 +96,7 @@ As you consider which AI agents may best serve your productivity needs, here's a
     <td>Starting at $19/month</td>
   </tr>
   <tr>
-    <td>Jasper</td>
+    <td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID)</td>
     <td>Content Creation</td>
     <td>AI-powered writing, templates for various formats</td>
     <td>Starting at $29/month</td>
