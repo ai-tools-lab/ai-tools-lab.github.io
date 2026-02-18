@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-for-business-growth"]
 keywords: ["AI for business growth"]
 description: "Discover how AI for business growth can optimize strategies, enhance decision-making, and drive success in today's competitive market."
-
-[params.cover]
-  image = "/images/posts/leveraging-ai-for-smart-business-growth-strategies.png"
-  alt = "Leveraging AI for Smart Business Growth Strategies"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/leveraging-ai-for-smart-business-growth-strategies.png"
+  alt: "Leveraging AI for Smart Business Growth Strategies"
+  caption: ""
+  relative: false
 ---
 
 ---

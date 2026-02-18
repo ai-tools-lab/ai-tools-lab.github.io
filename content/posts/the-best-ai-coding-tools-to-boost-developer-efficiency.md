@@ -6,12 +6,11 @@ categories: ["AI Coding Tools", "Business Productivity"]
 tags: ["AI Coding Tools", "free-tools", "developer-tools"]
 keywords: ["free AI coding tools", "open source AI dev tools"]
 description: "The best free and open-source AI coding tools for developers who want powerful assistance without the subscription cost."
-
-[params.cover]
-  image = "/images/posts/the-best-ai-coding-tools-to-boost-developer-efficiency.webp"
-  alt = "The Best AI Coding Tools to Boost Developer Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-best-ai-coding-tools-to-boost-developer-efficiency.webp"
+  alt: "The Best AI Coding Tools to Boost Developer Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

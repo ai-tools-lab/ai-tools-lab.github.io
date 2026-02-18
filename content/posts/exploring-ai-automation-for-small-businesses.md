@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-small-business"]
 keywords: ["AI automation small business"]
 description: "Unlock the potential of AI automation for small businesses to streamline operations, boost productivity, and enhance customer experiences."
-
-[params.cover]
-  image = "/images/posts/exploring-ai-automation-for-small-businesses.png"
-  alt = "Exploring AI Automation for Small Businesses"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/exploring-ai-automation-for-small-businesses.png"
+  alt: "Exploring AI Automation for Small Businesses"
+  caption: ""
+  relative: false
 ---
 
 ---

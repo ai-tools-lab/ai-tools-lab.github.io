@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools"]
 keywords: ["AI tools"]
 description: "Discover essential AI tools shaping the future of work, enhancing productivity, and transforming business operations."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-ai-tools-you-need-to-know.png"
-  alt = "The Future of Work: AI Tools You Need to Know"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-ai-tools-you-need-to-know.png"
+  alt: "The Future of Work: AI Tools You Need to Know"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-solutions"]
 keywords: ["AI business solutions"]
 description: "Discover how AI-powered business solutions can maximize ROI in 2026, transforming your operations and boosting productivity."
-
-[params.cover]
-  image = "/images/posts/maximizing-roi-with-ai-powered-business-solutions-in-2026.png"
-  alt = "Maximizing ROI with AI-Powered Business Solutions in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximizing-roi-with-ai-powered-business-solutions-in-2026.png"
+  alt: "Maximizing ROI with AI-Powered Business Solutions in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation strategies can transform your business operations and enhance productivity. Learn practical applications and tools today!"
-
-[params.cover]
-  image = "/images/posts/revolutionizing-business-with-ai-automation-strategies.png"
-  alt = "Revolutionizing Business with AI Automation Strategies"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/revolutionizing-business-with-ai-automation-strategies.png"
+  alt: "Revolutionizing Business with AI Automation Strategies"
+  caption: ""
+  relative: false
 ---
 
 ---

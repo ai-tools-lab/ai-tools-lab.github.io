@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools that can enhance developer productivity and streamline software development processes effectively."
-
-[params.cover]
-  image = "/images/posts/top-ai-coding-tools-to-boost-developer-productivity.png"
-  alt = "Top AI Coding Tools to Boost Developer Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-coding-tools-to-boost-developer-productivity.png"
+  alt: "Top AI Coding Tools to Boost Developer Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

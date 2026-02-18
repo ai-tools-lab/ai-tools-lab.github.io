@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Explore how AI coding tools are revolutionizing developer efficiency in 2026 and how you can leverage them for your projects."
-
-[params.cover]
-  image = "/images/posts/ai-coding-tools-boosting-developer-efficiency-in-2026.png"
-  alt = "AI Coding Tools: Boosting Developer Efficiency in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-coding-tools-boosting-developer-efficiency-in-2026.png"
+  alt: "AI Coding Tools: Boosting Developer Efficiency in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

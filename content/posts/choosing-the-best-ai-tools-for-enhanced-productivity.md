@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "best-AI-productivity-tools"]
 keywords: ["best AI productivity tools"]
 description: "Discover the best AI productivity tools to enhance efficiency and streamline your workflow. Find the perfect solution for your needs!"
-
-[params.cover]
-  image = "/images/posts/choosing-the-best-ai-tools-for-enhanced-productivity.png"
-  alt = "Choosing the Best AI Tools for Enhanced Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-best-ai-tools-for-enhanced-productivity.png"
+  alt: "Choosing the Best AI Tools for Enhanced Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

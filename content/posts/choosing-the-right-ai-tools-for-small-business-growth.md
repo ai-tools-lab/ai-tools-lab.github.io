@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-small-business"]
 keywords: ["AI tools small business"]
 description: "Discover how AI tools can drive small business growth, streamline operations, and enhance productivity in today's competitive market."
-
-[params.cover]
-  image = "/images/posts/choosing-the-right-ai-tools-for-small-business-growth.png"
-  alt = "Choosing the Right AI Tools for Small Business Growth"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-right-ai-tools-for-small-business-growth.png"
+  alt: "Choosing the Right AI Tools for Small Business Growth"
+  caption: ""
+  relative: false
 ---
 
 ---

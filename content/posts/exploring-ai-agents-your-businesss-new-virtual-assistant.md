@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-virtual-assistant"]
 keywords: ["AI virtual assistant"]
 description: "Discover how AI virtual assistants can transform your business operations and enhance productivity with smart solutions."
-
-[params.cover]
-  image = "/images/posts/exploring-ai-agents-your-businesss-new-virtual-assistant.png"
-  alt = "Exploring AI Agents: Your Business's New Virtual Assistant"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/exploring-ai-agents-your-businesss-new-virtual-assistant.png"
+  alt: "Exploring AI Agents: Your Business's New Virtual Assistant"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-productivity"]
 keywords: ["AI business productivity"]
 description: "Discover how AI is transforming business productivity in 2026 with innovative tools and strategies for optimizing your workflow."
-
-[params.cover]
-  image = "/images/posts/how-ai-is-revolutionizing-business-productivity-in-2026.png"
-  alt = "How AI is Revolutionizing Business Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-is-revolutionizing-business-productivity-in-2026.png"
+  alt: "How AI is Revolutionizing Business Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

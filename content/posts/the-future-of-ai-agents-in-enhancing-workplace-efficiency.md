@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-workplace"]
 keywords: ["AI agents workplace"]
 description: "Discover how AI agents are revolutionizing workplace efficiency and productivity, transforming the way businesses operate in the digital age."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-agents-in-enhancing-workplace-efficiency.png"
-  alt = "The Future of AI Agents in Enhancing Workplace Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-agents-in-enhancing-workplace-efficiency.png"
+  alt: "The Future of AI Agents in Enhancing Workplace Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

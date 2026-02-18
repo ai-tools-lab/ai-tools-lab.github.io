@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-productivity"]
 keywords: ["AI business productivity"]
 description: "Discover how AI tools will enhance business productivity in 2026, transforming workflows and driving efficiency across industries."
-
-[params.cover]
-  image = "/images/posts/impact-of-ai-on-business-productivity-in-2026.png"
-  alt = "Impact of AI on Business Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/impact-of-ai-on-business-productivity-in-2026.png"
+  alt: "Impact of AI on Business Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

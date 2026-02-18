@@ -6,12 +6,11 @@ categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "productivity", "tools-guide"]
 keywords: ["AI agent productivity tools guide", "best AI agents 2026"]
 description: "A comprehensive guide to the best AI agent tools for productivity in 2026, with comparisons, pricing, and use cases."
-
-[params.cover]
-  image = "/images/posts/boost-productivity-with-ai-agents-in-2026-a-guide.webp"
-  alt = "Boost Productivity with AI Agents in 2026: A Guide"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boost-productivity-with-ai-agents-in-2026-a-guide.webp"
+  alt: "Boost Productivity with AI Agents in 2026: A Guide"
+  caption: ""
+  relative: false
 ---
 
 ---

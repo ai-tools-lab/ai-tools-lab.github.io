@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-automation"]
 keywords: ["AI business automation"]
 description: "Discover how AI business automation can transform your operations in 2026 with practical insights, tools, and strategies for success."
-
-[params.cover]
-  image = "/images/posts/automate-your-business-with-ai-a-2026-guide.png"
-  alt = "Automate Your Business with AI: A 2026 Guide"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/automate-your-business-with-ai-a-2026-guide.png"
+  alt: "Automate Your Business with AI: A 2026 Guide"
+  caption: ""
+  relative: false
 ---
 
 ---

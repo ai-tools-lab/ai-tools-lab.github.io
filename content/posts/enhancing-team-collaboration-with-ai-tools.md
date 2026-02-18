@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-collaboration"]
 keywords: ["AI tools for collaboration"]
 description: "Discover how AI tools for collaboration can transform team dynamics and boost productivity in your organization."
-
-[params.cover]
-  image = "/images/posts/enhancing-team-collaboration-with-ai-tools.png"
-  alt = "Enhancing Team Collaboration with AI Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/enhancing-team-collaboration-with-ai-tools.png"
+  alt: "Enhancing Team Collaboration with AI Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

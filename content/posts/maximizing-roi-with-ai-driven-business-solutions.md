@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-solutions"]
 keywords: ["AI business solutions"]
 description: "Discover how AI business solutions can maximize ROI and enhance efficiency in your organization. Learn practical applications and top tools today!"
-
-[params.cover]
-  image = "/images/posts/maximizing-roi-with-ai-driven-business-solutions.png"
-  alt = "Maximizing ROI with AI-Driven Business Solutions"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximizing-roi-with-ai-driven-business-solutions.png"
+  alt: "Maximizing ROI with AI-Driven Business Solutions"
+  caption: ""
+  relative: false
 ---
 
 ---

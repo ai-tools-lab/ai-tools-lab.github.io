@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "ROI", "tool-reviews"]
 keywords: ["AI tools save money ROI", "cost-effective AI tools"]
 description: "ROI-focused reviews of AI business tools that actually save money—with real cost breakdowns and payback timelines."
-
-[params.cover]
-  image = "/images/posts/enhancing-business-efficiency-with-ai-tools-in-2026.webp"
-  alt = "Enhancing Business Efficiency with AI Tools in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/enhancing-business-efficiency-with-ai-tools-in-2026.webp"
+  alt: "Enhancing Business Efficiency with AI Tools in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-efficiency"]
 keywords: ["AI automation efficiency"]
 description: "Discover how AI automation efficiency can revolutionize your business processes and drive productivity to new heights."
-
-[params.cover]
-  image = "/images/posts/ai-automation-the-key-to-enhanced-business-efficiency.png"
-  alt = "AI Automation: The Key to Enhanced Business Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-automation-the-key-to-enhanced-business-efficiency.png"
+  alt: "AI Automation: The Key to Enhanced Business Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

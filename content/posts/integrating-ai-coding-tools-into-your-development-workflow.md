@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "integrate-AI-coding-tools"]
 keywords: ["integrate AI coding tools"]
 description: "Discover how to integrate AI coding tools into your development workflow for enhanced productivity and smarter coding solutions."
-
-[params.cover]
-  image = "/images/posts/integrating-ai-coding-tools-into-your-development-workflow.png"
-  alt = "Integrating AI Coding Tools into Your Development Workflow"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/integrating-ai-coding-tools-into-your-development-workflow.png"
+  alt: "Integrating AI Coding Tools into Your Development Workflow"
+  caption: ""
+  relative: false
 ---
 
 ---

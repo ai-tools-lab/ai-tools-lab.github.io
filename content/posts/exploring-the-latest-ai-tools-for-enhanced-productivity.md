@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "new-releases", "reviews"]
 keywords: ["new AI tools 2026 reviews", "latest AI tool launches"]
 description: "First impressions and early reviews of the newest AI productivity tools launching in 2026."
-
-[params.cover]
-  image = "/images/posts/exploring-the-latest-ai-tools-for-enhanced-productivity.webp"
-  alt = "Exploring the Latest AI Tools for Enhanced Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/exploring-the-latest-ai-tools-for-enhanced-productivity.webp"
+  alt: "Exploring the Latest AI Tools for Enhanced Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

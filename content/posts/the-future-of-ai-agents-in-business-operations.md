@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-business-operations"]
 keywords: ["AI agents business operations"]
 description: "Discover how AI agents are transforming business operations and learn what the future holds for these intelligent tools in the workplace."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-agents-in-business-operations.png"
-  alt = "The Future of AI Agents in Business Operations"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-agents-in-business-operations.png"
+  alt: "The Future of AI Agents in Business Operations"
+  caption: ""
+  relative: false
 ---
 
 ---

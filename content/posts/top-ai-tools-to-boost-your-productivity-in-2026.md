@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-tools"]
 keywords: ["AI productivity tools"]
 description: "Discover the top AI productivity tools of 2026 that can supercharge your efficiency and transform the way you work."
-
-[params.cover]
-  image = "/images/posts/top-ai-tools-to-boost-your-productivity-in-2026.png"
-  alt = "Top AI Tools to Boost Your Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-tools-to-boost-your-productivity-in-2026.png"
+  alt: "Top AI Tools to Boost Your Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-for-business"]
 keywords: ["AI for business"]
 description: "Discover how AI tools can unlock your business potential in 2026 and transform your operations for maximum efficiency and growth."
-
-[params.cover]
-  image = "/images/posts/unlock-business-potential-with-ai-tools-in-2026.png"
-  alt = "Unlock Business Potential with AI Tools in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/unlock-business-potential-with-ai-tools-in-2026.png"
+  alt: "Unlock Business Potential with AI Tools in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

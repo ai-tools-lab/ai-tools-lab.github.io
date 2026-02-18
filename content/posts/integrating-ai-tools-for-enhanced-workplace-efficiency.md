@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-workplace-efficiency"]
 keywords: ["AI tools workplace efficiency"]
 description: "Discover how integrating AI tools can boost workplace efficiency and transform your team's productivity with actionable insights and examples."
-
-[params.cover]
-  image = "/images/posts/integrating-ai-tools-for-enhanced-workplace-efficiency.png"
-  alt = "Integrating AI Tools for Enhanced Workplace Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/integrating-ai-tools-for-enhanced-workplace-efficiency.png"
+  alt: "Integrating AI Tools for Enhanced Workplace Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

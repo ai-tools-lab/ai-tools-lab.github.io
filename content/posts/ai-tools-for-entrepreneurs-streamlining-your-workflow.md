@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-entrepreneurs"]
 keywords: ["AI tools for entrepreneurs"]
 description: "Discover the best AI tools for entrepreneurs to streamline your workflow and boost productivity with practical examples and insights."
-
-[params.cover]
-  image = "/images/posts/ai-tools-for-entrepreneurs-streamlining-your-workflow.png"
-  alt = "AI Tools for Entrepreneurs: Streamlining Your Workflow"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-tools-for-entrepreneurs-streamlining-your-workflow.png"
+  alt: "AI Tools for Entrepreneurs: Streamlining Your Workflow"
+  caption: ""
+  relative: false
 ---
 
 ---

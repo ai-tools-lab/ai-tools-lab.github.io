@@ -6,12 +6,11 @@ categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "supply-chain", "operations"]
 keywords: ["AI automation supply chain", "AI logistics automation"]
 description: "How AI automation is streamlining supply chain and logistics operations—reducing delays, cutting costs, and improving accuracy."
-
-[params.cover]
-  image = "/images/posts/streamlining-business-operations-with-ai-automation.webp"
-  alt = "Streamlining Business Operations with AI Automation"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/streamlining-business-operations-with-ai-automation.webp"
+  alt: "Streamlining Business Operations with AI Automation"
+  caption: ""
+  relative: false
 ---
 
 In today’s fast-paced business environment, efficiency is key to staying competitive. Enter AI automation, a transformative technology that optimizes workflows, reduces manual tasks, and enhances productivity. By integrating AI automation into your business operations, you can save time, cut costs, and focus on what truly matters: growing your business. This article explores the benefits of AI automation, practical use cases, and the best tools available to help you streamline your operations.

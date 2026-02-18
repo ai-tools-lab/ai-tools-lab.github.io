@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools transforming software development and enhancing productivity for developers in 2023."
-
-[params.cover]
-  image = "/images/posts/top-ai-coding-tools-revolutionizing-software-development.png"
-  alt = "Top AI Coding Tools Revolutionizing Software Development"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-coding-tools-revolutionizing-software-development.png"
+  alt: "Top AI Coding Tools Revolutionizing Software Development"
+  caption: ""
+  relative: false
 ---
 
 ---

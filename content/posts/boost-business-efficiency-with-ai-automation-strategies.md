@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-strategies"]
 keywords: ["AI automation strategies"]
 description: "Discover effective AI automation strategies to enhance business efficiency and streamline operations for greater productivity and growth."
-
-[params.cover]
-  image = "/images/posts/boost-business-efficiency-with-ai-automation-strategies.png"
-  alt = "Boost Business Efficiency with AI Automation Strategies"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boost-business-efficiency-with-ai-automation-strategies.png"
+  alt: "Boost Business Efficiency with AI Automation Strategies"
+  caption: ""
+  relative: false
 ---
 
 ---

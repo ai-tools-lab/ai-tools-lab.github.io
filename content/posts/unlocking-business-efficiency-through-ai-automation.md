@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-for-business"]
 keywords: ["AI automation for business"]
 description: "Discover how AI automation for business can streamline operations, improve productivity, and enhance decision-making for a competitive edge."
-
-[params.cover]
-  image = "/images/posts/unlocking-business-efficiency-through-ai-automation.png"
-  alt = "Unlocking Business Efficiency Through AI Automation"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/unlocking-business-efficiency-through-ai-automation.png"
+  alt: "Unlocking Business Efficiency Through AI Automation"
+  caption: ""
+  relative: false
 ---
 
 Unlocking Business Efficiency Through AI Automation

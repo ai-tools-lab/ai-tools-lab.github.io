@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "async-work", "collaboration"]
 keywords: ["async collaboration AI", "AI time zone collaboration"]
 description: "How AI tools enable seamless async collaboration across time zones—automatic summaries, smart handoffs, and context preservation."
-
-[params.cover]
-  image = "/images/posts/boosting-team-collaboration-with-ai-tools-in-2026.webp"
-  alt = "Boosting Team Collaboration with AI Tools in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boosting-team-collaboration-with-ai-tools-in-2026.webp"
+  alt: "Boosting Team Collaboration with AI Tools in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

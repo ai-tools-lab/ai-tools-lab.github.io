@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-in-business-processes"]
 keywords: ["AI in business processes"]
 description: "Discover how AI in business processes is transforming work, enhancing efficiency, and shaping the future of productivity in organizations."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-ai-in-business-processes.png"
-  alt = "The Future of Work: AI in Business Processes"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-ai-in-business-processes.png"
+  alt: "The Future of Work: AI in Business Processes"
+  caption: ""
+  relative: false
 ---
 
 The Future of Work: AI in Business Processes

@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "future-of-work", "AI-adoption"]
 keywords: ["future of work AI adoption", "AI mandatory business"]
 description: "Why AI adoption has shifted from competitive advantage to business necessity—and what companies risk by waiting."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-embracing-ai-for-enhanced-productivity.webp"
-  alt = "The Future of Work: Embracing AI for Enhanced Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-embracing-ai-for-enhanced-productivity.webp"
+  alt: "The Future of Work: Embracing AI for Enhanced Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

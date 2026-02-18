@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-ROI"]
 keywords: ["AI tools for ROI"]
 description: "Discover essential AI tools for ROI that can elevate your business efficiency and profitability. Learn how to maximize returns with smart investments."
-
-[params.cover]
-  image = "/images/posts/maximize-roi-with-ai-tools-you-need-for-your-business.png"
-  alt = "Maximize ROI with AI: Tools You Need for Your Business"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximize-roi-with-ai-tools-you-need-for-your-business.png"
+  alt: "Maximize ROI with AI: Tools You Need for Your Business"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -6,12 +6,11 @@ categories: ["AI Coding Tools"]
 tags: ["AI Coding Tools", "speed", "CI-CD"]
 keywords: ["AI faster development cycles", "reduce development time AI"]
 description: "Real-world case studies showing how AI coding tools cut development cycles by 50% or more through automation and smart suggestions."
-
-[params.cover]
-  image = "/images/posts/ai-coding-tools-the-key-to-faster-development-cycles.webp"
-  alt = "AI Coding Tools: The Key to Faster Development Cycles"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-coding-tools-the-key-to-faster-development-cycles.webp"
+  alt: "AI Coding Tools: The Key to Faster Development Cycles"
+  caption: ""
+  relative: false
 ---
 
 ---

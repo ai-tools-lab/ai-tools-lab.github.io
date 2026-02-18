@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "best-AI-automation-tools"]
 keywords: ["best AI automation tools"]
 description: "Discover the best AI automation tools for your business to enhance productivity and streamline processes. Unlock efficiency today!"
-
-[params.cover]
-  image = "/images/posts/choosing-the-best-ai-automation-tools-for-your-business.png"
-  alt = "Choosing the Best AI Automation Tools for Your Business"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-best-ai-automation-tools-for-your-business.png"
+  alt: "Choosing the Best AI Automation Tools for Your Business"
+  caption: ""
+  relative: false
 ---
 
 ---

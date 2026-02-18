@@ -6,12 +6,11 @@ categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "scaling", "Business Productivity"]
 keywords: ["scaling business AI automation", "AI automation growth"]
 description: "How to scale your business from startup to enterprise using AI automation—tools, timing, and architecture decisions."
-
-[params.cover]
-  image = "/images/posts/scaling-your-business-with-ai-powered-automation-tools.webp"
-  alt = "Scaling Your Business with AI-Powered Automation Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/scaling-your-business-with-ai-powered-automation-tools.webp"
+  alt: "Scaling Your Business with AI-Powered Automation Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

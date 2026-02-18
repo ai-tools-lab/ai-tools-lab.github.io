@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-development"]
 keywords: ["AI coding development"]
 description: "Discover how AI coding tools are revolutionizing the development landscape, boosting productivity, and enhancing code quality."
-
-[params.cover]
-  image = "/images/posts/how-ai-coding-tools-are-changing-the-development-landscape.png"
-  alt = "How AI Coding Tools Are Changing the Development Landscape"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-coding-tools-are-changing-the-development-landscape.png"
+  alt: "How AI Coding Tools Are Changing the Development Landscape"
+  caption: ""
+  relative: false
 ---
 
 ---

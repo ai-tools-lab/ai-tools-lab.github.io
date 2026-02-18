@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "tips", "productivity"]
 keywords: ["AI productivity tips 2026", "work smarter AI"]
 description: "Actionable AI productivity tips for 2026 and beyond—habits, workflows, and tool combinations that actually work."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-tools-productivity-tips-for-2026-and-beyond.webp"
-  alt = "The Future of AI Tools: Productivity Tips for 2026 and Beyond"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-tools-productivity-tips-for-2026-and-beyond.webp"
+  alt: "The Future of AI Tools: Productivity Tips for 2026 and Beyond"
+  caption: ""
+  relative: false
 ---
 
 ---

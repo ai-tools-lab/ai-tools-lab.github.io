@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-small-business"]
 keywords: ["AI automation small business"]
 description: "Discover how AI automation can transform small businesses, enhancing productivity and efficiency while reducing operational costs."
-
-[params.cover]
-  image = "/images/posts/ai-automation-a-game-changer-for-small-businesses.png"
-  alt = "AI Automation: A Game Changer for Small Businesses"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-automation-a-game-changer-for-small-businesses.png"
+  alt: "AI Automation: A Game Changer for Small Businesses"
+  caption: ""
+  relative: false
 ---
 
 ---

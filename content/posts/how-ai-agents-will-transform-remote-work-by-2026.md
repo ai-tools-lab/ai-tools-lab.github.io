@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-remote-work"]
 keywords: ["AI agents remote work"]
 description: "Discover how AI agents will revolutionize remote work by 2026, enhancing productivity, communication, and collaboration in the digital workspace."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-will-transform-remote-work-by-2026.png"
-  alt = "How AI Agents Will Transform Remote Work by 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-will-transform-remote-work-by-2026.png"
+  alt: "How AI Agents Will Transform Remote Work by 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

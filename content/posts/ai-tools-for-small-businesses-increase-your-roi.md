@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-small-business"]
 keywords: ["AI tools small business"]
 description: "Discover top AI tools for small businesses to enhance productivity and boost ROI with practical examples and comparisons."
-
-[params.cover]
-  image = "/images/posts/ai-tools-for-small-businesses-increase-your-roi.png"
-  alt = "AI Tools for Small Businesses: Increase Your ROI"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-tools-for-small-businesses-increase-your-roi.png"
+  alt: "AI Tools for Small Businesses: Increase Your ROI"
+  caption: ""
+  relative: false
 ---
 
 ---

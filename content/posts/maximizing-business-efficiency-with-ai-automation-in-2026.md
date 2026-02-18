@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation can boost business efficiency in 2026 with practical examples, pros/cons, and top tools you can implement today."
-
-[params.cover]
-  image = "/images/posts/maximizing-business-efficiency-with-ai-automation-in-2026.png"
-  alt = "Maximizing Business Efficiency with AI Automation in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximizing-business-efficiency-with-ai-automation-in-2026.png"
+  alt: "Maximizing Business Efficiency with AI Automation in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-workplace-productivity"]
 keywords: ["AI workplace productivity"]
 description: "Explore how AI is transforming workplace productivity with innovative tools and strategies that enhance efficiency and collaboration."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-in-enhancing-workplace-productivity.png"
-  alt = "The Future of AI in Enhancing Workplace Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-in-enhancing-workplace-productivity.png"
+  alt: "The Future of AI in Enhancing Workplace Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

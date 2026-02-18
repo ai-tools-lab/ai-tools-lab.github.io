@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-tools"]
 keywords: ["AI productivity tools"]
 description: "Discover how AI productivity tools can transform your business by enhancing efficiency and driving growth. Explore top options and their benefits today!"
-
-[params.cover]
-  image = "/images/posts/boost-your-business-with-ai-powered-productivity-tools.png"
-  alt = "Boost Your Business with AI-Powered Productivity Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boost-your-business-with-ai-powered-productivity-tools.png"
+  alt: "Boost Your Business with AI-Powered Productivity Tools"
+  caption: ""
+  relative: false
 ---
 
 Boost Your Business with AI-Powered Productivity Tools

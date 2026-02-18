@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-for-business"]
 keywords: ["AI automation for business"]
 description: "Discover how AI automation for business can streamline your processes, boost productivity, and enhance decision-making in your organization."
-
-[params.cover]
-  image = "/images/posts/streamlining-business-processes-with-ai-automation.png"
-  alt = "Streamlining Business Processes with AI Automation"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/streamlining-business-processes-with-ai-automation.png"
+  alt: "Streamlining Business Processes with AI Automation"
+  caption: ""
+  relative: false
 ---
 
 ---

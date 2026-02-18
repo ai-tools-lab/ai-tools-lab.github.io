@@ -6,12 +6,11 @@ categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "case-studies", "efficiency"]
 keywords: ["AI automation case studies 2026", "AI efficiency examples"]
 description: "Real-world case studies showing how companies achieved measurable efficiency gains with AI automation in 2026."
-
-[params.cover]
-  image = "/images/posts/how-ai-automation-transforms-business-efficiency-in-2026.webp"
-  alt = "How AI Automation Transforms Business Efficiency in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-automation-transforms-business-efficiency-in-2026.webp"
+  alt: "How AI Automation Transforms Business Efficiency in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

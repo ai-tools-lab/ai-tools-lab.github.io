@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "industry-solutions", "vertical-AI"]
 keywords: ["AI solutions healthcare finance retail", "industry-specific AI"]
 description: "How industry-specific AI solutions are transforming healthcare, finance, and retail with tailored automation and insights."
-
-[params.cover]
-  image = "/images/posts/exploring-the-rise-of-ai-powered-business-solutions-in-2026.webp"
-  alt = "Exploring the Rise of AI-Powered Business Solutions in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/exploring-the-rise-of-ai-powered-business-solutions-in-2026.webp"
+  alt: "Exploring the Rise of AI-Powered Business Solutions in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

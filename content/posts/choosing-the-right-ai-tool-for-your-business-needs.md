@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-business"]
 keywords: ["AI tools for business"]
 description: "Discover how to choose the right AI tools for business to boost productivity and streamline operations effectively."
-
-[params.cover]
-  image = "/images/posts/choosing-the-right-ai-tool-for-your-business-needs.png"
-  alt = "Choosing the Right AI Tool for Your Business Needs"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-right-ai-tool-for-your-business-needs.png"
+  alt: "Choosing the Right AI Tool for Your Business Needs"
+  caption: ""
+  relative: false
 ---
 
 ---

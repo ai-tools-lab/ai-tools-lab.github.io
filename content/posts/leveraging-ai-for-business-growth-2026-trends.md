@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-for-business-growth"]
 keywords: ["AI for business growth"]
 description: "Explore the emerging trends in AI for business growth in 2026 and learn how to leverage these technologies for your company's success."
-
-[params.cover]
-  image = "/images/posts/leveraging-ai-for-business-growth-2026-trends.png"
-  alt = "Leveraging AI for Business Growth: 2026 Trends"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/leveraging-ai-for-business-growth-2026-trends.png"
+  alt: "Leveraging AI for Business Growth: 2026 Trends"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "cross-functional", "collaboration"]
 keywords: ["AI cross-functional collaboration", "AI team optimization"]
 description: "How AI tools break down silos and optimize collaboration between engineering, design, marketing, and other cross-functional teams."
-
-[params.cover]
-  image = "/images/posts/how-ai-can-optimize-team-collaboration-and-productivity.webp"
-  alt = "How AI Can Optimize Team Collaboration and Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-can-optimize-team-collaboration-and-productivity.webp"
+  alt: "How AI Can Optimize Team Collaboration and Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

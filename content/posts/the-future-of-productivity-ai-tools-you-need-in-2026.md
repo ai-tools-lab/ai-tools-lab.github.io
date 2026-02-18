@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "productivity-stack", "essentials"]
 keywords: ["AI productivity stack 2026", "essential AI tools"]
 description: "Build your ideal AI productivity stack for 2026—the essential tools for writing, coding, managing, and automating."
-
-[params.cover]
-  image = "/images/posts/the-future-of-productivity-ai-tools-you-need-in-2026.webp"
-  alt = "The Future of Productivity: AI Tools You Need in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-productivity-ai-tools-you-need-in-2026.webp"
+  alt: "The Future of Productivity: AI Tools You Need in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

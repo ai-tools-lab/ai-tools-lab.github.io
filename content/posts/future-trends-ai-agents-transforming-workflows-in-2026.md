@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-trends"]
 keywords: ["AI agents trends"]
 description: "Explore future trends in AI agents transforming workflows by 2026. Discover how these tools will boost productivity and efficiency in various industries."
-
-[params.cover]
-  image = "/images/posts/future-trends-ai-agents-transforming-workflows-in-2026.png"
-  alt = "Future Trends: AI Agents Transforming Workflows in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/future-trends-ai-agents-transforming-workflows-in-2026.png"
+  alt: "Future Trends: AI Agents Transforming Workflows in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

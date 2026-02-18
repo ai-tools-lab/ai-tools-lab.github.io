@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business-tasks"]
 keywords: ["AI automation business tasks"]
 description: "Explore how AI automation is transforming everyday business tasks and driving efficiency in the workplace. Discover tools and strategies to leverage this technology."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-automation-in-everyday-business-tasks.png"
-  alt = "The Future of AI Automation in Everyday Business Tasks"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-automation-in-everyday-business-tasks.png"
+  alt: "The Future of AI Automation in Everyday Business Tasks"
+  caption: ""
+  relative: false
 ---
 
 ---

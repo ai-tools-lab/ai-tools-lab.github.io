@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-collaboration-tools"]
 keywords: ["AI collaboration tools"]
 description: "Discover how AI collaboration tools can enhance teamwork and productivity by automating tasks and fostering communication among teams."
-
-[params.cover]
-  image = "/images/posts/boosting-team-collaboration-with-ai-automation-tools.png"
-  alt = "Boosting Team Collaboration with AI Automation Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boosting-team-collaboration-with-ai-automation-tools.png"
+  alt: "Boosting Team Collaboration with AI Automation Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

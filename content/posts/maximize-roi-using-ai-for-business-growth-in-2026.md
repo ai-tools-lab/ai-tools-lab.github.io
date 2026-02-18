@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-for-business-growth"]
 keywords: ["AI for business growth"]
 description: "Discover how AI for business growth can maximize ROI in 2026. Explore essential tools and strategies to elevate your business performance today!"
-
-[params.cover]
-  image = "/images/posts/maximize-roi-using-ai-for-business-growth-in-2026.png"
-  alt = "Maximize ROI: Using AI for Business Growth in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximize-roi-using-ai-for-business-growth-in-2026.png"
+  alt: "Maximize ROI: Using AI for Business Growth in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

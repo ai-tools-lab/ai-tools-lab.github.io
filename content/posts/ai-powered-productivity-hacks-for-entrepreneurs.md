@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-hacks"]
 keywords: ["AI productivity hacks"]
 description: "Discover AI-powered productivity hacks to streamline your entrepreneurial journey and maximize efficiency. Unlock your potential today!"
-
-[params.cover]
-  image = "/images/posts/ai-powered-productivity-hacks-for-entrepreneurs.png"
-  alt = "AI-Powered Productivity Hacks for Entrepreneurs"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-powered-productivity-hacks-for-entrepreneurs.png"
+  alt: "AI-Powered Productivity Hacks for Entrepreneurs"
+  caption: ""
+  relative: false
 ---
 
 ---

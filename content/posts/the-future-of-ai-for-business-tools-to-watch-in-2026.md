@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "trends", "emerging-tools"]
 keywords: ["AI business tools 2026 trends", "emerging AI platforms"]
 description: "Emerging AI business platforms and trends to watch in 2026—from vertical AI to embedded intelligence."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-for-business-tools-to-watch-in-2026.webp"
-  alt = "The Future of AI for Business: Tools to Watch in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-for-business-tools-to-watch-in-2026.webp"
+  alt: "The Future of AI for Business: Tools to Watch in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

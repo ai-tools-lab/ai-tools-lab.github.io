@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-tools"]
 keywords: ["AI productivity tools"]
 description: "Discover how AI productivity tools are transforming workflows and enhancing efficiency in the workplace. Learn about the best tools and their advantages."
-
-[params.cover]
-  image = "/images/posts/ai-powered-productivity-transforming-workflows.png"
-  alt = "AI-Powered Productivity: Transforming Workflows"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-powered-productivity-transforming-workflows.png"
+  alt: "AI-Powered Productivity: Transforming Workflows"
+  caption: ""
+  relative: false
 ---
 
 ---

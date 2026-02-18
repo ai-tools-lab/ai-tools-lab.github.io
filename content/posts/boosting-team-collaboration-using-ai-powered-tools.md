@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "meetings", "collaboration"]
 keywords: ["AI meeting tools", "AI-powered meetings productivity"]
 description: "How AI-powered meeting tools eliminate wasted time—automatic notes, action items, and smart scheduling."
-
-[params.cover]
-  image = "/images/posts/boosting-team-collaboration-using-ai-powered-tools.webp"
-  alt = "Boosting Team Collaboration Using AI-Powered Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boosting-team-collaboration-using-ai-powered-tools.webp"
+  alt: "Boosting Team Collaboration Using AI-Powered Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

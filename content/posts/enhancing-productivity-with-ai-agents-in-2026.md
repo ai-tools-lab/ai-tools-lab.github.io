@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover how AI agents will revolutionize productivity in 2026, streamlining tasks and boosting efficiency across various industries."
-
-[params.cover]
-  image = "/images/posts/enhancing-productivity-with-ai-agents-in-2026.png"
-  alt = "Enhancing Productivity with AI Agents in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/enhancing-productivity-with-ai-agents-in-2026.png"
+  alt: "Enhancing Productivity with AI Agents in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

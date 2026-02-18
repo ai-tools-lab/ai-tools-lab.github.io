@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools for developers in 2026 that can enhance productivity, streamline workflows, and improve code quality."
-
-[params.cover]
-  image = "/images/posts/top-ai-coding-tools-for-developers-in-2026.png"
-  alt = "Top AI Coding Tools for Developers in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-coding-tools-for-developers-in-2026.png"
+  alt: "Top AI Coding Tools for Developers in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

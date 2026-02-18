@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-project-management-tools"]
 keywords: ["AI project management tools"]
 description: "Discover how AI project management tools are transforming workflows, enhancing collaboration, and boosting productivity in teams."
-
-[params.cover]
-  image = "/images/posts/how-ai-tools-are-revolutionizing-project-management.png"
-  alt = "How AI Tools are Revolutionizing Project Management"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-tools-are-revolutionizing-project-management.png"
+  alt: "How AI Tools are Revolutionizing Project Management"
+  caption: ""
+  relative: false
 ---
 
 ---

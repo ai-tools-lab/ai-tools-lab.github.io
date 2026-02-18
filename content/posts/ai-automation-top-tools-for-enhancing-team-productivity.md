@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-tools"]
 keywords: ["AI automation tools"]
 description: "Discover the best AI automation tools to boost your team's productivity and streamline workflows for greater efficiency and effectiveness."
-
-[params.cover]
-  image = "/images/posts/ai-automation-top-tools-for-enhancing-team-productivity.png"
-  alt = "AI Automation: Top Tools for Enhancing Team Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-automation-top-tools-for-enhancing-team-productivity.png"
+  alt: "AI Automation: Top Tools for Enhancing Team Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

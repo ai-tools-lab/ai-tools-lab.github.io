@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Explore how AI automation is transforming business efficiency and driving productivity, enabling organizations to thrive in a competitive landscape."
-
-[params.cover]
-  image = "/images/posts/how-ai-automation-is-reshaping-business-efficiency.png"
-  alt = "How AI Automation is Reshaping Business Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-automation-is-reshaping-business-efficiency.png"
+  alt: "How AI Automation is Reshaping Business Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

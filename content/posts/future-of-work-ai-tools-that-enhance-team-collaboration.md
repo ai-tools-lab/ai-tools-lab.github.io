@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-collaboration"]
 keywords: ["AI tools collaboration"]
 description: "Explore the future of work with AI tools that enhance team collaboration, boost productivity, and streamline communication in your organization."
-
-[params.cover]
-  image = "/images/posts/future-of-work-ai-tools-that-enhance-team-collaboration.png"
-  alt = "Future of Work: AI Tools That Enhance Team Collaboration"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/future-of-work-ai-tools-that-enhance-team-collaboration.png"
+  alt: "Future of Work: AI Tools That Enhance Team Collaboration"
+  caption: ""
+  relative: false
 ---
 
 ---

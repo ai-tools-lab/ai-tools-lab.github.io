@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents"]
 keywords: ["AI agents"]
 description: "Discover how AI agents are revolutionizing business operations, enhancing efficiency, and driving innovation across various industries."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-are-transforming-business-operations.png"
-  alt = "How AI Agents Are Transforming Business Operations"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-are-transforming-business-operations.png"
+  alt: "How AI Agents Are Transforming Business Operations"
+  caption: ""
+  relative: false
 ---
 
 ---

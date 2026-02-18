@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-for-business"]
 keywords: ["AI agents for business"]
 description: "Discover how AI agents for business are revolutionizing productivity in 2026 with practical examples and insights for future growth."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-enhance-business-productivity-in-2026.png"
-  alt = "How AI Agents Enhance Business Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-enhance-business-productivity-in-2026.png"
+  alt: "How AI Agents Enhance Business Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

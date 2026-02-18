@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-employee-productivity"]
 keywords: ["AI agents employee productivity"]
 description: "Discover how AI agents enhance employee productivity and shape the future of work through automation, collaboration, and efficiency."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-ai-agents-and-employee-productivity.png"
-  alt = "The Future of Work: AI Agents and Employee Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-ai-agents-and-employee-productivity.png"
+  alt: "The Future of Work: AI Agents and Employee Productivity"
+  caption: ""
+  relative: false
 ---
 
 The workplace of the future is rapidly evolving, driven by advances in artificial intelligence (AI) and the implementation of AI agents designed to boost employee productivity. As organizations grapple with the challenges of a hybrid work environment and the need for efficient operations, AI agents are stepping in to enhance productivity, streamline workflows, and provide valuable insights. In this blog post, we’ll explore the role of AI agents in the workplace, their impact on employee productivity, and provide practical examples and use cases to illustrate their potential.

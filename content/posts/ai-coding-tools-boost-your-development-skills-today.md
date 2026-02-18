@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-skills"]
 keywords: ["AI coding skills"]
 description: "Discover how AI coding tools can enhance your development skills today! Unlock the potential of AI in programming and take your coding to the next level."
-
-[params.cover]
-  image = "/images/posts/ai-coding-tools-boost-your-development-skills-today.png"
-  alt = "AI Coding Tools: Boost Your Development Skills Today"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-coding-tools-boost-your-development-skills-today.png"
+  alt: "AI Coding Tools: Boost Your Development Skills Today"
+  caption: ""
+  relative: false
 ---
 
 ---

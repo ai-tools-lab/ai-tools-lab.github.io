@@ -6,12 +6,11 @@ categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "Business Productivity", "strategies"]
 keywords: ["AI automation strategies business", "AI efficiency strategies"]
 description: "Seven proven AI automation strategies that supercharge business efficiency—with implementation tips for each."
-
-[params.cover]
-  image = "/images/posts/boosting-business-efficiency-with-ai-automation-strategies.webp"
-  alt = "Boosting Business Efficiency with AI Automation Strategies"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boosting-business-efficiency-with-ai-automation-strategies.webp"
+  alt: "Boosting Business Efficiency with AI Automation Strategies"
+  caption: ""
+  relative: false
 ---
 
 ---

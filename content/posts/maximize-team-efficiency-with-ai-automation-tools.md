@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-tools"]
 keywords: ["AI automation tools"]
 description: "Discover how AI automation tools can boost team efficiency, streamline workflows, and enhance productivity in your organization."
-
-[params.cover]
-  image = "/images/posts/maximize-team-efficiency-with-ai-automation-tools.png"
-  alt = "Maximize Team Efficiency with AI Automation Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximize-team-efficiency-with-ai-automation-tools.png"
+  alt: "Maximize Team Efficiency with AI Automation Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

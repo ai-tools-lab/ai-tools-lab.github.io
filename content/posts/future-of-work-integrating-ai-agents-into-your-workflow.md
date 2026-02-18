@@ -6,12 +6,11 @@ categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "workflow", "how-to"]
 keywords: ["integrate AI agents workflow", "AI workflow setup"]
 description: "Step-by-step instructions for integrating AI agents into your existing daily workflow without disruption."
-
-[params.cover]
-  image = "/images/posts/future-of-work-integrating-ai-agents-into-your-workflow.webp"
-  alt = "Future of Work: Integrating AI Agents into Your Workflow"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/future-of-work-integrating-ai-agents-into-your-workflow.webp"
+  alt: "Future of Work: Integrating AI Agents into Your Workflow"
+  caption: ""
+  relative: false
 ---
 
 ---

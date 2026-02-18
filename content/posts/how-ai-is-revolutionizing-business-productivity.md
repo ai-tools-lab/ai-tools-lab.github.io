@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-productivity"]
 keywords: ["AI business productivity"]
 description: "Discover how AI is revolutionizing business productivity with innovative tools, practical examples, and actionable insights for your organization."
-
-[params.cover]
-  image = "/images/posts/how-ai-is-revolutionizing-business-productivity.png"
-  alt = "How AI is Revolutionizing Business Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-is-revolutionizing-business-productivity.png"
+  alt: "How AI is Revolutionizing Business Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

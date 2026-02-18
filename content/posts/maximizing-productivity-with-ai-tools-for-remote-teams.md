@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-tools-remote-teams"]
 keywords: ["AI productivity tools remote teams"]
 description: "Discover how AI productivity tools can transform remote teams and boost efficiency in your organization with practical insights and examples."
-
-[params.cover]
-  image = "/images/posts/maximizing-productivity-with-ai-tools-for-remote-teams.png"
-  alt = "Maximizing Productivity with AI Tools for Remote Teams"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/maximizing-productivity-with-ai-tools-for-remote-teams.png"
+  alt: "Maximizing Productivity with AI Tools for Remote Teams"
+  caption: ""
+  relative: false
 ---
 
 ---

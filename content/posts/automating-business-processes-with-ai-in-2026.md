@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation is revolutionizing business processes in 2026. Explore tools and strategies to streamline your operations today!"
-
-[params.cover]
-  image = "/images/posts/automating-business-processes-with-ai-in-2026.png"
-  alt = "Automating Business Processes with AI in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/automating-business-processes-with-ai-in-2026.png"
+  alt: "Automating Business Processes with AI in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

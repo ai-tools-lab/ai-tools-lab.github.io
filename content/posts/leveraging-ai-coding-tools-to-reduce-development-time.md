@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools-development"]
 keywords: ["AI coding tools development"]
 description: "Discover how AI coding tools boost development efficiency, streamline coding tasks, and reduce time spent on programming projects."
-
-[params.cover]
-  image = "/images/posts/leveraging-ai-coding-tools-to-reduce-development-time.png"
-  alt = "Leveraging AI Coding Tools to Reduce Development Time"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/leveraging-ai-coding-tools-to-reduce-development-time.png"
+  alt: "Leveraging AI Coding Tools to Reduce Development Time"
+  caption: ""
+  relative: false
 ---
 
 ---

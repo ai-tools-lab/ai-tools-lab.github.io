@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation"]
 keywords: ["AI automation"]
 description: "Discover how AI automation strategies can enhance your workflow, boost productivity, and streamline your daily tasks with practical tools and tips."
-
-[params.cover]
-  image = "/images/posts/boost-your-workflow-with-ai-automation-strategies.png"
-  alt = "Boost Your Workflow with AI Automation Strategies"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boost-your-workflow-with-ai-automation-strategies.png"
+  alt: "Boost Your Workflow with AI Automation Strategies"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation is transforming business operations today, enhancing efficiency and productivity for companies across various industries."
-
-[params.cover]
-  image = "/images/posts/how-ai-automation-transforms-business-operations-now.png"
-  alt = "How AI Automation Transforms Business Operations Now"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-automation-transforms-business-operations-now.png"
+  alt: "How AI Automation Transforms Business Operations Now"
+  caption: ""
+  relative: false
 ---
 
 ---

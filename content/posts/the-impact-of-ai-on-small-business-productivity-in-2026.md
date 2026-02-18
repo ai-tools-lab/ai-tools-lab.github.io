@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-small-business-productivity"]
 keywords: ["AI small business productivity"]
 description: "Discover how AI is transforming small business productivity in 2026, enhancing efficiency, decision-making, and customer engagement."
-
-[params.cover]
-  image = "/images/posts/the-impact-of-ai-on-small-business-productivity-in-2026.png"
-  alt = "The Impact of AI on Small Business Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-impact-of-ai-on-small-business-productivity-in-2026.png"
+  alt: "The Impact of AI on Small Business Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

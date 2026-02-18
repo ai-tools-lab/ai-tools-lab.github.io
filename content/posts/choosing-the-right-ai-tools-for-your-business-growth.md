@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-business"]
 keywords: ["AI tools for business"]
 description: "Discover how to select the best AI tools for business growth and enhance productivity with our comprehensive guide and practical examples."
-
-[params.cover]
-  image = "/images/posts/choosing-the-right-ai-tools-for-your-business-growth.png"
-  alt = "Choosing the Right AI Tools for Your Business Growth"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-right-ai-tools-for-your-business-growth.png"
+  alt: "Choosing the Right AI Tools for Your Business Growth"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-collaboration"]
 keywords: ["AI tools collaboration"]
 description: "Discover how AI tools collaboration is transforming teamwork, enhancing productivity, and streamlining communication in the modern workplace."
-
-[params.cover]
-  image = "/images/posts/revolutionizing-team-collaboration-with-ai-tools.png"
-  alt = "Revolutionizing Team Collaboration with AI Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/revolutionizing-team-collaboration-with-ai-tools.png"
+  alt: "Revolutionizing Team Collaboration with AI Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

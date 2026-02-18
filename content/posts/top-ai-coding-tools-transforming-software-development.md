@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools reshaping software development, enhancing productivity, and streamlining workflows for developers."
-
-[params.cover]
-  image = "/images/posts/top-ai-coding-tools-transforming-software-development.png"
-  alt = "Top AI Coding Tools Transforming Software Development"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-coding-tools-transforming-software-development.png"
+  alt: "Top AI Coding Tools Transforming Software Development"
+  caption: ""
+  relative: false
 ---
 
 ---

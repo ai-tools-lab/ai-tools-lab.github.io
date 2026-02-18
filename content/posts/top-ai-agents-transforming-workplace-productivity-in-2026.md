@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover the top AI agents revolutionizing workplace productivity in 2026 and how they can enhance efficiency and collaboration in your organization."
-
-[params.cover]
-  image = "/images/posts/top-ai-agents-transforming-workplace-productivity-in-2026.png"
-  alt = "Top AI Agents Transforming Workplace Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-agents-transforming-workplace-productivity-in-2026.png"
+  alt: "Top AI Agents Transforming Workplace Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ### Top AI Agents Transforming Workplace Productivity in 2026

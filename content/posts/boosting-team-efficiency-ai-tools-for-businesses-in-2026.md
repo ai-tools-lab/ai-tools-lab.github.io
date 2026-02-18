@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "team-efficiency", "tool-reviews"]
 keywords: ["AI team efficiency tools 2026", "AI tools that work"]
 description: "Cutting through the hype—which AI team efficiency tools actually deliver results in 2026, based on real user feedback."
-
-[params.cover]
-  image = "/images/posts/boosting-team-efficiency-ai-tools-for-businesses-in-2026.webp"
-  alt = "Boosting Team Efficiency: AI Tools for Businesses in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boosting-team-efficiency-ai-tools-for-businesses-in-2026.webp"
+  alt: "Boosting Team Efficiency: AI Tools for Businesses in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

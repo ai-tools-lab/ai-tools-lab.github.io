@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-tools-business"]
 keywords: ["AI automation tools business"]
 description: "Discover how AI automation tools can supercharge your business efficiency in 2026. Explore top tools and their benefits for your operations!"
-
-[params.cover]
-  image = "/images/posts/automate-your-business-ai-tools-for-efficiency-in-2026.png"
-  alt = "Automate Your Business: AI Tools for Efficiency in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/automate-your-business-ai-tools-for-efficiency-in-2026.png"
+  alt: "Automate Your Business: AI Tools for Efficiency in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

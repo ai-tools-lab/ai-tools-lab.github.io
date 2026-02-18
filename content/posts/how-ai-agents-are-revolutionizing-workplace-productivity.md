@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover how AI agents are transforming workplace productivity through automation, collaboration, and enhanced decision-making capabilities."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-are-revolutionizing-workplace-productivity.png"
-  alt = "How AI Agents Are Revolutionizing Workplace Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-are-revolutionizing-workplace-productivity.png"
+  alt: "How AI Agents Are Revolutionizing Workplace Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

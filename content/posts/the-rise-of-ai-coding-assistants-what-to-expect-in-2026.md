@@ -6,12 +6,11 @@ categories: ["AI Coding Tools"]
 tags: ["AI Coding Tools", "trends", "predictions"]
 keywords: ["AI coding assistants 2026 trends", "future of AI coding"]
 description: "Key trends and predictions for AI coding assistants in 2026—multimodal input, agent-based coding, and beyond."
-
-[params.cover]
-  image = "/images/posts/the-rise-of-ai-coding-assistants-what-to-expect-in-2026.webp"
-  alt = "The Rise of AI Coding Assistants: What to Expect in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-rise-of-ai-coding-assistants-what-to-expect-in-2026.webp"
+  alt: "The Rise of AI Coding Assistants: What to Expect in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-business"]
 keywords: ["AI tools for business"]
 description: "Discover how AI tools for business can boost efficiency and streamline operations. Unlock the potential of AI for your organization today!"
-
-[params.cover]
-  image = "/images/posts/enhancing-business-efficiency-with-ai-tools.png"
-  alt = "Enhancing Business Efficiency with AI Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/enhancing-business-efficiency-with-ai-tools.png"
+  alt: "Enhancing Business Efficiency with AI Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

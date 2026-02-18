@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-personal-productivity"]
 keywords: ["AI agents personal productivity"]
 description: "Explore how AI agents enhance personal productivity and discover future trends shaping the way we work and manage our time effectively."
-
-[params.cover]
-  image = "/images/posts/future-trends-ai-agents-in-personal-productivity.png"
-  alt = "Future Trends: AI Agents in Personal Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/future-trends-ai-agents-in-personal-productivity.png"
+  alt: "Future Trends: AI Agents in Personal Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-productivity-tools"]
 keywords: ["AI productivity tools"]
 description: "Explore the top AI productivity tools businesses need in 2026 to enhance efficiency and streamline operations for future success."
-
-[params.cover]
-  image = "/images/posts/ai-driven-productivity-tools-every-business-needs-in-2026.png"
-  alt = "AI-Driven Productivity: Tools Every Business Needs in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-driven-productivity-tools-every-business-needs-in-2026.png"
+  alt: "AI-Driven Productivity: Tools Every Business Needs in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

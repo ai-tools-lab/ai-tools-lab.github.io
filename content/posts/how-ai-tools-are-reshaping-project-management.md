@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-project-management"]
 keywords: ["AI tools project management"]
 description: "Discover how AI tools are transforming project management, enhancing efficiency, and driving collaboration in teams of all sizes."
-
-[params.cover]
-  image = "/images/posts/how-ai-tools-are-reshaping-project-management.png"
-  alt = "How AI Tools Are Reshaping Project Management"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-tools-are-reshaping-project-management.png"
+  alt: "How AI Tools Are Reshaping Project Management"
+  caption: ""
+  relative: false
 ---
 
 ---

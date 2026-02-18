@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-productivity"]
 keywords: ["AI tools productivity"]
 description: "Discover how AI tools are revolutionizing productivity in the workplace and how they can help you work smarter, not harder."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-ai-tools-enhancing-productivity.png"
-  alt = "The Future of Work: AI Tools Enhancing Productivity"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-ai-tools-enhancing-productivity.png"
+  alt: "The Future of Work: AI Tools Enhancing Productivity"
+  caption: ""
+  relative: false
 ---
 
 ---

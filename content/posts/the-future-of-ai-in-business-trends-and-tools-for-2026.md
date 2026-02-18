@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-business-tools"]
 keywords: ["AI business tools"]
 description: "Explore the future of AI in business with emerging trends and tools for 2026, and learn how AI business tools can enhance productivity and efficiency."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-in-business-trends-and-tools-for-2026.png"
-  alt = "The Future of AI in Business: Trends and Tools for 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-in-business-trends-and-tools-for-2026.png"
+  alt: "The Future of AI in Business: Trends and Tools for 2026"
+  caption: ""
+  relative: false
 ---
 
 The Future of AI in Business: Trends and Tools for 2026

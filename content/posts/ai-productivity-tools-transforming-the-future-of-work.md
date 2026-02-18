@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "tool-categories", "overview"]
 keywords: ["AI productivity tools categories", "AI tool types explained"]
 description: "A complete breakdown of AI productivity tool categories—writing, scheduling, analytics, communication, and more."
-
-[params.cover]
-  image = "/images/posts/ai-productivity-tools-transforming-the-future-of-work.webp"
-  alt = "AI Productivity Tools: Transforming the Future of Work"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-productivity-tools-transforming-the-future-of-work.webp"
+  alt: "AI Productivity Tools: Transforming the Future of Work"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -6,12 +6,11 @@ categories: ["Business Productivity"]
 tags: ["Business Productivity", "research", "productivity"]
 keywords: ["AI productivity data research", "AI productivity statistics"]
 description: "What does the research say about AI productivity gains? A data-driven look at real numbers behind the hype."
-
-[params.cover]
-  image = "/images/posts/the-future-of-work-integrating-ai-for-productivity-gains.webp"
-  alt = "The Future of Work: Integrating AI for Productivity Gains"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-work-integrating-ai-for-productivity-gains.webp"
+  alt: "The Future of Work: Integrating AI for Productivity Gains"
+  caption: ""
+  relative: false
 ---
 
 ---

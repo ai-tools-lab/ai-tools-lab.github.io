@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-for-business-trends"]
 keywords: ["AI for business trends"]
 description: "Discover the top AI for business trends to watch in 2026 and how they can transform your organization for the better."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-for-business-trends-to-watch-in-2026.png"
-  alt = "The Future of AI for Business: Trends to Watch in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-for-business-trends-to-watch-in-2026.png"
+  alt: "The Future of AI for Business: Trends to Watch in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

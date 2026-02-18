@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-trends"]
 keywords: ["AI automation trends"]
 description: "Discover the key AI automation trends shaping business operations by 2026 and how companies can leverage them for success."
-
-[params.cover]
-  image = "/images/posts/the-future-of-ai-automation-in-businesses-trends-for-2026.png"
-  alt = "The Future of AI Automation in Businesses: Trends for 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/the-future-of-ai-automation-in-businesses-trends-for-2026.png"
+  alt: "The Future of AI Automation in Businesses: Trends for 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

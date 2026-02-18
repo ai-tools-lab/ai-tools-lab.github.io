@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools that can significantly enhance developer efficiency and streamline your coding workflow."
-
-[params.cover]
-  image = "/images/posts/top-ai-coding-tools-that-enhance-developer-efficiency.png"
-  alt = "Top AI Coding Tools That Enhance Developer Efficiency"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/top-ai-coding-tools-that-enhance-developer-efficiency.png"
+  alt: "Top AI Coding Tools That Enhance Developer Efficiency"
+  caption: ""
+  relative: false
 ---
 
 ---

@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-tools-for-business"]
 keywords: ["AI tools for business"]
 description: "Discover essential AI tools for business in 2026 that can boost productivity, streamline operations, and enhance decision-making."
-
-[params.cover]
-  image = "/images/posts/ai-for-business-essential-tools-every-company-needs-in-2026.png"
-  alt = "AI for Business: Essential Tools Every Company Needs in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-for-business-essential-tools-every-company-needs-in-2026.png"
+  alt: "AI for Business: Essential Tools Every Company Needs in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

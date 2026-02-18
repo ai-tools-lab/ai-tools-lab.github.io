@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-personal-assistants"]
 keywords: ["AI personal assistants"]
 description: "Discover how AI personal assistants will evolve by 2026 and their impact on productivity and daily life."
-
-[params.cover]
-  image = "/images/posts/ai-agents-the-future-of-personal-assistants-in-2026.png"
-  alt = "AI Agents: The Future of Personal Assistants in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/ai-agents-the-future-of-personal-assistants-in-2026.png"
+  alt: "AI Agents: The Future of Personal Assistants in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

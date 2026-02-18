@@ -6,12 +6,11 @@ categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "Business Productivity", "how-to"]
 keywords: ["automate business processes AI", "AI automation playbook"]
 description: "A step-by-step playbook for automating your business processes with AI—from identifying opportunities to measuring ROI."
-
-[params.cover]
-  image = "/images/posts/automating-business-processes-with-ai-a-complete-guide.webp"
-  alt = "Automating Business Processes with AI: A Complete Guide"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/automating-business-processes-with-ai-a-complete-guide.webp"
+  alt: "Automating Business Processes with AI: A Complete Guide"
+  caption: ""
+  relative: false
 ---
 
 ---

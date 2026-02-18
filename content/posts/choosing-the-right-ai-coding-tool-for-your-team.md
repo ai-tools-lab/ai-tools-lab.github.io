@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "choosing-AI-coding-tools"]
 keywords: ["choosing AI coding tools"]
 description: "Discover how to choose the right AI coding tools for your team and boost productivity with our comprehensive guide and practical examples."
-
-[params.cover]
-  image = "/images/posts/choosing-the-right-ai-coding-tool-for-your-team.png"
-  alt = "Choosing the Right AI Coding Tool for Your Team"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/choosing-the-right-ai-coding-tool-for-your-team.png"
+  alt: "Choosing the Right AI Coding Tool for Your Team"
+  caption: ""
+  relative: false
 ---
 
 ---

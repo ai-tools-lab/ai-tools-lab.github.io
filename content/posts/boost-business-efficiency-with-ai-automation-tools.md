@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-tools"]
 keywords: ["AI automation tools"]
 description: "Discover how AI automation tools can enhance business efficiency and streamline processes for maximum productivity and success."
-
-[params.cover]
-  image = "/images/posts/boost-business-efficiency-with-ai-automation-tools.png"
-  alt = "Boost Business Efficiency with AI Automation Tools"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/boost-business-efficiency-with-ai-automation-tools.png"
+  alt: "Boost Business Efficiency with AI Automation Tools"
+  caption: ""
+  relative: false
 ---
 
 ---

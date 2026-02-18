@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-agents-collaboration"]
 keywords: ["AI agents collaboration"]
 description: "Discover how AI agents are transforming team collaboration and what to expect by 2026 for enhanced productivity and teamwork."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-can-supercharge-team-collaboration-by-2026.png"
-  alt = "How AI Agents Can Supercharge Team Collaboration by 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-can-supercharge-team-collaboration-by-2026.png"
+  alt: "How AI Agents Can Supercharge Team Collaboration by 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

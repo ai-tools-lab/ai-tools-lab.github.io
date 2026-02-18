@@ -5,12 +5,11 @@ draft: false
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation can drive business growth in 2026, enhancing efficiency and productivity for companies of all sizes."
-
-[params.cover]
-  image = "/images/posts/harnessing-ai-automation-for-business-growth-in-2026.png"
-  alt = "Harnessing AI Automation for Business Growth in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/harnessing-ai-automation-for-business-growth-in-2026.png"
+  alt: "Harnessing AI Automation for Business Growth in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---

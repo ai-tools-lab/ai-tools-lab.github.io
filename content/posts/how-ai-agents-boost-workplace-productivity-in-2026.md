@@ -6,12 +6,11 @@ categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "productivity", "workplace"]
 keywords: ["AI agents workplace efficiency", "AI productivity boost"]
 description: "Five practical ways AI agents enhance workplace productivity today—from smart scheduling to automated reporting."
-
-[params.cover]
-  image = "/images/posts/how-ai-agents-boost-workplace-productivity-in-2026.webp"
-  alt = "How AI Agents Boost Workplace Productivity in 2026"
-  caption = ""
-  relative = false
+cover:
+  image: "/images/posts/how-ai-agents-boost-workplace-productivity-in-2026.webp"
+  alt: "How AI Agents Boost Workplace Productivity in 2026"
+  caption: ""
+  relative: false
 ---
 
 ---
