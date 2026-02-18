@@ -1,7 +1,7 @@
 ---
 title: "How AI Agents Enhance Productivity in the Workplace"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover how AI agents boost productivity in the workplace by streamlining tasks, enhancing collaboration, and improving decision-making."

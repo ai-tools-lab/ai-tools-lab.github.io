@@ -10,6 +10,7 @@ cover:
   alt: "AI Automation: A Game Changer for Small Businesses"
   caption: ""
   relative: false
+categories: ["AI Automation"]
 ---
 
 ---

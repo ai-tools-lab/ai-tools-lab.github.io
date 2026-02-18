@@ -1,7 +1,7 @@
 ---
 title: "AI Productivity Tools: A Complete Category Breakdown"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "tool-categories", "overview"]
 keywords: ["AI productivity tools categories", "AI tool types explained"]

@@ -1,7 +1,7 @@
 ---
 title: "How AI Coding Tools Are Changing the Development Landscape"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-coding-development"]
 keywords: ["AI coding development"]
 description: "Discover how AI coding tools are revolutionizing the development landscape, boosting productivity, and enhancing code quality."

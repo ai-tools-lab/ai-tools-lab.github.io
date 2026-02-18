@@ -1,7 +1,7 @@
 ---
 title: "The Future of AI in Business: Tools to Watch in 2026"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "future-of-AI-tools"]
 keywords: ["future of AI tools"]
 description: "Explore the future of AI tools in business by 2026. Discover innovative solutions set to transform productivity and decision-making."

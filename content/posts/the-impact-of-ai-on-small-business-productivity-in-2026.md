@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Small Business Productivity in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-small-business-productivity"]
 keywords: ["AI small business productivity"]
 description: "Discover how AI is transforming small business productivity in 2026, enhancing efficiency, decision-making, and customer engagement."

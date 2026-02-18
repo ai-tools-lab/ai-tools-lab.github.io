@@ -1,7 +1,7 @@
 ---
 title: "How AI Agents Are Revolutionizing Workplace Productivity"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover how AI agents are transforming workplace productivity through automation, collaboration, and enhanced decision-making capabilities."

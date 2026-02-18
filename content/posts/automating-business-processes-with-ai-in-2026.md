@@ -1,7 +1,7 @@
 ---
 title: "Automating Business Processes with AI in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-automation-business"]
 keywords: ["AI automation business"]
 description: "Discover how AI automation is revolutionizing business processes in 2026. Explore tools and strategies to streamline your operations today!"

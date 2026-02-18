@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Automation for Small Businesses"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-automation-small-business"]
 keywords: ["AI automation small business"]
 description: "Unlock the potential of AI automation for small businesses to streamline operations, boost productivity, and enhance customer experiences."

@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right AI Coding Tool for Your Team"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "choosing-AI-coding-tools"]
 keywords: ["choosing AI coding tools"]
 description: "Discover how to choose the right AI coding tools for your team and boost productivity with our comprehensive guide and practical examples."

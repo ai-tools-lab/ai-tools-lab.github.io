@@ -1,7 +1,7 @@
 ---
 title: "Automating Business Processes with AI: A Step-by-Step Playbook"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "Business Productivity", "how-to"]
 keywords: ["automate business processes AI", "AI automation playbook"]

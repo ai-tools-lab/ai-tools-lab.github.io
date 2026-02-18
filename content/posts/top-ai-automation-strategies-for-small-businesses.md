@@ -1,7 +1,7 @@
 ---
 title: "AI Automation on a Budget: Smart Strategies for Small Businesses"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "small-business", "budget"]
 keywords: ["AI automation small business budget", "affordable AI automation"]

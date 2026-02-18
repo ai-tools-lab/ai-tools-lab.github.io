@@ -10,6 +10,7 @@ cover:
   alt: "Top AI Agents Revolutionizing Productivity in 2026"
   caption: ""
   relative: false
+categories: ["AI Agents"]
 ---
 
 ---

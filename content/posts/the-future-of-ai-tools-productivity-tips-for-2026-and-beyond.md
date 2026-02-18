@@ -1,7 +1,7 @@
 ---
 title: "AI Productivity Tips: Work Smarter in 2026 and Beyond"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "tips", "productivity"]
 keywords: ["AI productivity tips 2026", "work smarter AI"]

@@ -1,7 +1,7 @@
 ---
 title: "Impact of AI on Business Productivity in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-business-productivity"]
 keywords: ["AI business productivity"]
 description: "Discover how AI tools will enhance business productivity in 2026, transforming workflows and driving efficiency across industries."

@@ -1,7 +1,7 @@
 ---
 title: "AI Coding Tools: Boosting Developer Efficiency in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Explore how AI coding tools are revolutionizing developer efficiency in 2026 and how you can leverage them for your projects."

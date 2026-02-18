@@ -1,7 +1,7 @@
 ---
 title: "AI for Small Businesses: Tools to Enhance Productivity"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-tools-for-small-business"]
 keywords: ["AI tools for small business"]
 description: "Discover essential AI tools for small businesses that enhance productivity and streamline operations for success in a competitive landscape."

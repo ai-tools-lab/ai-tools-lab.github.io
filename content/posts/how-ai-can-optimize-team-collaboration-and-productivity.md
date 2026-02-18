@@ -1,7 +1,7 @@
 ---
 title: "How AI Optimizes Cross-Functional Team Collaboration"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "cross-functional", "collaboration"]
 keywords: ["AI cross-functional collaboration", "AI team optimization"]

@@ -1,7 +1,7 @@
 ---
 title: "How AI Tools Are Reshaping Project Management"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-tools-project-management"]
 keywords: ["AI tools project management"]
 description: "Discover how AI tools are transforming project management, enhancing efficiency, and driving collaboration in teams of all sizes."

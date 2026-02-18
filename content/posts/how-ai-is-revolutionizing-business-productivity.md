@@ -1,7 +1,7 @@
 ---
 title: "How AI is Revolutionizing Business Productivity"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-business-productivity"]
 keywords: ["AI business productivity"]
 description: "Discover how AI is revolutionizing business productivity with innovative tools, practical examples, and actionable insights for your organization."

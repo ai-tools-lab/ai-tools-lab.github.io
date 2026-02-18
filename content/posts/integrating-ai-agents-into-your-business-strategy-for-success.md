@@ -1,7 +1,7 @@
 ---
 title: "AI Agents in Business Strategy: From Planning to Execution"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "Business Productivity", "strategy"]
 keywords: ["AI agents business strategy", "AI strategic planning"]

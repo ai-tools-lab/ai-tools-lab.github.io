@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: Why AI Adoption Is No Longer Optional"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "future-of-work", "AI-adoption"]
 keywords: ["future of work AI adoption", "AI mandatory business"]

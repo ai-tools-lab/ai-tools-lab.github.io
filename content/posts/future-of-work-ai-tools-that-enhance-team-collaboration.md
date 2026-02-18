@@ -1,7 +1,7 @@
 ---
 title: "Future of Work: AI Tools That Enhance Team Collaboration"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-tools-collaboration"]
 keywords: ["AI tools collaboration"]
 description: "Explore the future of work with AI tools that enhance team collaboration, boost productivity, and streamline communication in your organization."

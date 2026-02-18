@@ -10,6 +10,7 @@ cover:
   alt: "Automate Your Business: AI Tools for Efficiency in 2026"
   caption: ""
   relative: false
+categories: ["AI Automation"]
 ---
 
 ---

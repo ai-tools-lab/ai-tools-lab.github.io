@@ -10,6 +10,7 @@ cover:
   alt: "Choosing the Right AI Tools for Your Business Growth"
   caption: ""
   relative: false
+categories: ["AI for Business"]
 ---
 
 ---

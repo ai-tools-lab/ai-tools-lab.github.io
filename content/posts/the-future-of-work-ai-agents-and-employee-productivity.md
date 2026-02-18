@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: AI Agents and Employee Productivity"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-employee-productivity"]
 keywords: ["AI agents employee productivity"]
 description: "Discover how AI agents enhance employee productivity and shape the future of work through automation, collaboration, and efficiency."

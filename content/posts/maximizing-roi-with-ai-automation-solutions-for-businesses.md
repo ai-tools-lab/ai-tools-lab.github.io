@@ -1,7 +1,7 @@
 ---
 title: "Measuring AI Automation ROI: Metrics and Frameworks That Matter"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "ROI", "Business Productivity"]
 keywords: ["AI automation ROI metrics", "measuring AI automation value"]

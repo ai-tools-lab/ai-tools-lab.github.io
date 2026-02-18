@@ -1,7 +1,7 @@
 ---
 title: "How AI Coding Tools are Revolutionizing Software Development"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover how AI coding tools are transforming software development, enhancing productivity, and reshaping coding practices for developers worldwide."

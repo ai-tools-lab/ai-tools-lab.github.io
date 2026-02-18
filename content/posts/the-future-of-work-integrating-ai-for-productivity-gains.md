@@ -1,7 +1,7 @@
 ---
 title: "AI Productivity Gains: What the Data Actually Shows"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "research", "productivity"]
 keywords: ["AI productivity data research", "AI productivity statistics"]

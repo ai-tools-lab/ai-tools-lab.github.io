@@ -1,7 +1,7 @@
 ---
 title: "Small Business Growth Playbook: AI Automation Edition"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "small-business", "growth"]
 keywords: ["small business AI growth", "AI automation growth playbook"]

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: AI Agents Transforming Productivity"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Discover how AI agents are transforming productivity in the workplace and what the future holds for work efficiency."

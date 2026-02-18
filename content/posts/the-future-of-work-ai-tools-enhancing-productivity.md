@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: AI Tools Enhancing Productivity"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-tools-productivity"]
 keywords: ["AI tools productivity"]
 description: "Discover how AI tools are revolutionizing productivity in the workplace and how they can help you work smarter, not harder."

@@ -10,6 +10,7 @@ cover:
   alt: "AI for Business: Essential Tools Every Company Needs in 2026"
   caption: ""
   relative: false
+categories: ["AI for Business"]
 ---
 
 ---

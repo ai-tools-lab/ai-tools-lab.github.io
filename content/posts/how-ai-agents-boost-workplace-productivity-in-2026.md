@@ -1,7 +1,7 @@
 ---
 title: "5 Ways AI Agents Boost Workplace Productivity Right Now"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "productivity", "workplace"]
 keywords: ["AI agents workplace efficiency", "AI productivity boost"]

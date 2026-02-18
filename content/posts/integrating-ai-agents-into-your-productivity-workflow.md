@@ -1,7 +1,7 @@
 ---
 title: "Building an AI-Powered Productivity Stack with Agents"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["AI Agents", "productivity-stack", "tools-guide"]
 keywords: ["AI productivity stack", "AI agent stack setup"]
 description: "How to build a complete AI-powered productivity stack using agents, from task management to content creation."

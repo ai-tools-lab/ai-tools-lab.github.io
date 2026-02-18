@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: AI in Business Processes"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-in-business-processes"]
 keywords: ["AI in business processes"]
 description: "Discover how AI in business processes is transforming work, enhancing efficiency, and shaping the future of productivity in organizations."

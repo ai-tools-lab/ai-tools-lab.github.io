@@ -10,6 +10,7 @@ cover:
   alt: "Maximizing ROI with AI-Powered Business Solutions in 2026"
   caption: ""
   relative: false
+categories: ["AI for Business"]
 ---
 
 ---

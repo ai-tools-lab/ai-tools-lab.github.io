@@ -1,7 +1,7 @@
 ---
 title: "Scaling from Startup to Enterprise with AI Automation"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "scaling", "Business Productivity"]
 keywords: ["scaling business AI automation", "AI automation growth"]

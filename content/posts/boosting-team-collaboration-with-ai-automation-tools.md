@@ -1,7 +1,7 @@
 ---
 title: "Boosting Team Collaboration with AI Automation Tools"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-collaboration-tools"]
 keywords: ["AI collaboration tools"]
 description: "Discover how AI collaboration tools can enhance teamwork and productivity by automating tasks and fostering communication among teams."

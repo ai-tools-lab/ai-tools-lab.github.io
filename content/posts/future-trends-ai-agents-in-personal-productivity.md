@@ -1,7 +1,7 @@
 ---
 title: "Future Trends: AI Agents in Personal Productivity"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-personal-productivity"]
 keywords: ["AI agents personal productivity"]
 description: "Explore how AI agents enhance personal productivity and discover future trends shaping the way we work and manage our time effectively."

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Team Productivity with AI Agents in 2026"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-agents-productivity"]
 keywords: ["AI agents productivity"]
 description: "Explore how AI agents are set to revolutionize team productivity in 2026, enhancing collaboration and efficiency in the workplace."

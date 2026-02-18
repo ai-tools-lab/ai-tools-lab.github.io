@@ -1,7 +1,7 @@
 ---
 title: "AI for Business Operations: A Decision-Maker's Guide"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["Business Productivity", "operations", "leadership"]
 keywords: ["AI business operations guide", "AI for decision makers"]

@@ -10,6 +10,7 @@ cover:
   alt: "The Future of Work: AI Tools for Enhanced Productivity"
   caption: ""
   relative: false
+categories: ["Future of AI"]
 ---
 
 The Future of Work: AI Tools for Enhanced Productivity

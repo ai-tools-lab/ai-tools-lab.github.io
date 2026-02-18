@@ -1,7 +1,7 @@
 ---
 title: "AI Agents as Productivity Partners: A Practical Introduction"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Agents", "Business Productivity"]
 tags: ["AI Agents", "productivity", "getting-started"]
 keywords: ["AI productivity partners", "AI agents introduction"]

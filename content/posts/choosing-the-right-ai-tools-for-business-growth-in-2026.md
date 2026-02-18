@@ -1,7 +1,7 @@
 ---
 title: "How to Choose the Right AI Tools for Your Business Size"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["Business Productivity"]
 tags: ["Business Productivity", "tool-selection", "strategy"]
 keywords: ["choosing AI tools business size", "AI tool selection guide"]

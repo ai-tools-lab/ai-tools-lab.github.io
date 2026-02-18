@@ -10,6 +10,7 @@ cover:
   alt: "AI Agents: The Future of Personal Assistants in 2026"
   caption: ""
   relative: false
+categories: ["AI Agents"]
 ---
 
 ---

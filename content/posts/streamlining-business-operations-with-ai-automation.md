@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Operations: AI Automation for Supply Chain and Logistics"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "supply-chain", "operations"]
 keywords: ["AI automation supply chain", "AI logistics automation"]

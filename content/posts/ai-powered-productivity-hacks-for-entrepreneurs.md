@@ -10,6 +10,7 @@ cover:
   alt: "AI-Powered Productivity Hacks for Entrepreneurs"
   caption: ""
   relative: false
+categories: ["AI Productivity"]
 ---
 
 ---

@@ -10,6 +10,7 @@ cover:
   alt: "AI Tools for Small Businesses: Increase Your ROI"
   caption: ""
   relative: false
+categories: ["AI for Business"]
 ---
 
 ---

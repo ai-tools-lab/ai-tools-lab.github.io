@@ -1,7 +1,7 @@
 ---
 title: "Top AI Coding Tools to Boost Developer Efficiency"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-coding-tools"]
 keywords: ["AI coding tools"]
 description: "Discover the top AI coding tools that enhance developer efficiency, streamline workflows, and boost productivity in your software development projects."

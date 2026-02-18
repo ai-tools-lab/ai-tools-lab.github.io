@@ -1,7 +1,7 @@
 ---
 title: "The Future of AI Automation in Everyday Business Tasks"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-automation-business-tasks"]
 keywords: ["AI automation business tasks"]
 description: "Explore how AI automation is transforming everyday business tasks and driving efficiency in the workplace. Discover tools and strategies to leverage this technology."

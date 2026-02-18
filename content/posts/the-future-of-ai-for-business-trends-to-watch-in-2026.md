@@ -1,7 +1,7 @@
 ---
 title: "The Future of AI for Business: Trends to Watch in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-for-business-trends"]
 keywords: ["AI for business trends"]
 description: "Discover the top AI for business trends to watch in 2026 and how they can transform your organization for the better."

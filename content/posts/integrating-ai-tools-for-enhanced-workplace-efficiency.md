@@ -10,6 +10,7 @@ cover:
   alt: "Integrating AI Tools for Enhanced Workplace Efficiency"
   caption: ""
   relative: false
+categories: ["AI Productivity"]
 ---
 
 ---

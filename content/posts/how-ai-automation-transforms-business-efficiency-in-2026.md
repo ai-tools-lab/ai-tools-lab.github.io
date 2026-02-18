@@ -1,7 +1,7 @@
 ---
 title: "AI Automation Case Studies: Real Efficiency Gains in 2026"
 date: 2026-02-17
-draft: false
+draft: true
 categories: ["AI Automation", "Business Productivity"]
 tags: ["AI Automation", "case-studies", "efficiency"]
 keywords: ["AI automation case studies 2026", "AI efficiency examples"]

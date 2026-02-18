@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: AI Tools You Need to Know"
 date: 2026-02-17
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-tools"]
 keywords: ["AI tools"]
 description: "Discover essential AI tools shaping the future of work, enhancing productivity, and transforming business operations."

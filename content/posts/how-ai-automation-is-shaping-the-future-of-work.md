@@ -1,7 +1,7 @@
 ---
 title: "How AI Automation is Shaping the Future of Work"
 date: 2026-02-18
-draft: false
+draft: true
 tags: ["ai-tools", "productivity", "AI-automation-future"]
 keywords: ["AI automation future"]
 description: "Discover how AI automation is shaping the future of work, enhancing productivity, and transforming industries for a smarter tomorrow."
