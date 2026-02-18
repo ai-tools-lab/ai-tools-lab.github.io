@@ -54,6 +54,9 @@ theme = "PaperMod"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[services.rss]
+  limit = 50
+
 [sitemap]
   changefreq = "weekly"
   priority = 0.5

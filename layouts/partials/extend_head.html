@@ -1,3 +1,20 @@
+{{/* Performance: DNS Prefetch & Preconnect */}}
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+
+{{/* Critical CSS */}}
+<style>body{margin:0}img,video{max-width:100%;height:auto}.post-content{line-height:1.8}</style>
+
+{{/* PWA */}}
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#2563eb">
+<script>
+if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js');}
+</script>
+
 {{/* JSON-LD Structured Data for SEO */}}
 
 {{/* Organization Schema - all pages */}}
