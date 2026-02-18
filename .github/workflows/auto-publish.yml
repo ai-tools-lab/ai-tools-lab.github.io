@@ -1,0 +1,55 @@
+name: Auto-Publish Daily Article
+
+on:
+  schedule:
+    # Weekdays at 09:00 UTC (02:00 MST)
+    - cron: "0 9 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Override category (optional)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openai
+
+      - name: Generate article
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CATEGORY_OVERRIDE: ${{ inputs.category || '' }}
+        run: python3 scripts/generate_article.py
+
+      - name: Generate social media posts
+        run: python3 scripts/social_post.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/posts/ social_posts/
+          git commit -m "Auto-publish: new article $(date +%Y-%m-%d)"
+          git push
