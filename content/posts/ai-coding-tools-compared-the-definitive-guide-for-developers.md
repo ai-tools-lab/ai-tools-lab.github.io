@@ -107,7 +107,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 
 **Benchmark Results:**
 We tested [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) across our four test projects:
-- **React SaaS Dashboard:** Excellent. Cursor's multi-file editing shone when refactoring component structures. 
+- **React SaaS Dashboard:** Excellent. [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)'s multi-file editing shone when refactoring component structures. 
 - **Go Microservice:** Good. Slightly less fluid than with TypeScript, but codebase chat was invaluable.
 - **Python ML Pipeline:** Very good. Inline edits for data transformation code were accurate 80%+ of the time.
 - **Swift Mobile App:** Decent. Swift support is improving but lags behind TypeScript/Python.

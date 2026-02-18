@@ -103,7 +103,7 @@ To help you choose the right tool, here’s a quick comparison of the features o
 <table>
   <tr>
     <th>Feature</th>
-    <th>GitHub Copilot</th>
+    <th>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
     <th>TabNine</th>
     <th>DeepCode</th>
     <th>CodeWhisperer</th>
@@ -179,7 +179,7 @@ When selecting the best AI coding tool for your needs, consider the following fa
 
 ## Conclusion
 
-AI coding tools are revolutionizing the way developers work, allowing for faster coding, improved code quality, and an overall more efficient development process. Whether you choose GitHub Copilot, TabNine, or any of the other mentioned tools, integrating AI into your workflow can provide significant benefits.
+AI coding tools are revolutionizing the way developers work, allowing for faster coding, improved code quality, and an overall more efficient development process. Whether you choose GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), TabNine, or any of the other mentioned tools, integrating AI into your workflow can provide significant benefits.
 
 Are you ready to enhance your coding efficiency with AI tools? Explore these options and find the one that best fits your coding style and workflow. Happy coding!
 

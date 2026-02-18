@@ -177,7 +177,7 @@ To visualize how these AI productivity tools can streamline your workflow, consi
 flowchart LR
     A[Start] --> B[Gather Information]
     B --> C[Notion AI for Note-taking]
-    C --> D[Draft with Grammarly]
+    C --> D[Draft with [Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)]
     D --> E[Project Management with ClickUp]
     E --> F[Automate with Trello]
     F --> G[Conduct Meeting with Zoom AI]

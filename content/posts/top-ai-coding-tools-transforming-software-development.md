@@ -115,7 +115,7 @@ To help you understand the differences between these AI coding tools, here's a c
     <td>Visual Studio Code</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>30+</td>
     <td>Yes</td>
