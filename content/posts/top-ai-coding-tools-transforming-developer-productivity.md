@@ -77,7 +77,7 @@ Codex is a powerful AI model designed specifically for coding tasks. It can unde
 
 ### 4. Replit Ghostwriter
 
-[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI coding assistant integrated into the Replit online IDE. It helps users by suggesting code, debugging errors, and even providing explanations for code snippets.
+[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter is an AI coding assistant integrated into the [Replit](https://replit.com/?ref=AFFILIATE_ID) online IDE. It helps users by suggesting code, debugging errors, and even providing explanations for code snippets.
 
 #### Pros:
 - **User-Friendly Interface**: Perfect for beginners and experienced developers alike.
@@ -121,7 +121,7 @@ Here's a comparative overview of the tools discussed:
     <td>Pair Programming</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>30+</td>
     <td>Various IDEs</td>
     <td>Subscription</td>
@@ -152,7 +152,7 @@ Here's a comparative overview of the tools discussed:
 
 ```mermaid
 graph TD;
-    A[AI Coding Tools] --> B[GitHub Copilot]
+    A[AI Coding Tools] --> B[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)]
     A --> C[Tabnine]
     A --> D[Codex]
     A --> E[Replit Ghostwriter]

@@ -63,7 +63,7 @@ GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) remains t
 
 **Price:** $10/month (Pro)
 
-The speed king. Supermaven's claim to fame is autocomplete latency — it's consistently 2-3x faster than Copilot. Founded by the creator of [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), Supermaven uses a custom model architecture optimized for real-time code completion.
+The speed king. Supermaven's claim to fame is autocomplete latency — it's consistently 2-3x faster than [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID). Founded by the creator of [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID), Supermaven uses a custom model architecture optimized for real-time code completion.
 
 **Strengths:**
 - Blazingly fast autocomplete — feels truly instant
@@ -89,7 +89,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 
 **Price:** Free (limited), $20/month (Pro), $40/month (Business)
 
-Cursor has redefined what an AI code editor can be. Built as a fork of VS Code, it retains full compatibility with VS Code extensions while adding deeply integrated AI features that feel native, not bolted on.
+[Cursor](https://cursor.sh/?ref=AFFILIATE_ID) has redefined what an AI code editor can be. Built as a fork of VS Code, it retains full compatibility with VS Code extensions while adding deeply integrated AI features that feel native, not bolted on.
 
 **Strengths:**
 - **Cmd+K inline editing** — highlight code, describe what you want, and Cursor rewrites it in place. This is the killer feature.
@@ -246,7 +246,7 @@ The open-source Devin alternative. OpenHands has a growing community and increas
 
 **Price:** Free (limited), $20/month (Pro)
 
-v0 specializes in generating React/Next.js UI components. Describe a UI and v0 generates clean, production-ready code using shadcn/ui components. It's narrower than Replit but deeper in its niche.
+v0 specializes in generating React/Next.js UI components. Describe a UI and v0 generates clean, production-ready code using shadcn/ui components. It's narrower than [Replit](https://replit.com/?ref=AFFILIATE_ID) but deeper in its niche.
 
 **Strengths:**
 - Generates beautiful, well-structured React components
@@ -342,7 +342,7 @@ Ask yourself these questions:
 ### The Power Combo
 Many top developers in 2026 use a combination:
 - **Cursor** as their primary editor (for multi-file editing and chat)
-- **GitHub Copilot** autocomplete running inside Cursor (for fast completions)
+- **[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)** autocomplete running inside Cursor (for fast completions)
 - **Devin or OpenHands** for well-defined backlog items
 - **CodeRabbit** for automated PR review
 

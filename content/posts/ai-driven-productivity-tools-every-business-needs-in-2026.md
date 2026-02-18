@@ -147,7 +147,7 @@ To help you choose the right AI productivity tools for your business, here's a c
         <td>Can become cluttered</td>
     </tr>
     <tr>
-        <td>ChatGPT</td>
+        <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
         <td>Content generation</td>
         <td>Produces high-quality content</td>
         <td>May require editing</td>

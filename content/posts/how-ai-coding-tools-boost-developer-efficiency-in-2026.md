@@ -71,7 +71,7 @@ To help you understand which AI coding tools might be best suited for your needs
     <td>$10/month</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>No</td>
     <td>No</td>

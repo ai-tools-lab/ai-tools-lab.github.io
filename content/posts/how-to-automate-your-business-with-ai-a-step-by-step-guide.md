@@ -238,7 +238,7 @@ Action: Generate formatted report → Send to Slack #leadership
         + Email to stakeholders + Save to Google Drive
 ```
 
-**Tools needed:** Make (complex data flows) + Claude API + multiple data sources
+**Tools needed:** Make (complex data flows) + [Claude](https://claude.ai/?ref=AFFILIATE_ID) API + multiple data sources
 **Setup time:** 6-8 hours
 **Time saved:** 4-6 hours/week
 **Bonus:** Report quality is *more consistent* than manual reports

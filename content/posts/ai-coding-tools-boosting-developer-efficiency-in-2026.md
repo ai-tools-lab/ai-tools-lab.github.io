@@ -128,13 +128,13 @@ For budding developers, using an AI coding tool can serve as a learning companio
 
 ### 3. Team Collaboration
 
-In a team environment, AI coding tools can facilitate better communication and collaboration. For instance, Codeium’s real-time suggestions allow team members to see what others are working on, making it easier to integrate different parts of a project.
+In a team environment, AI coding tools can facilitate better communication and collaboration. For instance, [Codeium](https://codeium.com/?ref=AFFILIATE_ID)’s real-time suggestions allow team members to see what others are working on, making it easier to integrate different parts of a project.
 
 ```mermaid
 flowchart TD
     A[Start] --> B{Choose AI Coding Tool}
     B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Integrate with IDE]
-    B -->|Tabnine| D[Customize Training]
+    B -->|[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Customize Training]
     B -->|Codeium| E[Enable Collaboration]
     C --> F[Write Code]
     D --> F

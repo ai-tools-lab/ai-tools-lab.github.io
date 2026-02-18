@@ -134,7 +134,7 @@ Here's a quick comparison to help you decide which AI coding tool fits your need
     <td>Personalized learning</td>
   </tr>
   <tr>
-    <td>Replit Ghostwriter</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Web languages</td>
     <td>Replit IDE</td>
     <td>Subscription</td>
@@ -164,9 +164,9 @@ To better understand how these tools can fit into your development workflow, her
 graph LR
 A[Start Coding] --> B{Choose AI Tool}
 B --> |[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Contextual Suggestions]
-B --> |Tabnine| D[Personalized Code Completion]
+B --> |[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Personalized Code Completion]
 B --> |Replit Ghostwriter| E[Collaborative Coding]
-B --> |Codeium| F[Documentation Assistance]
+B --> |[Codeium](https://codeium.com/?ref=AFFILIATE_ID)| F[Documentation Assistance]
 B --> |Sourcery| G[Code Quality Enhancements]
 C --> H[Deploy Code]
 D --> H

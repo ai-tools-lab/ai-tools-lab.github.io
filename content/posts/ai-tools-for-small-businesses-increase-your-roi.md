@@ -80,7 +80,7 @@ Here’s a selection of AI tools that can significantly impact your small busine
 
 **Example Tool**: Hootsuite
 
-**Description**: Hootsuite uses AI to analyze social media performance and suggest optimal posting times, as well as manage multiple accounts from one dashboard.
+**[Descript](https://www.descript.com/?ref=AFFILIATE_ID)ion**: Hootsuite uses AI to analyze social media performance and suggest optimal posting times, as well as manage multiple accounts from one dashboard.
 
 **Pros**:
 - Easy scheduling and management of posts across multiple platforms.

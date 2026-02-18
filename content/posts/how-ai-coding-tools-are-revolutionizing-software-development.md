@@ -53,7 +53,7 @@ With a plethora of AI coding tools available, it can be difficult to choose the 
     <td>Can suggest incorrect code, requires internet connection</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>AI autocompletion, team training capabilities</td>
     <td>Supports multiple languages, customizable for teams</td>
     <td>Limited free version, learning curve for setup</td>
@@ -76,7 +76,7 @@ With a plethora of AI coding tools available, it can be difficult to choose the 
 
 ### Streamlined Workflows
 
-AI coding tools help streamline workflows by reducing the amount of time spent on repetitive tasks. For example, a developer can use GitHub Copilot to generate boilerplate code, which allows them to focus on more complex aspects of the project. This not only saves time but also minimizes frustration, leading to a more enjoyable coding experience.
+AI coding tools help streamline workflows by reducing the amount of time spent on repetitive tasks. For example, a developer can use [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) to generate boilerplate code, which allows them to focus on more complex aspects of the project. This not only saves time but also minimizes frustration, leading to a more enjoyable coding experience.
 
 ### Enhanced Collaboration
 

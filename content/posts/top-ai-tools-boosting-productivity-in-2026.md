@@ -192,7 +192,7 @@ When selecting an AI productivity tool, consider the following factors:
 
 ## Conclusion
 
-AI productivity tools are revolutionizing the way we work, making it easier to manage tasks, collaborate with teams, and analyze data. Whether you choose [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID) for its versatility, Trello for its simplicity, or Microsoft 365 Copilot for its robust features, the right tool can significantly enhance your productivity.
+AI productivity tools are revolutionizing the way we work, making it easier to manage tasks, collaborate with teams, and analyze data. Whether you choose [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID) for its versatility, Trello for its simplicity, or Microsoft 365 [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) for its robust features, the right tool can significantly enhance your productivity.
 
 Embrace the future of work by incorporating these AI productivity tools into your daily routine. Explore their capabilities and see how they can transform your workflow.
 

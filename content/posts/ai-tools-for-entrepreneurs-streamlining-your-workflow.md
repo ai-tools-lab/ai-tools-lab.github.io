@@ -112,7 +112,7 @@ To help you decide which AI tools are best for your needs, here’s a comparison
     <td>Free; Paid plans start at $10/month</td>
   </tr>
   <tr>
-    <td>Jasper AI</td>
+    <td>[Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) AI</td>
     <td>Content Creation</td>
     <td>Content generation, SEO optimization</td>
     <td>Starting at $29/month</td>

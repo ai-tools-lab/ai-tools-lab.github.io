@@ -138,17 +138,17 @@ Here's a simple decision tree to help you make the right choice:
 graph TD;
     A[Choose AI Coding Tool] --> B{What languages do you use?}
     B --> |Multiple| C[Consider GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Codex]
-    B --> |30+ languages| D[Consider Tabnine]
+    B --> |30+ languages| D[Consider [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)]
     B --> |Specific| E[Consider Kite]
     A --> F{What features do you need?}
-    F --> |Suggestions| G[Consider GitHub Copilot or Tabnine]
+    F --> |Suggestions| G[Consider [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Tabnine]
     F --> |Documentation| H[Consider Kite]
     F --> |Natural Language| I[Consider Codex]
 ```
 
 ## Conclusion
 
-AI coding tools are revolutionizing the way developers work by streamlining tasks and enhancing productivity. From GitHub Copilot's contextual suggestions to Tabnine's personalized completions, these tools offer a host of features that can help developers write better code faster. Depending on your specific needs, any of these tools can provide significant improvements to your workflow.
+AI coding tools are revolutionizing the way developers work by streamlining tasks and enhancing productivity. From GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)'s contextual suggestions to Tabnine's personalized completions, these tools offer a host of features that can help developers write better code faster. Depending on your specific needs, any of these tools can provide significant improvements to your workflow.
 
 So, which AI coding tool will you choose to boost your productivity? Dive into the world of AI-enhanced coding and see how these tools can elevate your development experience. Start exploring today, and don't forget to share your thoughts and experiences in the comments below! 
 

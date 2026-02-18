@@ -140,7 +140,7 @@ Integrating AI coding tools into your existing workflow can be seamless and effe
 flowchart LR
     A[Start Coding] --> B{Choose AI Tool}
     B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Get Code Suggestions]
-    B -->|Tabnine| D[Receive Personalized Completions]
+    B -->|[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Receive Personalized Completions]
     B -->|Kite| E[Access Documentation]
     C --> F[Implement Code]
     D --> F

@@ -94,7 +94,7 @@ Here’s a quick comparison of the AI agents discussed above, highlighting their
     <th>Cons</th>
   </tr>
   <tr>
-    <td>ChatGPT Pro</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) Pro</td>
     <td>Communication and drafting</td>
     <td>Versatile, adaptive learning</td>
     <td>Requires supervision</td>
@@ -112,7 +112,7 @@ Here’s a quick comparison of the AI agents discussed above, highlighting their
     <td>Complexity in workflows</td>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Note-taking and documentation</td>
     <td>Enhances creativity, organization</td>
     <td>Requires Notion familiarity</td>

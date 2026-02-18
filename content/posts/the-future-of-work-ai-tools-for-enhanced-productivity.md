@@ -100,7 +100,7 @@ Notion is a versatile workspace that combines note-taking, project management, a
 
 ### Grammarly: Write with Confidence
 
-[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID) is an AI-powered writing assistant that helps users improve their writing by providing real-time grammar and style suggestions. Whether you’re drafting an email, creating a report, or writing a blog post, Grammarly can enhance your writing quality significantly.
+[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID) is an AI-powered writing assistant that helps users improve their writing by providing real-time grammar and style suggestions. Whether you’re drafting an email, creating a report, or writing a blog post, [Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID) can enhance your writing quality significantly.
 
 #### Pros
 - Improves writing clarity and style

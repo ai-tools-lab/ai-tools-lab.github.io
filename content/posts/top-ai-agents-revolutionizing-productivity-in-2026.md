@@ -128,13 +128,13 @@ Here’s a quick comparison table to help you evaluate these AI agents based on 
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>ChatGPT</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
     <td>Content Creation</td>
     <td>Text generation, brainstorming</td>
     <td>Free with limitations; Paid plans available</td>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Note-taking and Task Management</td>
     <td>Summarization, content suggestions</td>
     <td>Subscription required</td>
@@ -146,7 +146,7 @@ Here’s a quick comparison table to help you evaluate these AI agents based on 
     <td>Free with pro features</td>
   </tr>
   <tr>
-    <td>Microsoft Copilot</td>
+    <td>Microsoft [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Office Productivity</td>
     <td>Insights, suggestions, automation</td>
     <td>Requires Microsoft 365 subscription</td>
