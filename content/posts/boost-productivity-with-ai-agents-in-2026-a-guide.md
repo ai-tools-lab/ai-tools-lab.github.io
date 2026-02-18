@@ -1,10 +1,10 @@
 ---
-title: "Boost Productivity with AI Agents in 2026: A Guide"
+title: "The Complete Guide to AI Agent Productivity Tools in 2026"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-agents-productivity"]
-keywords: ["AI agents productivity"]
-description: "Discover how AI agents can enhance productivity in 2026 with practical tools and strategies to streamline your workflow and improve efficiency."
+tags: ["AI Agents", "productivity", "tools-guide"]
+keywords: ["AI agent productivity tools guide", "best AI agents 2026"]
+description: "A comprehensive guide to the best AI agent tools for productivity in 2026, with comparisons, pricing, and use cases."
 
 [params.cover]
   image = "/images/posts/boost-productivity-with-ai-agents-in-2026-a-guide.png"

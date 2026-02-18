@@ -1,10 +1,10 @@
 ---
-title: "Leveraging AI Agents for Enhanced Workplace Productivity"
+title: "Leveraging AI Agents for Remote Team Productivity"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-agents"]
-keywords: ["AI agents"]
-description: "Discover how AI agents can transform workplace productivity by automating tasks and enhancing collaboration for businesses of all sizes."
+tags: ["AI Agents", "remote-work", "collaboration"]
+keywords: ["AI agents remote teams", "remote productivity AI"]
+description: "How remote teams can leverage AI agents to stay productive, aligned, and collaborative across time zones."
 
 [params.cover]
   image = "/images/posts/leveraging-ai-agents-for-enhanced-workplace-productivity.png"

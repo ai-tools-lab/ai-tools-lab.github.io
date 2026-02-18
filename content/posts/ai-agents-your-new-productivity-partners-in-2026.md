@@ -1,10 +1,10 @@
 ---
-title: "AI Agents: Your New Productivity Partners in 2026"
+title: "AI Agents as Productivity Partners: A Practical Introduction"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-productivity-partners"]
-keywords: ["AI productivity partners"]
-description: "Discover how AI agents will transform your workflow in 2026, making them your indispensable productivity partners for efficiency and creativity."
+tags: ["AI Agents", "productivity", "getting-started"]
+keywords: ["AI productivity partners", "AI agents introduction"]
+description: "A beginner-friendly guide to using AI agents as productivity partners—what they are, how they work, and where to start."
 
 [params.cover]
   image = "/images/posts/ai-agents-your-new-productivity-partners-in-2026.png"

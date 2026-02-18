@@ -1,10 +1,10 @@
 ---
-title: "Automating Business Processes with AI: A Complete Guide"
+title: "Automating Business Processes with AI: A Step-by-Step Playbook"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-business-automation"]
-keywords: ["AI business automation"]
-description: "Discover how AI business automation can streamline operations, enhance productivity, and transform your business processes with our complete guide."
+tags: ["AI Automation", "Business Productivity", "how-to"]
+keywords: ["automate business processes AI", "AI automation playbook"]
+description: "A step-by-step playbook for automating your business processes with AI—from identifying opportunities to measuring ROI."
 
 [params.cover]
   image = "/images/posts/automating-business-processes-with-ai-a-complete-guide.png"

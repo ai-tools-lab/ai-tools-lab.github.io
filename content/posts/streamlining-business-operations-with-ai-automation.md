@@ -1,10 +1,10 @@
 ---
-title: "Streamlining Business Operations with AI Automation"
+title: "Streamlining Operations: AI Automation for Supply Chain and Logistics"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-automation-business"]
-keywords: ["AI automation business"]
-description: "Discover how AI automation can streamline business operations and enhance productivity for your organization."
+tags: ["AI Automation", "supply-chain", "operations"]
+keywords: ["AI automation supply chain", "AI logistics automation"]
+description: "How AI automation is streamlining supply chain and logistics operations—reducing delays, cutting costs, and improving accuracy."
 
 [params.cover]
   image = "/images/posts/streamlining-business-operations-with-ai-automation.png"

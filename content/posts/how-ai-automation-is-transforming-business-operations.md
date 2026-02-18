@@ -1,10 +1,10 @@
 ---
-title: "How AI Automation is Transforming Business Operations"
+title: "AI Automation 101: What It Is and Why Your Business Needs It"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-automation-in-business"]
-keywords: ["AI automation in business"]
-description: "Discover how AI automation in business is revolutionizing operations, enhancing efficiency, and driving growth across various industries."
+tags: ["AI Automation", "Business Productivity", "getting-started"]
+keywords: ["AI automation basics", "what is AI automation"]
+description: "A clear introduction to AI automation—what it means, how it works, and why businesses of every size should pay attention."
 
 [params.cover]
   image = "/images/posts/how-ai-automation-is-transforming-business-operations.png"

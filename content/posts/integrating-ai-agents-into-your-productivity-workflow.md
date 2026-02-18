@@ -1,10 +1,10 @@
 ---
-title: "Integrating AI Agents into Your Productivity Workflow"
+title: "Building an AI-Powered Productivity Stack with Agents"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "integrate-AI-agents"]
-keywords: ["integrate AI agents"]
-description: "Discover how to integrate AI agents into your productivity workflow to enhance efficiency, save time, and boost your performance."
+tags: ["AI Agents", "productivity-stack", "tools-guide"]
+keywords: ["AI productivity stack", "AI agent stack setup"]
+description: "How to build a complete AI-powered productivity stack using agents, from task management to content creation."
 
 [params.cover]
   image = "/images/posts/integrating-ai-agents-into-your-productivity-workflow.png"

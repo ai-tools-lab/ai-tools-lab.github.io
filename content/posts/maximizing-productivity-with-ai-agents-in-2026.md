@@ -1,10 +1,10 @@
 ---
-title: "Maximizing Productivity with AI Agents in 2026"
+title: "Maximizing Team Output with AI Agents: Strategies That Work"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-agents-productivity"]
-keywords: ["AI agents productivity"]
-description: "Explore how AI agents are revolutionizing productivity in 2026, enhancing efficiency and transforming workflows for individuals and businesses."
+tags: ["AI Agents", "team-productivity", "strategies"]
+keywords: ["AI agents team output", "maximize productivity AI"]
+description: "Proven strategies for maximizing team output using AI agents—from delegation frameworks to performance tracking."
 
 [params.cover]
   image = "/images/posts/maximizing-productivity-with-ai-agents-in-2026.png"

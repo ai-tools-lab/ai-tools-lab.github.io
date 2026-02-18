@@ -1,10 +1,10 @@
 ---
-title: "Integrating AI Agents into Your Business Strategy for Success"
+title: "AI Agents in Business Strategy: From Planning to Execution"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-business-strategy"]
-keywords: ["AI business strategy"]
-description: "Discover how to integrate AI agents into your business strategy to boost productivity and drive success."
+tags: ["AI Agents", "Business Productivity", "strategy"]
+keywords: ["AI agents business strategy", "AI strategic planning"]
+description: "How to incorporate AI agents into your business strategy—from planning and pilot programs to full-scale execution."
 
 [params.cover]
   image = "/images/posts/integrating-ai-agents-into-your-business-strategy-for-success.png"

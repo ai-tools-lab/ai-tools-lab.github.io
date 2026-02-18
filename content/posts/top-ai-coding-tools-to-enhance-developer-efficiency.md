@@ -1,10 +1,10 @@
 ---
-title: "Top AI Coding Tools to Enhance Developer Efficiency"
+title: "AI Code Review Tools: Catching Bugs Before They Ship"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-coding-tools"]
-keywords: ["AI coding tools"]
-description: "Discover the top AI coding tools that can enhance developer efficiency, streamline workflows, and improve code quality in your projects."
+tags: ["AI Coding Tools", "code-review", "quality"]
+keywords: ["AI code review tools", "automated bug detection AI"]
+description: "Explore AI-powered code review tools that catch bugs, enforce standards, and improve code quality before deployment."
 
 [params.cover]
   image = "/images/posts/top-ai-coding-tools-to-enhance-developer-efficiency.png"

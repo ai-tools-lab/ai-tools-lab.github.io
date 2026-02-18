@@ -1,10 +1,10 @@
 ---
-title: "How AI Can Optimize Team Collaboration and Productivity"
+title: "How AI Optimizes Cross-Functional Team Collaboration"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-optimize-team-collaboration"]
-keywords: ["AI optimize team collaboration"]
-description: "Discover how AI can optimize team collaboration and productivity, enhancing communication and workflow for better results in your organization."
+tags: ["Business Productivity", "cross-functional", "collaboration"]
+keywords: ["AI cross-functional collaboration", "AI team optimization"]
+description: "How AI tools break down silos and optimize collaboration between engineering, design, marketing, and other cross-functional teams."
 
 [params.cover]
   image = "/images/posts/how-ai-can-optimize-team-collaboration-and-productivity.png"

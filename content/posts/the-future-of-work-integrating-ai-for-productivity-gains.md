@@ -1,10 +1,10 @@
 ---
-title: "The Future of Work: Integrating AI for Productivity Gains"
+title: "AI Productivity Gains: What the Data Actually Shows"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-productivity-tools"]
-keywords: ["AI productivity tools"]
-description: "Discover how AI productivity tools are transforming the workplace, enhancing efficiency, and shaping the future of work."
+tags: ["Business Productivity", "research", "productivity"]
+keywords: ["AI productivity data research", "AI productivity statistics"]
+description: "What does the research say about AI productivity gains? A data-driven look at real numbers behind the hype."
 
 [params.cover]
   image = "/images/posts/the-future-of-work-integrating-ai-for-productivity-gains.png"

@@ -1,10 +1,10 @@
 ---
-title: "Choosing the Right AI Tools for Business Growth in 2026"
+title: "How to Choose the Right AI Tools for Your Business Size"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-tools-for-business"]
-keywords: ["AI tools for business"]
-description: "Discover the best AI tools for business growth in 2026 and learn how to choose the right ones to transform your operations and increase efficiency."
+tags: ["Business Productivity", "tool-selection", "strategy"]
+keywords: ["choosing AI tools business size", "AI tool selection guide"]
+description: "A framework for choosing the right AI tools based on your business size, budget, and technical maturity."
 
 [params.cover]
   image = "/images/posts/choosing-the-right-ai-tools-for-business-growth-in-2026.png"

@@ -1,10 +1,10 @@
 ---
-title: "The Future of Productivity: AI Tools You Need in 2026"
+title: "The AI Productivity Stack: Essential Tools You Need in 2026"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "future-AI-productivity-tools"]
-keywords: ["future AI productivity tools"]
-description: "Discover the future AI productivity tools set to revolutionize your workflow by 2026. Learn how they can enhance efficiency and effectiveness today!"
+tags: ["Business Productivity", "productivity-stack", "essentials"]
+keywords: ["AI productivity stack 2026", "essential AI tools"]
+description: "Build your ideal AI productivity stack for 2026—the essential tools for writing, coding, managing, and automating."
 
 [params.cover]
   image = "/images/posts/the-future-of-productivity-ai-tools-you-need-in-2026.png"

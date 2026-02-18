@@ -1,10 +1,10 @@
 ---
-title: "How AI Coding Tools Are Revolutionizing Software Development"
+title: "AI Coding Tools for Beginners: Where to Start in 2026"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-coding-tools"]
-keywords: ["AI coding tools"]
-description: "Discover how AI coding tools are transforming software development, enhancing productivity, and streamlining workflows for developers everywhere."
+tags: ["AI Coding Tools", "beginners", "getting-started"]
+keywords: ["AI coding tools beginners", "getting started AI coding"]
+description: "New to AI coding tools? This beginner's guide covers what they do, how to set them up, and which ones to try first."
 
 [params.cover]
   image = "/images/posts/how-ai-coding-tools-are-revolutionizing-software-development.png"

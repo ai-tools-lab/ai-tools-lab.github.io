@@ -1,10 +1,10 @@
 ---
-title: "The Best AI Coding Tools to Boost Developer Efficiency"
+title: "Best Free AI Coding Tools for Budget-Conscious Developers"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-coding-tools"]
-keywords: ["AI coding tools"]
-description: "Discover the top AI coding tools that enhance developer efficiency, streamline workflows, and boost productivity in your programming projects."
+tags: ["AI Coding Tools", "free-tools", "developer-tools"]
+keywords: ["free AI coding tools", "open source AI dev tools"]
+description: "The best free and open-source AI coding tools for developers who want powerful assistance without the subscription cost."
 
 [params.cover]
   image = "/images/posts/the-best-ai-coding-tools-to-boost-developer-efficiency.png"

@@ -1,10 +1,10 @@
 ---
-title: "The Rise of AI Coding Assistants: What to Expect in 2026"
+title: "The Rise of AI Coding Assistants: 2026 Trends and Predictions"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-coding-assistants"]
-keywords: ["AI coding assistants"]
-description: "Explore the future of AI coding assistants and discover what innovations we can expect by 2026 in this comprehensive guide."
+tags: ["AI Coding Tools", "trends", "predictions"]
+keywords: ["AI coding assistants 2026 trends", "future of AI coding"]
+description: "Key trends and predictions for AI coding assistants in 2026—multimodal input, agent-based coding, and beyond."
 
 [params.cover]
   image = "/images/posts/the-rise-of-ai-coding-assistants-what-to-expect-in-2026.png"

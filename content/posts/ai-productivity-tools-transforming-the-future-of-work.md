@@ -1,10 +1,10 @@
 ---
-title: "AI Productivity Tools: Transforming the Future of Work"
+title: "AI Productivity Tools: A Complete Category Breakdown"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-productivity-tools"]
-keywords: ["AI productivity tools"]
-description: "Discover how AI productivity tools are revolutionizing the workplace, enhancing efficiency, and transforming the future of work."
+tags: ["Business Productivity", "tool-categories", "overview"]
+keywords: ["AI productivity tools categories", "AI tool types explained"]
+description: "A complete breakdown of AI productivity tool categories—writing, scheduling, analytics, communication, and more."
 
 [params.cover]
   image = "/images/posts/ai-productivity-tools-transforming-the-future-of-work.png"

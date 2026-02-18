@@ -1,10 +1,10 @@
 ---
-title: "Top AI Coding Tools Transforming Software Development"
+title: "How AI Is Changing the Software Development Lifecycle"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-coding-tools"]
-keywords: ["AI coding tools"]
-description: "Discover the top AI coding tools revolutionizing software development and enhancing productivity for developers of all levels."
+tags: ["AI Coding Tools", "SDLC", "transformation"]
+keywords: ["AI software development lifecycle", "AI in SDLC"]
+description: "From requirements gathering to deployment—how AI tools are transforming every phase of the software development lifecycle."
 
 [params.cover]
   image = "/images/posts/top-ai-coding-tools-transforming-software-development.png"

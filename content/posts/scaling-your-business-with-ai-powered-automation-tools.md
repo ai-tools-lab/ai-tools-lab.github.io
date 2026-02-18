@@ -1,10 +1,10 @@
 ---
-title: "Scaling Your Business with AI-Powered Automation Tools"
+title: "Scaling from Startup to Enterprise with AI Automation"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-powered-automation"]
-keywords: ["AI-powered automation"]
-description: "Discover how AI-powered automation tools can streamline your business operations and drive growth. Learn the best tools for scaling your success."
+tags: ["AI Automation", "scaling", "Business Productivity"]
+keywords: ["scaling business AI automation", "AI automation growth"]
+description: "How to scale your business from startup to enterprise using AI automation—tools, timing, and architecture decisions."
 
 [params.cover]
   image = "/images/posts/scaling-your-business-with-ai-powered-automation-tools.png"

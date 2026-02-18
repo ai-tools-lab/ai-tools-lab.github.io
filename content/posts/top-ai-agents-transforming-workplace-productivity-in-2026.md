@@ -1,10 +1,10 @@
 ---
-title: "Top AI Agents Transforming Workplace Productivity in 2026"
+title: "7 Top AI Agents Reshaping the Workplace in 2026"
 date: 2026-02-17
 draft: false
-tags: ["ai-tools", "productivity", "AI-agents-productivity"]
-keywords: ["AI agents productivity"]
-description: "Discover the top AI agents revolutionizing workplace productivity in 2026, enhancing efficiency and collaboration for businesses of all sizes."
+tags: ["AI Agents", "workplace", "tool-reviews"]
+keywords: ["top AI agents 2026", "best workplace AI agents"]
+description: "A curated list of the 7 most impactful AI agents transforming how teams work in 2026, with feature breakdowns."
 
 [params.cover]
   image = "/images/posts/top-ai-agents-transforming-workplace-productivity-in-2026.png"
