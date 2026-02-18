@@ -1,0 +1,25 @@
+{
+  "tools": {
+    "ChatGPT": "https://chat.openai.com/?ref=AFFILIATE_ID",
+    "GitHub Copilot": "https://github.com/features/copilot?ref=AFFILIATE_ID",
+    "Notion AI": "https://www.notion.so/product/ai?ref=AFFILIATE_ID",
+    "Jasper": "https://www.jasper.ai/?ref=AFFILIATE_ID",
+    "Grammarly": "https://www.grammarly.com/?ref=AFFILIATE_ID",
+    "Midjourney": "https://www.midjourney.com/?ref=AFFILIATE_ID",
+    "DALL-E": "https://openai.com/dall-e?ref=AFFILIATE_ID",
+    "Cursor": "https://cursor.sh/?ref=AFFILIATE_ID",
+    "Replit": "https://replit.com/?ref=AFFILIATE_ID",
+    "Claude": "https://claude.ai/?ref=AFFILIATE_ID",
+    "Perplexity": "https://www.perplexity.ai/?ref=AFFILIATE_ID",
+    "Copy.ai": "https://www.copy.ai/?ref=AFFILIATE_ID",
+    "Synthesia": "https://www.synthesia.io/?ref=AFFILIATE_ID",
+    "Descript": "https://www.descript.com/?ref=AFFILIATE_ID",
+    "Otter.ai": "https://otter.ai/?ref=AFFILIATE_ID",
+    "Tabnine": "https://www.tabnine.com/?ref=AFFILIATE_ID",
+    "Codeium": "https://codeium.com/?ref=AFFILIATE_ID",
+    "Amazon CodeWhisperer": "https://aws.amazon.com/codewhisperer/?ref=AFFILIATE_ID",
+    "Copilot": "https://github.com/features/copilot?ref=AFFILIATE_ID"
+  },
+  "affiliate_id": "AFFILIATE_ID",
+  "note": "Replace AFFILIATE_ID in URLs with your actual affiliate tracking IDs when available"
+}

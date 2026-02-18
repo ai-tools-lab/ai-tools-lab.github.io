@@ -100,7 +100,7 @@ To help you make an informed decision, here’s a comparison of some popular AI 
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>Otter.ai</td>
+    <td>[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)</td>
     <td>Live transcription, meeting summaries</td>
     <td>Meetings and note-taking</td>
     <td>$12.99/month</td>
@@ -118,7 +118,7 @@ To help you make an informed decision, here’s a comparison of some popular AI 
     <td>Starting at $50/month</td>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Document generation, project management</td>
     <td>Documentation and collaboration</td>
     <td>$10/month</td>
@@ -134,3 +134,9 @@ Are you ready to elevate your workplace productivity with AI agents? Explore the
 ### Call to Action
 
 If you found this article helpful, share it with your network and explore more insights on AI tools at AI Tools Lab! Discover how you can leverage technology to boost your productivity and stay ahead in a fast-paced world.
+
+## 関連記事
+
+- [5 Must-Have AI Tools to Streamline Your Workflow in 2026](/posts/5-must-have-ai-tools-to-streamline-your-workflow-in-2026/)
+- [AI Agents vs. Traditional Productivity Tools: An Honest Comparison](/posts/ai-agents-vs-traditional-tools-which-enhances-productivity/)
+- [AI Agents as Productivity Partners: A Practical Introduction](/posts/ai-agents-your-new-productivity-partners-in-2026/)
