@@ -109,3 +109,17 @@ theme = "PaperMod"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# === Revenue Infrastructure ===
+# Google Analytics 4 - Set your GA4 Measurement ID
+# [params.analytics]
+#   google = "G-XXXXXXXXXX"
+
+# Google AdSense - Set your AdSense client ID and ad slot
+# [params.adsense]
+#   client = "ca-pub-XXXXXXXXXXXXXXXX"
+#   slot = "XXXXXXXXXX"
+
+# Newsletter - Buttondown (free: 100 subscribers)
+# [params.newsletter]
+#   buttondownUsername = "your-username"
