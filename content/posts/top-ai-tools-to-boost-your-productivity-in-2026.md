@@ -138,7 +138,7 @@ Here’s a quick comparison of the tools discussed above:
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Workspace management</td>
     <td>Notes, tasks, AI assistance</td>
     <td>Free + Premium options</td>
@@ -150,7 +150,7 @@ Here’s a quick comparison of the tools discussed above:
     <td>Free + Premium options</td>
   </tr>
   <tr>
-    <td>Grammarly</td>
+    <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
     <td>Writing assistance</td>
     <td>Grammar checks, tone adjustments</td>
     <td>Free + Premium options</td>

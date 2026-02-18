@@ -125,13 +125,13 @@ To help you choose the right AI coding tool for your development needs, here's a
     <td>Requires subscription</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Personalized code suggestions</td>
     <td>Free and Pro versions</td>
   </tr>
   <tr>
-    <td>Codeium</td>
+    <td>[Codeium](https://codeium.com/?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Real-time suggestions and debugging</td>
     <td>Free and subscription options</td>
@@ -181,7 +181,7 @@ As you explore these options, remember to assess your specific requirements and 
 
 ### Call to Action
 
-Ready to supercharge your coding efficiency? Start exploring these AI coding tools today! Try out GitHub Copilot, Tabnine, Codeium, DeepCode, or Sourcery and see how they can transform your development process. Share your experiences in the comments below!
+Ready to supercharge your coding efficiency? Start exploring these AI coding tools today! Try out [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, Codeium, DeepCode, or Sourcery and see how they can transform your development process. Share your experiences in the comments below!
 
 ## 関連記事
 

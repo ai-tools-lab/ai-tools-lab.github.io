@@ -63,7 +63,7 @@ Let's delve into some of the most popular AI coding tools that are transforming 
 - The free version has limited features.
 - May require time to learn and adapt to personal coding styles.
 
-**Use Case:** A software engineer developing a web application can utilize Tabnine to improve their coding speed by receiving tailored suggestions as they type.
+**Use Case:** A software engineer developing a web application can utilize [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) to improve their coding speed by receiving tailored suggestions as they type.
 
 #### 3. DeepCode
 
@@ -108,7 +108,7 @@ To help you understand the differences between these AI coding tools, here's a c
     <th>Integration</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Yes</td>
     <td>Multiple</td>
     <td>No</td>

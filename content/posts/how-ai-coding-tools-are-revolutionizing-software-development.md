@@ -77,7 +77,7 @@ To give you a clearer picture of the available AI coding tools, let's compare so
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Code suggestions, autocompletion</td>
     <td>General-purpose coding</td>
     <td>$10/month</td>

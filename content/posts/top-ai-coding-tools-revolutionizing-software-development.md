@@ -141,7 +141,7 @@ Here’s a quick comparison of the tools discussed:
     <td>Limited features, language support</td>
   </tr>
   <tr>
-    <td>Replit Ghostwriter</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Beginner coding</td>
     <td>Interactive experience, educational resources</td>
     <td>Limited to Replit, not for large projects</td>
