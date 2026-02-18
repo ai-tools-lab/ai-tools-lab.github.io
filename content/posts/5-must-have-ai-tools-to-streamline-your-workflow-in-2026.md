@@ -165,11 +165,11 @@ This integrated approach can save you hours every week and improve your overall 
 
 ```mermaid
 graph TD;
-    A[Start] --> B[Draft Ideas in Notion AI]
-    B --> C[Refine with Grammarly]
+    A[Start] --> B[Draft Ideas in [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)]
+    B --> C[Refine with [Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)]
     C --> D[Organize Tasks in Trello]
     D --> E[Automate with Zapier]
-    E --> F[Record Meetings with Otter.ai]
+    E --> F[Record Meetings with [Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)]
     F --> G[Complete Workflow]
 ```
 

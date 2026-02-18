@@ -226,7 +226,7 @@ Data Collection:
   - Pull social metrics from Buffer/Hootsuite
   - Pull financial data from QuickBooks/Xero
 ↓
-AI Step: Send all data to Claude API with prompt:
+AI Step: Send all data to [Claude](https://claude.ai/?ref=AFFILIATE_ID) API with prompt:
   "Analyze this week's business data. Provide:
    1. Executive summary (3 sentences)
    2. Key wins this week

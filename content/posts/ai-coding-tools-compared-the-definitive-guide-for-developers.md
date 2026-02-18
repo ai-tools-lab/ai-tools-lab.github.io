@@ -45,7 +45,7 @@ GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) remains t
 **Strengths:**
 - Best-in-class VS Code integration
 - [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Chat for in-editor Q&A
-- Copilot Workspace for planning and executing changes from GitHub Issues
+- [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Workspace for planning and executing changes from GitHub Issues
 - Enterprise features: code referencing filters, admin controls, audit logs
 - Vast training data from GitHub's repository ecosystem
 
@@ -73,7 +73,7 @@ The speed king. Supermaven's claim to fame is autocomplete latency — it's cons
 
 **Weaknesses:**
 - Smaller ecosystem and fewer integrations
-- Chat features are basic compared to Copilot or Cursor
+- Chat features are basic compared to Copilot or [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)
 - Less effective for niche languages
 - Newer product, smaller community
 
@@ -224,7 +224,7 @@ The open-source Devin alternative. OpenHands has a growing community and increas
 
 **Price:** Free (limited), $25/month (Core)
 
-[Replit](https://replit.com/?ref=AFFILIATE_ID) has evolved from a cloud IDE into a full AI-powered development platform. Describe what you want, and Replit generates a working application — complete with database, authentication, and deployment.
+[Replit](https://replit.com/?ref=AFFILIATE_ID) has evolved from a cloud IDE into a full AI-powered development platform. Describe what you want, and [Replit](https://replit.com/?ref=AFFILIATE_ID) generates a working application — complete with database, authentication, and deployment.
 
 **Strengths:**
 - Fastest path from idea to deployed app
@@ -332,7 +332,7 @@ When you have a well-defined task and want it done without human intervention, D
 
 Ask yourself these questions:
 
-1. **Do you want to stay in VS Code?** → GitHub Copilot
+1. **Do you want to stay in VS Code?** → [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
 2. **Do you want the most powerful AI editing experience?** → Cursor
 3. **Do you want autonomous coding?** → Devin (or OpenHands for budget)
 4. **Do you want to build apps from descriptions?** → Replit

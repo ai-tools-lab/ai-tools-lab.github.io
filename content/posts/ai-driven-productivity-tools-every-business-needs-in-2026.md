@@ -72,7 +72,7 @@ Let's dive into some of the most impactful AI productivity tools that businesses
 
 **Overview**: OpenAI's [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) is an AI language model that can generate high-quality content, assist with brainstorming, and even draft emails.
 
-**Use Case**: Content marketers can use ChatGPT to create blog posts, social media content, and email newsletters in a fraction of the time it would take manually.
+**Use Case**: Content marketers can use [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) to create blog posts, social media content, and email newsletters in a fraction of the time it would take manually.
 
 **Pros**:
 - Produces high-quality content quickly
@@ -153,7 +153,7 @@ To help you choose the right AI productivity tools for your business, here's a c
         <td>May require editing</td>
     </tr>
     <tr>
-        <td>Notion AI</td>
+        <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
         <td>Notes, databases, task management</td>
         <td>All-in-one workspace</td>
         <td>Performance may lag</td>

@@ -60,7 +60,7 @@ Let’s delve into some of the best AI coding tools currently available and how 
 - The free version has limited features compared to Pro.
 - Some users report that suggestions can be repetitive.
 
-**Use Case**: While building a Python application, Tabnine can predict the next lines of code based on your coding patterns, significantly speeding up the coding process.
+**Use Case**: While building a Python application, [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) can predict the next lines of code based on your coding patterns, significantly speeding up the coding process.
 
 ### 3. Kite
 
@@ -105,7 +105,7 @@ To help you make an informed decision, here’s a quick comparison of the AI cod
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Visual Studio Code, JetBrains</td>
     <td>No</td>
@@ -145,7 +145,7 @@ When selecting the right AI coding tool for your needs, consider the following f
 ```mermaid
 flowchart TD
     A[Choose Programming Language] --> B{Select AI Coding Tool}
-    B -->|GitHub Copilot| C[Focus on Code Completion]
+    B -->|GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Focus on Code Completion]
     B -->|Tabnine| D[Customizable Solutions]
     B -->|Kite| E[In-line Documentation]
     B -->|DeepCode| F[Code Quality Analysis]

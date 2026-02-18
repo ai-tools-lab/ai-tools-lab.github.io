@@ -100,7 +100,7 @@ Notion is a versatile workspace that combines note-taking, project management, a
 
 ### Grammarly: Write with Confidence
 
-Grammarly is an AI-powered writing assistant that helps users improve their writing by providing real-time grammar and style suggestions. Whether you’re drafting an email, creating a report, or writing a blog post, Grammarly can enhance your writing quality significantly.
+[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID) is an AI-powered writing assistant that helps users improve their writing by providing real-time grammar and style suggestions. Whether you’re drafting an email, creating a report, or writing a blog post, Grammarly can enhance your writing quality significantly.
 
 #### Pros
 - Improves writing clarity and style
@@ -122,7 +122,7 @@ Trello is a project management tool that uses boards, lists, and cards to help t
 
 ### Otter.ai: Transcribe and Collaborate
 
-Otter.ai is an AI transcription service that transcribes spoken words into text in real time. It’s particularly useful for meetings, interviews, and lectures. For example, during a team meeting, Otter can provide an instant transcript that can be shared with all participants for reference.
+[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID) is an AI transcription service that transcribes spoken words into text in real time. It’s particularly useful for meetings, interviews, and lectures. For example, during a team meeting, Otter can provide an instant transcript that can be shared with all participants for reference.
 
 #### Pros
 - Accurate transcriptions

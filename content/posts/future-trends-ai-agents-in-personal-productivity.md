@@ -112,7 +112,7 @@ With a plethora of AI agents available, selecting the right one can be daunting.
     <td>Teams looking to automate workflows</td>
   </tr>
   <tr>
-    <td>Notion AI</td>
+    <td>[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)</td>
     <td>Content creation, project management</td>
     <td>Creative teams needing collaboration tools</td>
   </tr>

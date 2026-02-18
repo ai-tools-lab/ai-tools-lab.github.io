@@ -110,7 +110,7 @@ When choosing an AI coding tool, it's essential to weigh their features, benefit
     <td>Free, Pro at $12/month</td>
   </tr>
   <tr>
-    <td>Replit Ghostwriter</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Collaborative coding</td>
     <td>Multiple languages supported</td>
     <td>$10/month</td>
@@ -131,9 +131,9 @@ To maximize the benefits of AI coding tools, developers can follow a structured 
 graph LR
 A[Start Coding] --> B{Choose AI Tool}
 B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Code Suggestions]
-B -->|Tabnine| D[Code Completion]
+B -->|[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)| D[Code Completion]
 B -->|Replit Ghostwriter| E[Collaborative Suggestions]
-B -->|Codeium| F[Real-Time Debugging]
+B -->|[Codeium](https://codeium.com/?ref=AFFILIATE_ID)| F[Real-Time Debugging]
 C --> G[Review Suggestions]
 D --> G
 E --> G

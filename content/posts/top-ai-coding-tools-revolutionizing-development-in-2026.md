@@ -70,7 +70,7 @@ Let's take a closer look at the top AI coding tools that are making waves in the
 
 ### 3. Replit Ghostwriter
 
-[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter provides real-time code suggestions and debugging help directly in the Replit IDE. It’s designed for collaborative projects and learning environments.
+[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter provides real-time code suggestions and debugging help directly in the [Replit](https://replit.com/?ref=AFFILIATE_ID) IDE. It’s designed for collaborative projects and learning environments.
 
 **Pros**:
 - Great for beginners with a user-friendly interface.
@@ -127,7 +127,7 @@ Here's a quick comparison to help you decide which AI coding tool fits your need
     <td>Context-aware suggestions</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Various IDEs</td>
     <td>Free/Paid</td>
@@ -141,7 +141,7 @@ Here's a quick comparison to help you decide which AI coding tool fits your need
     <td>Real-time collaboration</td>
   </tr>
   <tr>
-    <td>Codeium</td>
+    <td>[Codeium](https://codeium.com/?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Various IDEs</td>
     <td>Free/Paid</td>
@@ -163,7 +163,7 @@ To better understand how these tools can fit into your development workflow, her
 ```mermaid
 graph LR
 A[Start Coding] --> B{Choose AI Tool}
-B --> |GitHub Copilot| C[Contextual Suggestions]
+B --> |[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Contextual Suggestions]
 B --> |Tabnine| D[Personalized Code Completion]
 B --> |Replit Ghostwriter| E[Collaborative Coding]
 B --> |Codeium| F[Documentation Assistance]

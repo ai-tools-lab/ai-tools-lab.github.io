@@ -150,7 +150,7 @@ Selecting the right AI coding tool for your needs can be daunting given the arra
 
 ```mermaid
 graph TD;
-    A[Do you need real-time suggestions?] -->|Yes| B[Choose [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Tabnine];
+    A[Do you need real-time suggestions?] -->|Yes| B[Choose [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or [Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)];
     A -->|No| C[Do you want code analysis?];
     C -->|Yes| D[Choose CodeGuru or DeepCode];
     C -->|No| E[Choose Kite];

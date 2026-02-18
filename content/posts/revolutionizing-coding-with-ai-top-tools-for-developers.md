@@ -81,7 +81,7 @@ To help you choose the right AI coding tool for your needs, here’s a quick com
   <tr>
     <th>Feature</th>
     <th>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
-    <th>Tabnine</th>
+    <th>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</th>
     <th>Kite</th>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ graph TD;
 
 ### Conclusion
 
-AI coding tools are not just a trend; they are a significant advancement in how developers approach coding. By leveraging tools like GitHub Copilot, Tabnine, and Kite, developers can enhance their productivity, reduce errors, and even learn new coding techniques along the way. 
+AI coding tools are not just a trend; they are a significant advancement in how developers approach coding. By leveraging tools like [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, and Kite, developers can enhance their productivity, reduce errors, and even learn new coding techniques along the way. 
 
 If you haven’t already, now is the perfect time to explore these tools and integrate them into your development workflow. Start with a free trial of one of the tools mentioned, and see how it can transform your coding experience!
 

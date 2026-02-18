@@ -102,13 +102,13 @@ When considering which AI productivity tools to implement, it's essential to com
         <td>Free with paid plans</td>
     </tr>
     <tr>
-        <td>Otter.ai</td>
+        <td>[Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)</td>
         <td>Transcription</td>
         <td>Real-time transcription, shared notes</td>
         <td>Free with paid plans</td>
     </tr>
     <tr>
-        <td>Grammarly</td>
+        <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
         <td>Writing Assistance</td>
         <td>Grammar checks, style suggestions</td>
         <td>Free with premium options</td>

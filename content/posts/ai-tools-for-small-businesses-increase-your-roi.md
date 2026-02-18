@@ -66,7 +66,7 @@ Here’s a selection of AI tools that can significantly impact your small busine
 
 **Example Tool**: QuickBooks
 
-**Description**: QuickBooks uses AI to simplify bookkeeping, invoicing, and financial reporting, making financial management easier for small business owners.
+**[Descript](https://www.descript.com/?ref=AFFILIATE_ID)ion**: QuickBooks uses AI to simplify bookkeeping, invoicing, and financial reporting, making financial management easier for small business owners.
 
 **Pros**:
 - Streamlines financial processes, saving time and reducing errors.

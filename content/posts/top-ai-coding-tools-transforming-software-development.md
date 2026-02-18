@@ -78,7 +78,7 @@ Let’s explore some of the leading AI coding tools available today and how they
 **Pros**:
 - Excellent support for Python and JavaScript.
 - Integrates seamlessly with various IDEs.
-- Offers a "Kite Copilot" for in-depth completions.
+- Offers a "Kite [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)" for in-depth completions.
 
 **Cons**:
 - Limited language support compared to competitors.
@@ -91,8 +91,8 @@ Here's a quick comparison of the three AI coding tools we've discussed:
 <table>
     <tr>
         <th>Feature</th>
-        <th>GitHub Copilot</th>
-        <th>Tabnine</th>
+        <th>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
+        <th>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</th>
         <th>Kite</th>
     </tr>
     <tr>

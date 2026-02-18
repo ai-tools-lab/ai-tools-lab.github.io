@@ -89,7 +89,7 @@ GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) is a powe
 
 ### Tabnine
 
-Tabnine is another AI coding tool that focuses on code autocompletion. It's designed to improve developer productivity by predicting what you’re going to write next.
+[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID) is another AI coding tool that focuses on code autocompletion. It's designed to improve developer productivity by predicting what you’re going to write next.
 
 #### Pros:
 - **Fast Autocompletion**: Provides quick suggestions based on your coding habits.
@@ -111,7 +111,7 @@ DeepCode uses AI to perform in-depth code analysis, helping developers identify 
 
 ### Replit
 
-Replit is a collaborative coding platform that allows developers to work together in real-time. It comes with an integrated development environment (IDE) that supports various programming languages.
+[Replit](https://replit.com/?ref=AFFILIATE_ID) is a collaborative coding platform that allows developers to work together in real-time. It comes with an integrated development environment (IDE) that supports various programming languages.
 
 #### Pros:
 - **Learning Friendly**: Includes built-in tutorials and a supportive community.
@@ -129,14 +129,14 @@ graph TD;
     A[Do you need code suggestions?] -->|Yes| B[Are you a beginner?]
     A -->|No| E[Consider a tool like DeepCode for analysis]
     B -->|Yes| C[Try Replit for collaboration and learning]
-    B -->|No| D[GitHub Copilot or Tabnine for efficiency]
+    B -->|No| D[GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Tabnine for efficiency]
 ```
 
 ## Practical Use Cases for AI Coding Tools
 
 ### Enhancing Productivity with Code Suggestions
 
-Imagine you’re working late on a project, and you hit a wall trying to remember a syntax or function. With AI coding tools like GitHub Copilot, you can quickly get code suggestions that not only speed up your workflow but also help you learn as you go.
+Imagine you’re working late on a project, and you hit a wall trying to remember a syntax or function. With AI coding tools like [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), you can quickly get code suggestions that not only speed up your workflow but also help you learn as you go.
 
 ### Code Review Automation
 

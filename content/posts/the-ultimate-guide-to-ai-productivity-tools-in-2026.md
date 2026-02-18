@@ -51,13 +51,13 @@ The best productivity stacks cover all three pillars. Let's explore each.
 **[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** — If you already live in Notion, its AI features are a no-brainer. Summarize pages, generate action items from meeting notes, draft content within your existing workspace. Best for: teams already using Notion for knowledge management.
 
 #### Pro Tip: The Hybrid Approach
-Don't lock yourself into one writing tool. Use Claude for deep research and long-form pieces, [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) for quick ideation and diverse formats, and Jasper for polished marketing copy. The best writers in 2026 are tool-agnostic — they pick the right model for each task.
+Don't lock yourself into one writing tool. Use [Claude](https://claude.ai/?ref=AFFILIATE_ID) for deep research and long-form pieces, [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID) for quick ideation and diverse formats, and [Jasper](https://www.jasper.ai/?ref=AFFILIATE_ID) for polished marketing copy. The best writers in 2026 are tool-agnostic — they pick the right model for each task.
 
 ### Design & Visual Content
 
 **[Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) v7** — The reigning champion of AI image generation. V7's coherence improvements mean fewer weird hands and more photorealistic output. The new style references feature lets you maintain visual consistency across an entire brand campaign. Best for: hero images, social media visuals, concept art.
 
-**[DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4** — Tightly integrated with ChatGPT, [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4 excels at precise prompt following and text rendering within images. If you need specific layouts or text-heavy visuals, DALL-E is your best bet. Best for: infographics, images with text, product mockups.
+**[DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4** — Tightly integrated with [ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID), [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) 4 excels at precise prompt following and text rendering within images. If you need specific layouts or text-heavy visuals, [DALL-E](https://openai.com/dall-e?ref=AFFILIATE_ID) is your best bet. Best for: infographics, images with text, product mockups.
 
 **Canva AI** — Canva has transformed from a simple design tool into an AI-powered creative suite. Magic Design generates complete presentations, social posts, and documents from a simple text prompt. Best for: non-designers who need professional-quality output fast.
 
@@ -95,7 +95,7 @@ Don't lock yourself into one writing tool. Use Claude for deep research and long
 
 ### Knowledge Management
 
-**[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** — Beyond writing, Notion AI excels at organizing and surfacing information. Ask questions about your workspace and get answers drawn from your docs, databases, and pages. Best for: teams using Notion as their knowledge base.
+**[Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID)** — Beyond writing, [Notion AI](https://www.notion.so/product/ai?ref=AFFILIATE_ID) excels at organizing and surfacing information. Ask questions about your workspace and get answers drawn from your docs, databases, and pages. Best for: teams using Notion as their knowledge base.
 
 **Mem** — An AI-native note-taking app that automatically organizes and connects your notes. No folders, no tags — just write, and Mem figures out the relationships. Best for: individuals who hate organizing but need to find things fast.
 
@@ -143,7 +143,7 @@ Here are three recommended stacks for different use cases:
 
 ### The Startup Stack ($200–500/month)
 - **Writing:** Claude Pro + Jasper Starter
-- **Code:** Cursor Pro + GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
+- **Code:** [Cursor](https://cursor.sh/?ref=AFFILIATE_ID) Pro + GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)
 - **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Canva Pro
 - **Organization:** Linear + Notion Team + [Otter.ai](https://otter.ai/?ref=AFFILIATE_ID)
 - **Automation:** Zapier Professional + Make
@@ -151,7 +151,7 @@ Here are three recommended stacks for different use cases:
 ### The Enterprise Stack ($2,000+/month)
 - **Writing:** Claude Enterprise + Jasper Business
 - **Code:** [GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) Enterprise + Cursor Business
-- **Design:** Midjourney + Runway ML + Canva Enterprise
+- **Design:** [Midjourney](https://www.midjourney.com/?ref=AFFILIATE_ID) + Runway ML + Canva Enterprise
 - **Organization:** Asana Advanced + Glean + Slack AI
 - **Automation:** Make Enterprise + custom agents via LangChain
 - **Analytics:** Databricks AI + Julius Team

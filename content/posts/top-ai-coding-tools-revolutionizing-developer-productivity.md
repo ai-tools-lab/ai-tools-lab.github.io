@@ -98,13 +98,13 @@ Here’s a look at some of the leading AI coding tools available today:
     <th>Pricing</th>
   </tr>
   <tr>
-    <td>GitHub Copilot</td>
+    <td>[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</td>
     <td>Multiple</td>
     <td>Context-aware suggestions, Visual Studio Code integration</td>
     <td>Subscription-based</td>
   </tr>
   <tr>
-    <td>Tabnine</td>
+    <td>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</td>
     <td>30+</td>
     <td>Customizable suggestions, local model option</td>
     <td>Free with paid tiers</td>
@@ -137,7 +137,7 @@ Here's a simple decision tree to help you make the right choice:
 ```mermaid
 graph TD;
     A[Choose AI Coding Tool] --> B{What languages do you use?}
-    B --> |Multiple| C[Consider GitHub Copilot or Codex]
+    B --> |Multiple| C[Consider GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID) or Codex]
     B --> |30+ languages| D[Consider Tabnine]
     B --> |Specific| E[Consider Kite]
     A --> F{What features do you need?}

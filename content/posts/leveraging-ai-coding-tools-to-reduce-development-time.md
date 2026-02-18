@@ -83,7 +83,7 @@ To help you make an informed decision, here’s a quick comparison of the three 
   <tr>
     <th>Feature</th>
     <th>GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)</th>
-    <th>Tabnine</th>
+    <th>[Tabnine](https://www.tabnine.com/?ref=AFFILIATE_ID)</th>
     <th>Kite</th>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ Integrating AI coding tools into your existing workflow can be seamless and effe
 ```mermaid
 flowchart LR
     A[Start Coding] --> B{Choose AI Tool}
-    B -->|GitHub Copilot| C[Get Code Suggestions]
+    B -->|[GitHub Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID)| C[Get Code Suggestions]
     B -->|Tabnine| D[Receive Personalized Completions]
     B -->|Kite| E[Access Documentation]
     C --> F[Implement Code]
@@ -155,7 +155,7 @@ flowchart LR
 
 AI coding tools are transforming the way developers approach coding by automating tasks and providing valuable insights. By incorporating these tools into your development process, you can significantly reduce development time while enhancing the quality of your code.
 
-Now that you understand the benefits and functionalities of AI coding tools, it’s time to explore which tool best fits your needs. Whether you choose GitHub Copilot, Tabnine, or Kite, each has unique advantages that can help streamline your coding process.
+Now that you understand the benefits and functionalities of AI coding tools, it’s time to explore which tool best fits your needs. Whether you choose GitHub [Copilot](https://github.com/features/copilot?ref=AFFILIATE_ID), Tabnine, or Kite, each has unique advantages that can help streamline your coding process.
 
 ### Call to Action
 

@@ -96,7 +96,7 @@ Here’s a quick comparison table of the AI tools mentioned above:
     <th>Cons</th>
   </tr>
   <tr>
-    <td>ChatGPT</td>
+    <td>[ChatGPT](https://chat.openai.com/?ref=AFFILIATE_ID)</td>
     <td>Customer service, content generation</td>
     <td>Versatile, time-saving</td>
     <td>May produce inaccuracies</td>
@@ -108,7 +108,7 @@ Here’s a quick comparison table of the AI tools mentioned above:
     <td>Limited automation for complex tasks</td>
   </tr>
   <tr>
-    <td>Grammarly</td>
+    <td>[Grammarly](https://www.grammarly.com/?ref=AFFILIATE_ID)</td>
     <td>Writing enhancement</td>
     <td>Real-time feedback</td>
     <td>Premium features costly</td>
