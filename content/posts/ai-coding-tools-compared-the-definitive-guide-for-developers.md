@@ -124,7 +124,7 @@ Windsurf is [Codeium](https://codeium.com/?ref=AFFILIATE_ID)'s answer to [Cursor
 
 **Strengths:**
 - **Cascade** is genuinely impressive for autonomous multi-step tasks
-- Clean, fast UI that feels less cluttered than Cursor
+- Clean, fast UI that feels less cluttered than [Cursor](https://cursor.sh/?ref=AFFILIATE_ID)
 - Good free tier — more generous than Cursor's
 - Built-in terminal integration for AI-driven command execution
 - Strong support for web development workflows

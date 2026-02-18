@@ -127,7 +127,7 @@ Here’s a quick comparison table to help you understand the strengths and weakn
     <td>Real-time debugging, collaboration</td>
   </tr>
   <tr>
-    <td>Replit Ghostwriter</td>
+    <td>[Replit](https://replit.com/?ref=AFFILIATE_ID) Ghostwriter</td>
     <td>Collaborative coding</td>
     <td>Subscription-based</td>
     <td>Interactive coding, real-time feedback</td>
