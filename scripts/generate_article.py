@@ -48,7 +48,7 @@ Rules:
 - Write a compelling meta description (under 160 chars) as the FIRST line, prefixed with META:
 """
 
-TOPIC_GENERATION_PROMPT = """Generate 5 blog post topics about AI tools and productivity that would rank well in search in 2026.
+TOPIC_GENERATION_PROMPT = """Generate 10 unique blog post topics about AI tools and productivity that would rank well in search in 2026.
 Focus on current trends: AI agents, AI coding tools, AI automation, AI for business.
 
 For each topic provide:
